@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "!General Encyclopedia/Society/Professions/Steep.md",
+            "file": "!General Encyclopedia/Society/Professions/Artificers.md",
             "mode": "source",
             "source": false
           }
@@ -69,13 +69,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "!General Encyclopedia/Society/Professions/Steep.md",
+                "file": "!General Encyclopedia/Society/Professions/Artificers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
@@ -88,15 +88,15 @@
   },
   "active": "f11737ad5b2e7b25",
   "lastOpenFiles": [
-    "!General Encyclopedia/Society/Professions/Steep.md",
-    "!General Encyclopedia/Society/Professions/Rattlehand.md",
-    "!General Encyclopedia/Society/Professions/Lascar.md",
-    "!General Encyclopedia/Society/Professions/Hunter.md",
-    "!General Encyclopedia/Society/Professions/Horizoneer.md",
-    "!General Encyclopedia/Society/Professions/Corsair.md",
-    "!General Encyclopedia/Society/Professions/Char.md",
     "!General Encyclopedia/Society/Professions/Artificers.md",
-    "!General Encyclopedia/Technology/Modern Technology/Ancient Artifacts.md",
-    "!General Encyclopedia/Landscape Features/Wandering Ruins.md"
+    "!General Encyclopedia/Society/Professions/Tusker.md",
+    "!General Encyclopedia/Society/Professions/Steep.md",
+    "!General Encyclopedia/Society/Professions/Reaper.md",
+    "Short Stories/Farmland.md",
+    "!General Encyclopedia/Society/Professions/Char.md",
+    "!General Encyclopedia/Society/Professions/Corsair.md",
+    "!General Encyclopedia/Society/Professions/Hunter.md",
+    "!General Encyclopedia/Society/Professions/Lascar.md",
+    "!General Encyclopedia/Society/Professions/Rattlehand.md"
   ]
 }
