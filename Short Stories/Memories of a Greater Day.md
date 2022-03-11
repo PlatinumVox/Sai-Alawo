@@ -1,0 +1,2 @@
+#shortstory
+Abstraction memories

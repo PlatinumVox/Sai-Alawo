@@ -1,0 +1,4 @@
+**Trainers of the Modern World - Tuskers;**
+How to train a Wan-Martin? Well, you have to start the process when they're little more than a pup, before their pin-limbs are strong enough to pierce leather and training-guards. You feed them, you bathe them, you get them used to your voice and you hope against hope that they don't start seeing you as a meal, and if you survive the first few months or so you may just end up with a companion that'll tolerate taking orders.
+
+Tuskers are Alawoian beast-trainers, individuals who set their sights on taming the supposedly untameable. While many of them travel with a coterie of the common Alawo pets (anything from pangopods to calico slinks), a Tusker's real worth is measured in their ability to coax out the best from these companions, using their unique skills to benefit a crew as they float above the waves of ruined archiecture.

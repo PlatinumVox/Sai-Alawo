@@ -1,0 +1,1 @@
+Loss of someone stricken with Melding plague

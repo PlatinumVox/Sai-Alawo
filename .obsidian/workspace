@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "f2c5462cc8f8161c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d75b900b0d2970d8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Species/Beasts/Librico Ikthyo.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9e203b0a0ec275b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "3aa82cc7277297e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ed4f4c18eede241",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8146fe06bc580325",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "92b8335f917c3f73",
+    "type": "split",
+    "children": [
+      {
+        "id": "9225294e198be12a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f19843d2f0397024",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Species/Beasts/Librico Ikthyo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "d75b900b0d2970d8",
+  "lastOpenFiles": [
+    "Species/Beasts/Librico Ikthyo.md",
+    "Species/Beasts/Arrow-Tongue Jikari.md",
+    "Species/Ancient Descendants/Nephlim.md",
+    "Species/Ancient Descendants/Alboli.md",
+    "Species/Ancient Descendants/Kaltoran.md",
+    "!General Encyclopedia/Society/Professions/Rattlehand.md",
+    "!General Encyclopedia/Society/Professions/Steep.md",
+    "!General Encyclopedia/Society/Professions/Tusker.md",
+    "!General Encyclopedia/Society/Professions/Hunter.md",
+    "!General Encyclopedia/Society/Professions/Horizoneer.md"
+  ]
+}

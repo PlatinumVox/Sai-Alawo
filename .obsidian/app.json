@@ -1,0 +1,36 @@
+{
+  "spellcheck": true,
+  "spellcheckDictionary": [
+    "Frostmites",
+    "Biome",
+    "Sanasian",
+    "centre",
+    "Transmigrants",
+    "Kaltoran",
+    "Andictoria",
+    "Neph",
+    "glitchwarped",
+    "glitchspeakers",
+    "Nephilim",
+    "Nephilim",
+    "Nephilim",
+    "nephilim",
+    "Albolian",
+    "Alboli",
+    "dhāw",
+    "Ḑuwall",
+    "Alawo"
+  ],
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "attachmentFolderPath": "!Image Repository",
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "showUnsupportedFiles": true,
+  "legacyEditor": false,
+  "livePreview": true
+}
