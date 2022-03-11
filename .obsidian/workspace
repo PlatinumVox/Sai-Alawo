@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Species/Beasts/Librico Ikthyo.md",
+            "file": "Short Stories/God's Peak.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Species/Beasts/Librico Ikthyo.md",
+                "file": "Short Stories/God's Peak.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "d75b900b0d2970d8",
   "lastOpenFiles": [
-    "Species/Beasts/Librico Ikthyo.md",
+    "Short Stories/God's Peak.md",
     "Species/Beasts/Arrow-Tongue Jikari.md",
+    "Species/Beasts/Librico Ikthyo.md",
     "Species/Ancient Descendants/Nephlim.md",
     "Species/Ancient Descendants/Alboli.md",
     "Species/Ancient Descendants/Kaltoran.md",
     "!General Encyclopedia/Society/Professions/Rattlehand.md",
     "!General Encyclopedia/Society/Professions/Steep.md",
     "!General Encyclopedia/Society/Professions/Tusker.md",
-    "!General Encyclopedia/Society/Professions/Hunter.md",
-    "!General Encyclopedia/Society/Professions/Horizoneer.md"
+    "!General Encyclopedia/Society/Professions/Hunter.md"
   ]
 }
