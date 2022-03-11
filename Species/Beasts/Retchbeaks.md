@@ -7,12 +7,12 @@ With a strangling grip, Retchbeaks rarely attack but, if they do, they usually a
 
 Some rumors speak of black-furred Retchbeaks who feast on not simply the mortal remains of their victims but their spirits as well. 
 
-Sight:
+**Sight:**
 Bloody, ardent-like hand prints on the trees; sickly, naked
 skin and hungry eyes.
-Sound:
+**Sound:**
 A chilling cackle; a beak breaking dead meat and bones.
-Smell:
+**Smell:**
 Dried blood and old sweat.
-Taste:
+**Taste:**
 Juicy and nutritious tail, otherwise almost inedible.

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Species/Beasts/Retchbeaks.md",
+            "file": "Religions/Kaltoran Religion.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Species/Beasts/Retchbeaks.md",
+                "file": "Religions/Kaltoran Religion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "d75b900b0d2970d8",
   "lastOpenFiles": [
+    "Religions/Kaltoran Religion.md",
+    "Religions/Ḑuwall.md",
+    "Species/Beasts/Librico Ikthyo.md",
+    "Species/Beasts/Pangola.md",
     "Species/Beasts/Retchbeaks.md",
     "Species/Beasts/Tinker-Monkeys.md",
     "Species/Beasts/Wan-Martins.md",
     "Species/Ancient Descendants/Nephlim.md",
-    "Religions/Kaltoran Religion.md",
     "Locations/Panoply Station.md",
-    "Locations/Lamacarres.md",
-    "Short Stories/God's Peak.md",
-    "Short Stories/Life of Hermetic.md",
-    "Short Stories/Memories of a Greater Day.md"
+    "Locations/Lamacarres.md"
   ]
 }
