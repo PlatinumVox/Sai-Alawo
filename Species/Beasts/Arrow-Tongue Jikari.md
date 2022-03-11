@@ -6,11 +6,7 @@ Their tongue, when used against small and lightly-armoured targets, the jikari w
 
 
 Presence
-Sight:
-They leap from branch to branch like frogs. Scaled skin, wide mouths, small eyes with vertical pupils. Tongues are vivid and lash- like, with an an arrow-shaped end.
-Sound:
-Low croaking as they build anticipation. Whip-crack sounds when they launch their tongues.
-Smell:
-Like old pond-scum.
-Taste:
-Chewy, rubbery flesh with a hint of standing water.
+**Sight:** They leap from branch to branch like frogs. Scaled skin, wide mouths, small eyes with vertical pupils. Tongues are vivid and lash- like, with an an arrow-shaped end.
+**Sound:** Low croaking as they build anticipation. Whip-crack sounds when they launch their tongues.
+**Smell:** Like old pond-scum.
+**Taste:** Chewy, rubbery flesh with a hint of standing water.

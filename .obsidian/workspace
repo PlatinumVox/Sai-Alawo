@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "!General Encyclopedia/Society/Professions/Artificers.md",
+            "file": "Species/Beasts/Arrow-Tongue Jikari.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "!General Encyclopedia/Society/Professions/Artificers.md",
+                "file": "Species/Beasts/Arrow-Tongue Jikari.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "f11737ad5b2e7b25",
   "lastOpenFiles": [
-    "!General Encyclopedia/Society/Professions/Artificers.md",
-    "!General Encyclopedia/Society/Professions/Tusker.md",
-    "!General Encyclopedia/Society/Professions/Steep.md",
-    "!General Encyclopedia/Society/Professions/Reaper.md",
-    "Short Stories/Farmland.md",
-    "!General Encyclopedia/Society/Professions/Char.md",
-    "!General Encyclopedia/Society/Professions/Corsair.md",
-    "!General Encyclopedia/Society/Professions/Hunter.md",
-    "!General Encyclopedia/Society/Professions/Lascar.md",
-    "!General Encyclopedia/Society/Professions/Rattlehand.md"
+    "Species/Beasts/Arrow-Tongue Jikari.md",
+    "Species/Beasts/Wan-Martens.md",
+    "Species/Beasts/Vilera.md",
+    "Species/Beasts/Tinker-Monkeys.md",
+    "Species/Beasts/Retchbeaks.md",
+    "Species/Beasts/Pangola.md",
+    "Species/Beasts/Librico Ikthyo.md",
+    "Species/Ancient Descendants/Nephlim.md",
+    "Species/Ancient Descendants/Kaltoran.md",
+    "Species/Ancient Descendants/Alboli.md"
   ]
 }
