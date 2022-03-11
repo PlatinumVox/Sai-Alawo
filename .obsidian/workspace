@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d75b900b0d2970d8",
+        "id": "f11737ad5b2e7b25",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "!General Encyclopedia/Food/Edible Foods/Denya.md",
+            "file": "!General Encyclopedia/Society/Professions/Artificers.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "!General Encyclopedia/Food/Edible Foods/Denya.md",
+                "file": "!General Encyclopedia/Society/Professions/Artificers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "d75b900b0d2970d8",
+  "active": "f11737ad5b2e7b25",
   "lastOpenFiles": [
-    "!General Encyclopedia/Food/Edible Foods/Denya.md",
-    "!General Encyclopedia/Food/Non-Farming/Kaltoran Food.md",
-    "!General Encyclopedia/Food/Edible Foods/Cialua.md",
-    "!General Encyclopedia/Food/Edible Foods/Kol.md",
-    "!General Encyclopedia/Society/Holidays/March of the Juggler.md",
-    "Species/Beasts/Wan-Martens.md",
-    "-Archive-Trash/Melding Plague/Meldwarped.md",
-    "Species/Ancient Descendants/Alboli.md",
-    "Species/Ancient Descendants/Kaltoran.md",
-    "Species/Ancient Descendants/Nephlim.md"
+    "!General Encyclopedia/Society/Professions/Artificers.md",
+    "!General Encyclopedia/Technology/Modern Technology/Ancient Artifacts.md",
+    "!General Encyclopedia/Landscape Features/Wandering Ruins.md",
+    "-Archive-Trash/GravBoots.md",
+    "!General Encyclopedia/Technology/Modern Technology/Transport/Dirigible.md",
+    "!General Encyclopedia/Technology/Modern Technology/Transport/Damselflies.md",
+    "-Archive-Trash/Hovercycles.md",
+    "!General Encyclopedia/Technology/Modern Technology/Transport/Rickshaw.md",
+    "-Archive-Trash/Queer Symbolism.md",
+    "!General Encyclopedia/Society/Alboli- The Longest Smear Campaign.md"
   ]
 }
