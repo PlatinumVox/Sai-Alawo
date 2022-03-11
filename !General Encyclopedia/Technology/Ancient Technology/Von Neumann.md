@@ -1,1 +1,0 @@
-#plagueresistant #ancient

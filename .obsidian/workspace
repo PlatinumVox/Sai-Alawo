@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Languages/Nephilim Language.md",
+            "file": "Species/Ancient Descendants/Alboli.md",
             "mode": "source",
             "source": false
           }
@@ -69,14 +69,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Languages/Nephilim Language.md",
+                "file": "Species/Ancient Descendants/Alboli.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -88,15 +88,15 @@
   },
   "active": "d75b900b0d2970d8",
   "lastOpenFiles": [
-    "Languages/Nephilim Language.md",
+    "Species/Ancient Descendants/Alboli.md",
+    "Species/Ancient Descendants/Kaltoran.md",
+    "Species/Ancient Descendants/Nephlim.md",
+    "-Archive-Trash/Bissellivore.md",
+    "Locations/Lamacarres.md",
+    "Locations/Panoply Station.md",
     "Languages/Sanasian.md",
-    "-Archive-Trash/Energy Systems/Warped.md",
-    "Species/Beasts/Wan-Martins.md",
-    "Religions/Kaltoran Religion.md",
-    "Religions/Ḑuwall.md",
-    "Species/Beasts/Librico Ikthyo.md",
-    "Species/Beasts/Pangola.md",
-    "Species/Beasts/Retchbeaks.md",
-    "Species/Beasts/Tinker-Monkeys.md"
+    "Items/Snow Goggles.md",
+    "Items/dhāw.md",
+    "!General Encyclopedia/Technology/Ancient Technology/Worms.md"
   ]
 }
