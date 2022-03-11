@@ -4,6 +4,12 @@ Wan-Martins are many things - swift, voracious, smart and tenacious - but perhap
 
 To consume their captured prey a Wan-Martin will carve up their prey’s flesh with their needle sharp fore-limbs, once a section of meat is freed it will pick it up with their long, thick prehensile tongues into their mouth for digestion, to kill another day. Since their tongues are incredibly mobile and well-muscled, usually used to wrap around smaller prey and draw it close to the creature’s jaws. These tongues are also lined with delicate scent receptors, used to taste the air and allow the beasts to accurately track prey they can’t see.
 
+Wan "birthing frenzy" When a mother in a pack is about to give birth, pups come out feral and hungry so the rest of the pack goes hunting frenzy to bring back fresh kill for the pups. Cautious eyes are kept on mothers near civilization to keep the populous safe during frenzies.
+    
+2.  _[_7:13 PM_]_
+    
+    Wan Saliva preservation, they will store food to survive in an area longer
+
 Presence 
 Sight: Bursts of uncanny movement. Long twitching tongues. Coarse fur and smooth skin underneath. 
 Sound: The sharp impacts of their pin-like limbs. Hissing when they’re readying themselves to attack. Scraping and skittering if they move over metal. 

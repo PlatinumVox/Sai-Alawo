@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Religions/Kaltoran Religion.md",
+            "file": "Languages/Nephilim Language.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Religions/Kaltoran Religion.md",
+                "file": "Languages/Nephilim Language.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "d75b900b0d2970d8",
   "lastOpenFiles": [
+    "Languages/Nephilim Language.md",
+    "Languages/Sanasian.md",
+    "-Archive-Trash/Energy Systems/Warped.md",
+    "Species/Beasts/Wan-Martins.md",
     "Religions/Kaltoran Religion.md",
     "Religions/Ḑuwall.md",
     "Species/Beasts/Librico Ikthyo.md",
     "Species/Beasts/Pangola.md",
     "Species/Beasts/Retchbeaks.md",
-    "Species/Beasts/Tinker-Monkeys.md",
-    "Species/Beasts/Wan-Martins.md",
-    "Species/Ancient Descendants/Nephlim.md",
-    "Locations/Panoply Station.md",
-    "Locations/Lamacarres.md"
+    "Species/Beasts/Tinker-Monkeys.md"
   ]
 }
