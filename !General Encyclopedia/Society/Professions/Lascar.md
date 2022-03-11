@@ -6,7 +6,7 @@ These crew are know commonly throughout the world as Lascar(s), a word meaning s
 
 Modern airship crew are far different than portrayed in the books or films, they are not well dressed and suited officers but often harden men and woman in a cramped environment for days, on end in dangerous role where death and accidents are a sadly common.
 
-The outdoor (I.e work outside the airship often regular maintenance and repair of the airship fuselage) gear is odd and seems to be a mismatch of gear doubtless the crewman was form of the many non aligned nations during and before the great industrial war meaning that the gear was not to stand thought it possible that the crewman could have been a free agent working for pay form who ever paid him.
+The outdoor (I.e work outside the airship often regular maintenance and repair of the airship fuselage) gear is odd and seems to be a mismatch of gear doubtless the crewman was form of the many non aligned nations during and before the Great Mari-Dahani War meaning that the gear was not to stand thought it possible that the crewman could have been a free agent working for pay form who ever paid him.
 
 Never the less these are some features to look out for
 - Uniform
