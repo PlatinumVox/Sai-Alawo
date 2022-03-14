@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Species/Beasts/Wan-Martens.md",
+            "file": "Species/Beasts/Vilera.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Species/Beasts/Wan-Martens.md",
+                "file": "Species/Beasts/Vilera.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -79,8 +79,17 @@
                 "unlinkedCollapsed": false
               }
             }
+          },
+          {
+            "id": "3477f1f6a49b10d0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -88,6 +97,7 @@
   },
   "active": "d75b900b0d2970d8",
   "lastOpenFiles": [
+    "Species/Beasts/Vilera.md",
     "Species/Beasts/Wan-Martens.md",
     "-Archive-Trash/Melding Plague/Meldwarped.md",
     "Species/Ancient Descendants/Alboli.md",
@@ -96,7 +106,6 @@
     "-Archive-Trash/Bissellivore.md",
     "Locations/Lamacarres.md",
     "Locations/Panoply Station.md",
-    "Languages/Sanasian.md",
-    "Items/Snow Goggles.md"
+    "Languages/Sanasian.md"
   ]
 }
