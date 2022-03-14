@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Species/Beasts/Coastal Sea Jay.md",
+            "file": "!General Encyclopedia/Society/Organizations/The Order of the Shattered Mask.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Species/Beasts/Coastal Sea Jay.md",
+                "file": "!General Encyclopedia/Society/Organizations/The Order of the Shattered Mask.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "f11737ad5b2e7b25",
   "lastOpenFiles": [
+    "!General Encyclopedia/Society/Organizations/The Order of the Shattered Mask.md",
+    "!General Encyclopedia/Society/Untitled.md",
+    "!General Encyclopedia/Society/Professions/Resonants.md",
+    "!General Encyclopedia/Technology/Modern Technology/Ancient Artifacts.md",
     "Species/Beasts/Coastal Sea Jay.md",
     "Species/Beasts/Librico Ikthyo.md",
     "Species/Beasts/Pangola.md",
     "Species/Beasts/Vinrgues Whale.md",
     "Species/Beasts/Vilera.md",
-    "Species/Beasts/Tinker-Monkeys.md",
-    "Species/Beasts/Retchbeaks.md",
-    "Species/Beasts/Arrow-Tongue Jikari.md",
-    "!General Encyclopedia/Society/Professions/Lascar.md",
-    "!General Encyclopedia/Society/Professions/Reaper.md"
+    "Species/Beasts/Tinker-Monkeys.md"
   ]
 }

@@ -24,4 +24,13 @@ When artificers catalogue artifacts, they’re metaphorically dipping their toe 
 
 It’s something that every artificer thinks about, but it’s a risk that’s much more present when you’re working with powerful artifacts that take lots of energy to manipulate. For that to happen during basic cataloguing would take a mixture of negligence and inexperience that would be unlikely to happen in any reputable organization.
 
+Techspeaker Sub-Schools:
+Gravitus-Manipulation of gravitational and kinetic force.
+Amalgam-The combination of things and repair of nonliving objects.
+Medicus-Things relating to the posthuman body.
+Voltaic-Things relating to the manipulation of electrical energy.
+Thermic-Thing relating to the manipulation of heat and cold.
+Vitus-The manipulation of plants and other nonhuman organisms.
+<MORE LATER>
+
 #plagueresistant
