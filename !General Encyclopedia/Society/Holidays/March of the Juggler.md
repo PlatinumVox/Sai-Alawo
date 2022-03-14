@@ -1,5 +1,5 @@
 **History**
-In remembrance of their ancestors, Kaltorans partake in a march to the sea once a decade. In remembrance of the war a millenia ago which formed their ancestral memory bond from the Juggler Sea, the Kaltorans march in one unending line with families side by side, separating into different strata once married. This night is only partaken by the civilian populace.
+In remembrance of their ancestors, Kaltorans partake in a march to the sea once a decade, when the tide of the Juggler Sea briefly retreats and lowers. In remembrance of the war a millenia ago which formed their ancestral memory bond from the Juggler Sea, the Kaltorans march in one unending line with families side by side, separating into different strata once married. This night is only partaken by the civilian populace.
 
 **Activities**
 Families of all Kaltoran respects begin a march to the sea that ends on the day of the new year. This is often seen as a formative time in kaltoran youth. Nine months later the birth rate is often sparked in lieu of the celebrations.
