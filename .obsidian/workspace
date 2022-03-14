@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Species/Beasts/Vilera.md",
+            "file": "Species/Beasts/Coastal Sea Jay.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Species/Beasts/Vilera.md",
+                "file": "Species/Beasts/Coastal Sea Jay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "f11737ad5b2e7b25",
   "lastOpenFiles": [
+    "Species/Beasts/Coastal Sea Jay.md",
+    "Species/Beasts/Librico Ikthyo.md",
+    "Species/Beasts/Vinrgues Whale.md",
+    "Species/Beasts/Pangola.md",
     "Species/Beasts/Vilera.md",
     "Species/Beasts/Tinker-Monkeys.md",
     "Species/Beasts/Retchbeaks.md",
-    "Species/Beasts/Pangola.md",
-    "Species/Beasts/Librico Ikthyo.md",
     "Species/Beasts/Arrow-Tongue Jikari.md",
     "!General Encyclopedia/Society/Professions/Lascar.md",
-    "!General Encyclopedia/Society/Professions/Reaper.md",
-    "Species/Beasts/Wan-Martens.md",
-    "Species/Ancient Descendants/Nephlim.md"
+    "!General Encyclopedia/Society/Professions/Reaper.md"
   ]
 }
