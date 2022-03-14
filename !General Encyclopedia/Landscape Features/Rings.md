@@ -8,6 +8,10 @@ Archives since discovered have shown that the rings were only a small preliminar
 
 Many attempts have been made to reactivate the more intact segments but not once has it worked. In more recent times it was discovered that the interior holds extremely volatile and energy rich materials which have become incredibly valuable resources in some cultures, while in other cultures it is the highest crime to interfere with the rings and whatever spirituality they hold.
 
+**Presence**
+**Sight:** Large rings that often dominate the horizon of central Alawo
+**Sound:** Soft thump of metal and inner noises within.
+
 **What are the Rings' Functions?**
 Lore wise, it is unknown.
 However the true act is 3 fold.

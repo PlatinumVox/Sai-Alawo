@@ -2,9 +2,6 @@ A Pangolin variant living in symbiotic harmony with its environment, the Pangola
 
 **Presence** 
 **Sight**: Large animals covered in a dense thicket of greenery, three times taller than a humanoid 
-
-**Sound:** Large thumps as it moves or heavily shifting detritus as it moves over crumbing ruins or trees. 
-
+**Sound:** Large thumps as it moves or heavily shifting detritus as it moves over crumbing ruins or trees.
 **Smell:** Floral – a mixture of mosses, earthy tones and fresh flowers that permeate deep into the nasal cavity. 
-
 **Taste:** Pangola meat is most powerful quality appears to be its bizarre odor, which pungently can stink up the surrounding area. A hesitant nibble will reveal that it also will permeate the general flavor of the animal. Pangola meat is dark, with a sticky, stringy texture. The scales were just barely edible, with a crunch like a human fingernail.

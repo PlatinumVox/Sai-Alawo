@@ -5,10 +5,10 @@ Tinker-monkeys are well-adapted to the ruins, and need very little from the wind
 
 Certain tinker-monkey groups have keener minds than the average animal (possibly from artifact resonance), using the gear they steal and equipment they disassemble to construct original machines and sculptures.
 
-Presence
-Sight:
+**Presence**
+**Sight:**
 Limber bodies swinging through the trees.
-Sound:
+**Sound:**
 Chattering and soft hooting.
 
 Why Do We Call Them Monkeys?: This particular group of monkeys aren't monkeys at all. Maybe they're lemurs, or some other kind of vaguely simian beast. Maybe they're squirrels, or frogs, or something else entirely.
