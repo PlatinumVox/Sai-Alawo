@@ -4,38 +4,50 @@
 **Capital City**
 Andictoria 
 ![[Andictoria]]
-**Common Values**
-Societal Strata
-Very competitive and hierarchical, with a heavy focus on blood purity - how far a given Neph is removed from the “Pure-bloods”, ancient Neph that rule over their society.
 
-Rigid Hierarchy
--   Their leaders see themselves as the heroes of that war, some among the lower classes disagree, and regret or feel guilty about their part in the war.
+**The Triumvirate**
+There are no official titles among the Nephilim. Instead, there is a generally recognised pecking order based on individual genetics, prowess, and cunning. The Nephilim have a society of authority through power, generally derived from exceptional genes. 
 
--   Society is very rigid, with more provided to those at the top, although all have at least their basic need provided for.
+The Triumvirate are exceptional genetic specimens, smarter and stronger than lesser beings, and as such that are the rulers in the New Brood; they are the Nephilim “nobility” and only answer to the Devwi. Each Triumvirate controls a territory of the greater nation as a whole. Nephilim under the Triumvirate’s command are considered their subjects and must swear loyalty to them. Each Triumvirate usually has an inner circle of advisers and lieutenants who enforce the Triumvirate’s will.
 
-Public transport is minimal
-Minimal public transportation, green personal transport (bikes, scooters, cars, etc) are very common.
+**The Kaltoran Problem**
+According to most Nephilim citizens, the Kaltorans are a misguided, reckless, and frustrating ancestry. They refuse to sign nearly any agreements with the Nephilim, and if they ever do, they are more than happy to just disregard them as they see fit. They also
+have an utter disregard for the importance of money, preferring to barter for physical goods and services.
 
-Religion
--   Polytheistic
+Despite this constant friction, the Nephilim makes some effort to maintain a working relationship with the Kaltorans, motivated by their need to trade with the Kaltorans for raw materials such as food and minerals.
 
--   Sects believe in many gods, one god, no god, the planet, etc.
+**Chips and Banking**
+The economy of the Nephilim is vast and complex, with the majority of calculations done behind the scene by stock market supercomputers.
+Each bank of the Nephilim may issue its own currency, created by making loans. This has proved helpful: if a prominent bank goes bankrupt, it only collapses the part of the economy tied to its brand of currency rather than all of it. Chips (Ch), used for nearly
+all smaller transactions, are not technically currency but rather an indicator to which all currencies are compared. 
 
--   Focus on a clean technology and religion that respects the planet
-    
+The value of Chips is fixed to the value of energy, which is the main commodity of the Nephilim in the form of fuel. There is always demand for energy, and thus there is always demand for Chips. Because of the complexity of background transactions, Credit
+Chips are not simple minted coins when compared to the Rafan Trade Company. Each chip is a tiny computer that constantly buys and sells shares to maintain a stable value.
+Only a tiny fraction of the total economy is tracked on physical Chips; the vast majority exists in stocks and on computers as numbers. For that reason, bank cards are used for most transactions.
 
--   Treat the ruins of the old world as objects of respect, and avoid building near them when possible.
+**Ancestral Regulatory Law**
+At the inception of the **Board of Societal Management**, it was decided that agreement between private individuals would suffice for law and order. However, when the Nephilim came into contact with the other ancestories, the social order began to break down, since there was no way to stop coups by Alboli mercenaries or to battle Kaltoran piracy
+and other larger threats. 
 
--   Build museums, gardens, and the like to view and venerate the world that came before, more easily accessible to the higher castes.
+To combat these problems, the Board of Management decided that a formalised system of regulations would be necessary; they created article 924.6c, better known as Ancestral Regulatory Law.
 
--   Venerate the “Pure-bloods” as being closer to their ancestors.
+These laws apply only within the confines of Nepilim property, or claimed territory. There is nothing considered a crime, as such, only breaches in regulation, which are enforced with fines. Any breach, from murder to shoplifting, can be paid as a fine; if unable to pay, the offender is sentenced to forced indentured labour until they have worked enough to pay off the debt.
+
+The fine is determined not by the ethics of the crime, but by the economic
+cost of the crime. For example, killing a Kaltoran shopper who was going to spend an estimated 100ch and whose death has no other negative consequences is worth a 100ch fine. Killing a prominent CEO and causing a stock value loss of 25% could be worth millions. 
+
+A person can take out life insurance on their own life to inflate the
+consequence of causing their death. These fines are often left unpaid by non-Nephilim. Unpaid fines are doubled in value and applied as “dead or alive” bounties. Alboli
+mercenaries and Nephilim security contractors enforce these bounties, receiving a 50% commission, while the remaining 50% is paid to the victim of the breach (minus expenses).
+
+**Synth Steel**
+Living in underwater cities for over three hundred years has given the Kaltorans a surplus of ability and equipment for mining. Their stubborn refusal to sign any trade agreements with the Nephilim has pushed the Nephilim to develop Synthetic Steel, or Synth Steel for short.
+
+Although a pain to repair, this strong carbon polymer is an abundant resource, primarily used in buildings, small goods, and [[Dirigible]]s.
+
 
 **Clothing Traditions**
 ![[Dahani Fashion.png]]
-
-**Eating Habits**
-
-**Architecture Style**
 
 **Blood**
 An individual may possess one of several different colors of blood spread across the color spectrum of blues. This is known as the Hemocaste, and it is the basis of a stratified societal caste system that assigns social status based on blood purity; low-ranking Nephilim are regarded as "lowbloods", whereas high-ranking Neph are referred to as "purebloods". Different blood castes also have differing biological aspects such as purer bloods having thicker bodies and features, lower castes often thinner features when compared to higher castes.
@@ -50,3 +62,6 @@ An individual may possess one of several different colors of blood spread across
  As for individual city rulers, they are often those who have mixed blood lines but are still respected as efficient cogs in the burgeoning industrial machine of Dahani Triumvirate. 
 
 With the burgeoning industrial powers of the nation, the triumvirate directs its powers into large swaths of floating technology quickly directing this into lifting whole suburbs of cities into the sky above the lower castes connected by anchored hooks.
+
+Current Political Situations
+- Northern Sucession, Northern Trivumvirate wants to arm for war, Bring bacck the Good Ol Days

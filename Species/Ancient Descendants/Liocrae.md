@@ -10,9 +10,9 @@ While their favorite snack is plankton, algae, and other microorganisms present 
 **Pilots of an Ancient World**
 Originally designed to maintain the ecosystem and world of Alawo, worms continue their duty to this day and can be found in anything from;
 
--Massive Alboli walking cities, which were orignally ice management devices
+-Massive Alboli walking cities, which were originally ice management devices
 
--Smaller carapaces for maintainence of major ancient facilities
+-Smaller carapaces for maintenance of major ancient facilities
 
 -Communication stations floating in Pattern Juggler sea(s)
 
