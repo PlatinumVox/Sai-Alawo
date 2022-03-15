@@ -12,4 +12,9 @@ cities that carefully surround the remnants that were left long ago by the ancie
 **The Soup of Sex**
 
 .Nephilim are kind of the same but are able to sexually reproduce but with however many partners they choose in kind of soup
+
+
+Jer-Lich Nephilim
+
+Deci-Si Nephilim
 #Descendants #nephilim  
