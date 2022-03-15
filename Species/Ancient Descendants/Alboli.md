@@ -31,8 +31,7 @@ As the tensions rose between Exsilia and Auxilia, cracks began to form in the go
 **Nomad**
 During their early years of resettlement, many Alboli left their
 overcrowded roaming cities to become nomadic arctic hunters and gatherers,
-determined to take charge of their own destinies and to live by their wits and skill. Many of these Nomads have now moved to the White Gum Wastes
-system to again find a better life. 
+determined to take charge of their own destinies and to live by their wits and skill. Many of these Nomads have now moved to the White Gum Wastes closer to the ocean to again find a better life. 
 
 **Presence** 
 **Sight**: Much older, familial lineages often are more stocky
