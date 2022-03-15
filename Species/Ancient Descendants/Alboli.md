@@ -1,15 +1,102 @@
 ![[Alboli.png]]
 
-**Appearance**
-Skin colours: Skin colors are usually replillian in nature, greens, browns, etc.
-Distinctions: Smaller eyes than human average, Thickly bodied and muscled
+**Carved by the Ice**
+Though the changes from their ancestral human stock may be minimal in terms of
+appearance other than their thicker skin pockmarked with scales on major points of wear, they run far deeper than the surface - the Alboli excel in sheer survivability,
+with even their bodies  clinging tenaciously to the world after death. The poisons
+and plagues of the continent seem to pass them by, and even simpler hazards like
+spoiled food are easily ignored.
 
-**Personality**
+**The [[White Gum Wastes]]**
+Many Alboli still hold a strong connection to the wastes, a blazing cold reach of ruins poking through ice far to the north. It's not the current state of the reach that intrigues and pulls them back and shapes their society, but its history - in the pre-war era the desert played host to a huge empire of black and white stone worshipping and living within the ruins of the ancients, the greatest achievement of this now-scattered Alboli civilization who once spanned the continent in power.
 
-**Society**
-Alboli culture is very rigid with many heavily enforced laws. Very protective of their homes, few outsiders are able to visit their small and heavily fortified cities. Settlements have few businesses, as food and other supplies are distributed according to need.
+**The History of Us**
+For three hundred long years the Alboli was under the assumption that they were under a pogrom, any contact with Nephilim was a death sentence. Unexpectantly, the Nephilim extended an olive branch of first peaceful contact after nearly three hundred years.  This first contact created chaos, and the Alboli commanders (Casila Curia) struggled to relate to these new outsiders. 
 
-A lot changed for the Alboli after they made contact with the other races. The attraction of living a life of action has proven a strong incentive for many Alboli. Giving up their pursuit of a self-sustaining society, many now act as mercenaries and enforcers.
+Mere days after their first meeting, Nephilim triumvirate members began offering mercenary jobs to the Alboli. Over the course of that first year, almost two million Alboli deserted [[Hantin]] to join the Nephilim. Scrambling to control the situation, the Casila Curia issued an edict that all deserters could never return to [[Hantin]] and labeled them Exsilia, meaning exiled soldiers.
 
- Old grudges have made interactions with the Nephilim difficult, but the situation is currently stable. They enjoy a natural comradeship with the Kaltorans as they share similar goals despite their contrasting natures.
+This was an unpopular move, as many families had been lifted from poverty due to the resources sent back home by the Exsilia, despite being labelled Exsilia. In response, the government formed a Foreign Branch along with a new army of official Alboli mercenaries,
+the Auxilia. Large numbers of Alboli soldiers transferred from the Interior Branch to the Auxilia to become mercenaries. 
+
+**Exsilia versus Auxilia**
+As the tensions rose between Exsilia and Auxilia, cracks began to form in the governing body that remained in the north after the Long Nephilim-Alboli conflict and genocide. With these cracks, warlords were able to push through, splintering what remained of a governing body into warring factions of Khaganates.
+
+**Tribunal Law**
+The Alboli deals with all internal legal matters by military tribunal. Any officer or soldier who has committed a crime is brought before three high-ranking officers, who determine guilt and punishment. At times they order an investigation and make their decision based on its findings.
+
+Punishments can be quite harsh: death for treachery, and public whipping for negligence. When many Alboli deserted to become mercenaries, they were exiled as punishment. If an Exsilia is caught on [[Hantin]] , the punishment is death. Exsilia  are often under the authority of Nephilim regulatory law as they are no longer considered part of the Alboli army. deals with all internal legal matters by military tribunal.
+
+**Lady Vengeance; Khangnate Athene Kosta**
+Athene regards the Exsilia as misguided; she understand the reasons for their departure, but she does not accept disloyalty. She has offered a pardon to any Exsilia who wishes to enlist in her Auxilia; however, Exsilia who have outright refused this generous offer
+or have attacked the Alboli are branded traitors and deserters.
+
+**The Old Enemy**
+The Alboli accept the current peace with the New Brood as necessary for the continuation of life in the Alawo continent, but they have never forgotten or forgiven the Nephilim for their many atrocities in the Great Nephilim-Alboli For this reason Alboli and Nephilim
+rarely work together on anything.
+	**Strangeness of the Other**
+	Since the Nephilim are strange and the Alboli do not care to know them better, the Alboli frequently confuse the different factions of Nephilim. It is not uncommon for Alboli to accidentally kill Jer-Lich Nephilim, mistaking them for being Deci-Si. The Nephilim Triumvirate often overlook these incidents, as they do not value life all too highly.
+
+**Interior Branch**
+All of Alboli society is organized in a military fashion, including the economy and domestic leadership. The Interior Branch is by far the largest branch of the military, and aside from the police it has no combat function. Instead, the Interior Branch is responsible for managing the non-military operations of the Alboli, including production, health, education, services, agriculture, mining, welfare, and police. The Interior Branches of major Khaganates may prioritize certain functions over others.
+
+**Planned Economy**
+The officers of the Alboli manage their economy with military precision and mindset, and this has several **important implications:**
+First, all basic supplies are distributed according to need. Quartermasters of the Alboli create a list of requirements for their living needs and operation; in turn this list is given to the Interior Branch, which ensures that all needs are met.
+	**Exodus in Surplus**
+	In recent times, large numbers of Alboli have departed to the White Gum Wastes , and the Nephilim has provided the Alboli with significant resources. All this has led to surpluses for the first time in centuries. The families of Auxilia are first to receive these surpluses as a reward for their valuable service to the Alboli economy.
+
+**Ranking of Life Work**
+Within the Alboli command structure, rank directly reflects the number of soldiers under one’s command. Each tier of ranking has a primary officer and two deputy officers, called the first, second, and third of that rank. The first of each rank commands the full allotment of soldiers, but delegates command to their second and third officers.
+
+*The Tiers of Rank*
+» **Consul** commands a Branch of the Military
+» **Imperator** commands an army of 100,000
+» **Legate** commands a Alboli of 10,000
+» **Tribune** commands a cohort of 1,000
+» **Centurion** commands a centuria of 100
+» **Decanus** commands a contingent of 10
+
+One’s rank is usually preceded by a word that indicates what type of work that individual does. Some examples from officers serving in mercenary armies would be 2nd Mercenary Legate or 1st Mercenary Centurion.
+
+These military ranks apply to all members of the Alboli, including all non-military duties such as farming or food service. The foreman of a factory is likely to be called the 1st Factory Centurion, and his regional manager might be the 2nd Factory Tribune.
+
+Alboli who do not have an officer rank are simply referred to by their job. Some example salutations include Soldier, Medic, Specialist, Pilot, Farmer, Worker, and Cook.
+
+**Temperature of Life**
+.Alboli are the most "traditional" in terms of actually having gender, where theyre all born female but if theyre raised in cold theyre male but in warmth theyre female
+
+
+**==Sub Speciation ==**
+**Nomad**
+During their early years of resettlement, many Alboli left their
+overcrowded roaming cities to become nomadic arctic hunters and gatherers,
+determined to take charge of their own destinies and to live by their wits and skill. Many of these Nomads have now moved to the White Gum Wastes closer to the ocean to again find a better life. 
+
+**Presence** 
+**Sight**: 
+**Sound:** 
+**Smell:** 
+
+**Specialist**
+The Fractured Khaganate army has many specialists in addition to their regular
+soldiers. Specialists are trained in overcoming problems and obstacles
+by using technological expertise to find and exploit weaknesses in
+their enemies. They take their time in combat, analyzing the situation
+and applying their considerable skills as needed.
+
+**Presence** 
+**Sight**:
+**Sound:** 
+**Smell:** 
+
+**Mercenary**
+The Nephilim employ large numbers of Exsilia Alboli mercenaries to do their dirty work. They are strong and fearless expert warriors. Their reputation is such that they can often scare enemies into submission. In combat they commonly make use of Auto Fire weaponry to suppress and destroy their enemies.
+
+**Presence** 
+**Sight**:
+**Sound:** 
+**Smell:** 
+
+
+
 #Descendants #alboli 

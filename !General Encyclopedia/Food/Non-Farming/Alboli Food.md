@@ -1,5 +1,5 @@
 **Alboli Food**
-	Albolian cuisine incorporates a lot of fish,[[arctic char]], [[seal]], [[polar bear]] and [[caribou]]. There foods will often be consumed raw, frozen or dried. The foods, which are native to the region, are packed with the vitamins and nutrients people need to stay nourished in the harsh winter conditions.
+Albolian cuisine incorporates a lot of fish,[[arctic char]], [[seal]], [[polar bear]] and [[caribou]]. There foods will often be consumed raw, frozen or dried. The foods, which are native to the region, are packed with the vitamins and nutrients people need to stay nourished in the harsh winter conditions.
 
 
 **Migré Food**

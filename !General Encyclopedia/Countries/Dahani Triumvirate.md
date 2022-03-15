@@ -3,7 +3,7 @@
 ![[Dahani Triumvirate  Strata.png]]
 **Capital City**
 Andictoria 
-![[Andictoria Info]]
+![[Andictoria]]
 **Common Values**
 Societal Strata
 Very competitive and hierarchical, with a heavy focus on blood purity - how far a given Neph is removed from the “Pure-bloods”, ancient Neph that rule over their society.

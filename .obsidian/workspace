@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Religions/Light Liithos Mysticism.md",
+            "file": "Species/Ancient Descendants/Liocrae.md",
             "mode": "source",
             "source": false
           }
@@ -69,13 +69,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Religions/Light Liithos Mysticism.md",
+                "file": "Species/Ancient Descendants/Liocrae.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
@@ -88,15 +88,15 @@
   },
   "active": "f11737ad5b2e7b25",
   "lastOpenFiles": [
-    "Religions/Light Liithos Mysticism.md",
-    "Religions/Dark Liithos Mysticism.md",
-    "!General Encyclopedia/Society/Holidays/March of the Juggler.md",
-    "Religions/Followers of the Cycle.md",
-    "Religions/Ḑuwall.md",
-    "!General Encyclopedia/Society/Organizations/The Order of the Shattered Mask.md",
-    "!General Encyclopedia/Society/Untitled.md",
-    "!General Encyclopedia/Society/Professions/Resonants.md",
-    "!General Encyclopedia/Technology/Modern Technology/Ancient Artifacts.md",
-    "Species/Beasts/Coastal Sea Jay.md"
+    "Species/Ancient Descendants/Liocrae.md",
+    "!General Encyclopedia/Society/Modern Technology/Ancient Artifacts.md",
+    "!General Encyclopedia/Society/Professions/Artificers.md",
+    "Locations/Eastern Seas.md",
+    "Locations/Lamacarres.md",
+    "Locations/Western Ocean.md",
+    "Locations/White Gum Wastes.md",
+    "Short Stories/God's Peak.md",
+    "Locations/Major Cities/Kardash.md",
+    "Locations/Major Cities/Andictoria.md"
   ]
 }

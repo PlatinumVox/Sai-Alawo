@@ -2,8 +2,8 @@
 **Population Strata**
 ![[Khaganate of Sivik Strata.png]]
 **Capital City**
- Hantin
-![[Hantin Info]]
+ [[Hantin]]
+![[Hantin]]
 **Common Values**
 Societal Strata
 
