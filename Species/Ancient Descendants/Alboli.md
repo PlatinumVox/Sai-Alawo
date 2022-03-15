@@ -58,6 +58,7 @@ Within the Alboli command structure, rank directly reflects the number of soldie
 » **Decanus** commands a contingent of 10
 
 One’s rank is usually preceded by a word that indicates what type of work that individual does. Some examples from officers serving in mercenary armies would be 2nd Mercenary Legate or 1st Mercenary Centurion.
+
 These military ranks apply to all members of the Alboli, including all non-military duties such as farming or food service. The foreman of a factory is likely to be called the 1st Factory Centurion, and his regional manager might be the 2nd Factory Tribune.
 
 Alboli who do not have an officer rank are simply referred to by their job. Some example salutations include Soldier, Medic, Specialist, Pilot, Farmer, Worker, and Cook.
