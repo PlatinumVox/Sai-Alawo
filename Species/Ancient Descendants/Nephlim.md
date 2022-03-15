@@ -7,6 +7,7 @@ Largely motivated by a desire for personal success and shaped by social expectat
 Nephilim mostly live on large, crowded, and hastily constructed
 cities that carefully surround the remnants that were left long ago by the ancients that they now venerate. All of their cities have large central parks full of garish advertisements and shops, and surrounded by large [[Dirigible]] ports.
 
+**The Soup of Sex**
 
-to never return to the
+.Nephilim are kind of the same but are able to sexually reproduce but with however many partners they choose in kind of soup
 #Descendants #nephilim  

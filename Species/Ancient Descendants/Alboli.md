@@ -10,6 +10,8 @@ spoiled food are easily ignored.
 **The [[White Gum Wastes]]**
 Many Alboli still hold a strong connection to the wastes, a blazing cold reach of ruins poking through ice far to the north. It's not the current state of the reach that intrigues and pulls them back and shapes their society, but its history - in the pre-war era the desert played host to a huge empire of black and white stone worshipping and living within the ruins of the ancients, the greatest achievement of this now-scattered Alboli civilization who once spanned the continent in power.
 
+**Temperature of Life**
+.Alboli are the most "traditional" in terms of actually having gender, where theyre all born female but if theyre raised in cold theyre male but in warth theyre female
 
 
 **Presence** 

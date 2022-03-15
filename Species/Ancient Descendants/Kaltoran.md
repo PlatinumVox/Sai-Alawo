@@ -16,6 +16,10 @@ This push back inevitably led to the Kaltoran capture of now Nephilim held lands
 
 These 30 tribes lasted hundreds of years until an ideology of equality arose. These 30 tribes came together through war and equal representation to form the **General Kaltoran Caucus**, a representive body of the major cultural groups of the new Mari Nation.
 
+**Algaeic Reproduction**
+
+.they bscially have minor control over the alage in their skin and with that they can chose who they want to reproduce with and who gets pregnant
+
 
 
 #Descendants #kaltoran 
