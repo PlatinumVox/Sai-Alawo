@@ -50,12 +50,12 @@ In recent times, large numbers of Alboli have departed to the White Gum Wastes ,
 Within the Alboli command structure, rank directly reflects the number of soldiers under one’s command. Each tier of ranking has a primary officer and two deputy officers, called the first, second, and third of that rank. The first of each rank commands the full allotment of soldiers, but delegates command to their second and third officers.
 
 *The Tiers of Rank*
-» Consul commands a Branch of the Military
-» Imperator commands an army of 100,000
-» Legate commands a Alboli of 10,000
-» Tribune commands a cohort of 1,000
-» Centurion commands a centuria of 100
-» Decanus commands a contingent of 10
+» **Consul** commands a Branch of the Military
+» **Imperator** commands an army of 100,000
+» **Legate** commands a Alboli of 10,000
+» **Tribune** commands a cohort of 1,000
+» **Centurion** commands a centuria of 100
+» **Decanus** commands a contingent of 10
 
 One’s rank is usually preceded by a word that indicates what type of work that individual does. Some examples from officers serving in mercenary armies would be 2nd Mercenary Legate or 1st Mercenary Centurion.
 These military ranks apply to all members of the Alboli, including all non-military duties such as farming or food service. The foreman of a factory is likely to be called the 1st Factory Centurion, and his regional manager might be the 2nd Factory Tribune.
