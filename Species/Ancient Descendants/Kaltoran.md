@@ -16,4 +16,6 @@ This push back inevitably led to the Kaltoran capture of now Nephilim held lands
 
 These 30 tribes lasted hundreds of years until an ideology of equality arose. These 30 tribes came together through war and equal representation to form the **General Kaltoran Caucus**, a representive body of the major cultural groups of the new Mari Nation.
 
+
+
 #Descendants #kaltoran 
