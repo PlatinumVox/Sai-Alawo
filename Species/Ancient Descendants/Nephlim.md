@@ -82,9 +82,12 @@ Living in underwater cities for over three hundred years has given the Kaltorans
 
 Although a pain to repair, this strong carbon polymer is an abundant resource, primarily used in buildings, small goods, and [[Dirigible]]s.
 
-**The Soup of Sex**
+**The Soup of Breeding**
 
-.Nephilim are kind of the same but are able to sexually reproduce but with however many partners they choose in kind of soup
+ Nephilim are not gendered in the same way as the other ancestries; they do not often adhere to strict male and female reproductive distinctions.
+ 
+Those Nephilim who can reproduce often do so by laying eggs and having many Nephilim (even one that can lay eggs) fertilize the eggs by excreting their DNA in a mucus. Most Hybrids are born in this way.
+Those genus unable to naturally reproduce often immerse themselves in pools of mutagenic fluid to extract their DNA, enabling them to fertilize eggs of their partner(s).
 
 **==Sub Speciation ==**
 **Jer-Lich; Pureblood**

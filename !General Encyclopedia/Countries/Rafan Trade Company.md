@@ -3,7 +3,7 @@
 ![[Rafan Trade Company Population Strata.png]]
 **Capital City**
 Breachport
-![[Breachport Info]]
+![[Breachport]]
 **Common Values**
 Societal Strata
 

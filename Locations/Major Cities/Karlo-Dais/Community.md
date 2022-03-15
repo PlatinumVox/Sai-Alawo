@@ -1,3 +1,0 @@
-![[Karlodias.png]]
-
-#karlo-dais

@@ -13,7 +13,7 @@ Many Alboli still hold a strong connection to the wastes, a blazing cold reach o
 **The History of Us**
 For three hundred long years the Alboli was under the assumption that they were under a pogrom, any contact with Nephilim was a death sentence. Unexpectantly, the Nephilim extended an olive branch of first peaceful contact after nearly three hundred years.  This first contact created chaos, and the Alboli commanders (Casila Curia) struggled to relate to these new outsiders. 
 
-Mere days after their first meeting, Nephilim triumvirate members began offering mercenary jobs to the Alboli. Over the course of that first year, almost two million Alboli deserted Hantin to join the Nephilim. Scrambling to control the situation, the Casila Curia issued an edict that all deserters could never return to Hantin and labeled them Exsilia, meaning exiled soldiers.
+Mere days after their first meeting, Nephilim triumvirate members began offering mercenary jobs to the Alboli. Over the course of that first year, almost two million Alboli deserted [[Hantin]] to join the Nephilim. Scrambling to control the situation, the Casila Curia issued an edict that all deserters could never return to [[Hantin]] and labeled them Exsilia, meaning exiled soldiers.
 
 This was an unpopular move, as many families had been lifted from poverty due to the resources sent back home by the Exsilia, despite being labelled Exsilia. In response, the government formed a Foreign Branch along with a new army of official Alboli mercenaries,
 the Auxilia. Large numbers of Alboli soldiers transferred from the Interior Branch to the Auxilia to become mercenaries. 
@@ -24,27 +24,26 @@ As the tensions rose between Exsilia and Auxilia, cracks began to form in the go
 **Tribunal Law**
 The Alboli deals with all internal legal matters by military tribunal. Any officer or soldier who has committed a crime is brought before three high-ranking officers, who determine guilt and punishment. At times they order an investigation and make their decision based on its findings.
 
-Punishments can be quite harsh: death for treachery, and public whipping for negligence. When many Alboli deserted to become mercenaries, they were exiled as punishment. If an Exsilia is caught on Hantin , the punishment is death. Exsilia  are often under the authority of Nephilim regulatory law as they are no longer considered part of the Alboli army. deals with all internal legal matters by military tribunal.
+Punishments can be quite harsh: death for treachery, and public whipping for negligence. When many Alboli deserted to become mercenaries, they were exiled as punishment. If an Exsilia is caught on [[Hantin]] , the punishment is death. Exsilia  are often under the authority of Nephilim regulatory law as they are no longer considered part of the Alboli army. deals with all internal legal matters by military tribunal.
 
 **Lady Vengeance; Khangnate Athene Kosta**
 Athene regards the Exsilia as misguided; she understand the reasons for their departure, but she does not accept disloyalty. She has offered a pardon to any Exsilia who wishes to enlist in her Auxilia; however, Exsilia who have outright refused this generous offer
 or have attacked the Alboli are branded traitors and deserters.
 
 **The Old Enemy**
-The Alboli accept the current peace with the New Brood as necessary for the continuation of life in the Alboli continent, but they have never forgotten or forgiven the Nephilim for their many atrocities in the Great Nephilim-Alboli For this reason Alboli and Nephilim
+The Alboli accept the current peace with the New Brood as necessary for the continuation of life in the Alawo continent, but they have never forgotten or forgiven the Nephilim for their many atrocities in the Great Nephilim-Alboli For this reason Alboli and Nephilim
 rarely work together on anything.
-
-Since the Nephilim are strange and the Alboli do not care to know them better, the Alboli frequently confuse the different factions of Nephilim. It is not uncommon for Alboli to accidentally kill Jer-Lich Nephilim, mistaking them for being Deci-Si. The Nephilim
-often overlook these incidents, as they do not value life all too highly.
+	**Strangeness of the Other**
+	Since the Nephilim are strange and the Alboli do not care to know them better, the Alboli frequently confuse the different factions of Nephilim. It is not uncommon for Alboli to accidentally kill Jer-Lich Nephilim, mistaking them for being Deci-Si. The Nephilim Triumvirate often overlook these incidents, as they do not value life all too highly.
 
 **Interior Branch**
 All of Alboli society is organized in a military fashion, including the economy and domestic leadership. The Interior Branch is by far the largest branch of the military, and aside from the police it has no combat function. Instead, the Interior Branch is responsible for managing the non-military operations of the Alboli, including production, health, education, services, agriculture, mining, welfare, and police. The Interior Branches of major Khaganates may prioritize certain functions over others.
 
 **Planned Economy**
-The officers of the Alboli manage their economy with military precision and mindset, and this has several important implications:
+The officers of the Alboli manage their economy with military precision and mindset, and this has several **important implications:**
 First, all basic supplies are distributed according to need. Quartermasters of the Alboli create a list of requirements for their living needs and operation; in turn this list is given to the Interior Branch, which ensures that all needs are met.
-
-In recent times, large numbers of Alboli have departed to the White Gum Wastes , and the Nephilim has provided the Alboli with significant resources. All this has led to surpluses for the first time in centuries. The families of Auxilia are first to receive these surpluses as a reward for their valuable service to the Alboli economy.
+	**Exodus in Surplus**
+	In recent times, large numbers of Alboli have departed to the White Gum Wastes , and the Nephilim has provided the Alboli with significant resources. All this has led to surpluses for the first time in centuries. The families of Auxilia are first to receive these surpluses as a reward for their valuable service to the Alboli economy.
 
 **Ranking of Life Work**
 Within the Alboli command structure, rank directly reflects the number of soldiers under one’s command. Each tier of ranking has a primary officer and two deputy officers, called the first, second, and third of that rank. The first of each rank commands the full allotment of soldiers, but delegates command to their second and third officers.

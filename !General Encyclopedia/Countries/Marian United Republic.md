@@ -3,7 +3,7 @@
 ![[Marian United Republic Strata.png]]
 **Capital City**
  Karlo-Dais
-![[Karlo-Dais Info]]
+![[Karlo-Dais]]
 **Economy** 
 The Kaltoran economy is based on reciprocity rather than money. Items are traded directly for other items or for promises and favours. There is a general understanding that the exact value of the trade is unimportant; all that matters is that both parties in the trade feel that they have not been cheated.
 
