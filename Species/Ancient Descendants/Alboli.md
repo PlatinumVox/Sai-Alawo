@@ -1,15 +1,20 @@
 ![[Alboli.png]]
 
-**Appearance**
-Skin colours: Skin colors are usually replillian in nature, greens, browns, etc.
-Distinctions: Smaller eyes than human average, Thickly bodied and muscled
+**Carved by the Ice**
+Though the changes from their ancestral human stock may be minimal in terms of
+appearance other than their thicker skin pockmarked with scales on major points of wear, they run far deeper than the surface - the Alboli excel in sheer survivability,
+with even their bodies  clinging tenaciously to the world after death. The poisons
+and plagues of the continent seem to pass them by, and even simpler hazards like
+spoiled food are easily ignored.
 
-**Personality**
+**The [[White Gum Wastes]]**
+Many Alboli still hold a strong connection to the wastes, a blazing cold reach of ruins poking through ice far to the north. It's not the current state of the reach that intrigues and pulls them back and shapes their society, but its history - in the pre-war era the desert played host to a huge empire of black and white stone worshipping and living within the ruins of the ancients, the greatest achievement of this now-scattered Alboli civilization who once spanned the continent in power.
 
-**Society**
-Alboli culture is very rigid with many heavily enforced laws. Very protective of their homes, few outsiders are able to visit their small and heavily fortified cities. Settlements have few businesses, as food and other supplies are distributed according to need.
 
-A lot changed for the Alboli after they made contact with the other races. The attraction of living a life of action has proven a strong incentive for many Alboli. Giving up their pursuit of a self-sustaining society, many now act as mercenaries and enforcers.
 
- Old grudges have made interactions with the Nephilim difficult, but the situation is currently stable. They enjoy a natural comradeship with the Kaltorans as they share similar goals despite their contrasting natures.
+**Presence** 
+**Sight**:
+**Sound:** 
+**Smell:** 
+**Taste:** 
 #Descendants #alboli 

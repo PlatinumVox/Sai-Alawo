@@ -1,18 +1,12 @@
 ![[Nephilim.png]]
 
-**Appearance**
-Skin colours: Skin colors are usually human shades along with greys
-Distinctions: They have 2 ears that are pointed on the ends, Small nubs on temples.
+**Culture of Capital**
 
-**Personality**
+Largely motivated by a desire for personal success and shaped by social expectations, Nephilim culture is deceptively simple to outsiders. While most Nephilim are materially well provided for, nearly all present an image of greater personal success than they have actually achieved, especially around other Nephilim. No matter how impoverished, every Nephilim will have at least one set of expensive-looking clothes to wear in public. The most wealthy high bloods frequently throw extravagant parties to firmly establish public knowledge of their success
 
-**Society**
-Pure bloods are ancient Nephilim who fought for survival with the ancients as slaves are seen as pure blood descendants. Often large and imposing, they are a living reminder of their people’s past service to their creator, the Ancients.
+Nephilim mostly live on large, crowded, and hastily constructed
+cities that carefully surround the remnants that were left long ago by the ancients that they now venerate. All of their cities have large central parks full of garish advertisements and shops, and surrounded by large [[Dirigible]] ports.
 
-Hybrids are the diverse and mixed offspring of the pure bloods. Diverse in appearance and nature, Hybrids make up the bulk of the Nephilim population.
 
-Nephilim culture has very few laws and is only stabilized by the self-serving wills of its powerful leaders, who are largely unconcerned with the masses.
-
-While the Nephilim are easily the most powerful military force on the continent, they know that long-term survival and prosperity depends on their forming some kind of functional relationship with the other races – a feat that is incredibly difficult given their war history, old ties to Ancients, appearance, and brutal culture.
-
+to never return to the
 #Descendants #nephilim  
