@@ -4,7 +4,7 @@ Hull-iron rusts. Light bulbs fade. Engines cough and struggle. In a world of sal
 barter, nothing lasts forever… unless you have a good rattlehand on your side.
 
 A rattlehand is somewhere between an engineer, a blacksmith and an artist, able to use
-the scrap of the ruins to repair, reinforce and create. Many rattlehands excel in crafting
+the scrap of the [[ruins]] to repair, reinforce and create. Many rattlehands excel in crafting
 new and unique gear to sell to the people, perfectly suited to the troubles they face.
 
 **A Second-Hand World**

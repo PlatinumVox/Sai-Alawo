@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "!General Encyclopedia/Countries/Dahani Triumvirate.md",
+            "file": "!General Encyclopedia/Ancient Technology/Ruins.md",
             "mode": "source",
             "source": false
           }
@@ -69,13 +69,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "!General Encyclopedia/Countries/Dahani Triumvirate.md",
+                "file": "!General Encyclopedia/Ancient Technology/Ruins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
@@ -88,15 +88,15 @@
   },
   "active": "f11737ad5b2e7b25",
   "lastOpenFiles": [
+    "!General Encyclopedia/Ancient Technology/Ruins.md",
+    "!General Encyclopedia/Alawo.md",
+    "Species/Ancient Descendants/Liocrae.md",
+    "Species/Ancient Descendants/Kaltoran.md",
+    "Religions/Ḑuwall.md",
     "!General Encyclopedia/Countries/Dahani Triumvirate.md",
     "!General Encyclopedia/Countries/Keshi Free Territory.md",
     "!General Encyclopedia/Countries/Emirate of Biyaha.md",
     "!General Encyclopedia/Countries/Rafan Trade Company.md",
-    "!General Encyclopedia/Countries/Marian United Republic.md",
-    "!General Encyclopedia/Countries/Khaganate of Sivik.md",
-    "Species/Ancient Descendants/Alboli.md",
-    "Locations/White Gum Wastes.md",
-    "Locations/Western Ocean.md",
-    "Locations/Lamacarres.md"
+    "!General Encyclopedia/Countries/Marian United Republic.md"
   ]
 }

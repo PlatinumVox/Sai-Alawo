@@ -8,7 +8,7 @@ and plagues of the continent seem to pass them by, and even simpler hazards like
 spoiled food are easily ignored.
 
 **The [[White Gum Wastes]]**
-Many Alboli still hold a strong connection to the wastes, a blazing cold reach of ruins poking through ice far to the north. It's not the current state of the reach that intrigues and pulls them back and shapes their society, but its history - in the pre-war era the desert played host to a huge empire of black and white stone worshipping and living within the ruins of the ancients, the greatest achievement of this now-scattered Alboli civilization who once spanned the continent in power.
+Many Alboli still hold a strong connection to the wastes, a blazing cold reach of [[ruins]] poking through ice far to the north. It's not the current state of the reach that intrigues and pulls them back and shapes their society, but its history - in the pre-war era the desert played host to a huge empire of black and white stone worshipping and living within the [[ruins]] of the ancients, the greatest achievement of this now-scattered Alboli civilization who once spanned the continent in power.
 
 **The History of Us**
 For three hundred long years the Alboli was under the assumption that they were under a pogrom, any contact with Nephilim was a death sentence. Unexpectantly, the Nephilim extended an olive branch of first peaceful contact after nearly three hundred years.  This first contact created chaos, and the Alboli commanders (Casila Curia) struggled to relate to these new outsiders. 
