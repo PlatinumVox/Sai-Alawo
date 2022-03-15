@@ -5,6 +5,13 @@ The Kaltorans were given the mixed gift of genetic memories by their Archon crea
 back a memory is, the harder it is to retain. These often-foggy memories are slowly gained as the Kaltoran goes through puberty. This trait is a mixed blessing. The Kaltorans benefit from the skills and knowledge of their ancestors, but they are also cursed by
 terrible and haunting memories of their troubled history.
 
+**Enhanced Senses**
+The Kaltorans are gifted with an exceptional sense of hearing, heightened further during their generations of time in the darkness. Many older Kaltorans were born blind, but the bio-tech remedy is relatively simple, and most Kaltorans have perfect vision as well as
+exceptional hearing.
+
+**Long Lifespan**
+Due to exception genetic coding, Kaltorans have long natural lifespans. Maturing quickly and ageing slowly, they are in their prime for far longer. Their lifespan leads to large families and allows older Kaltorans to still work and fight. Unfortunately, due to their brutal history, many Dark Tribe Kaltorans never lived to their elder years. 
+
 **Spectres of the Past**
 Born with the genetic memories of their ancestors, Kaltorans
 are an innately gifted and flexible race. They are eager to make a
