@@ -1,7 +1,7 @@
 ![[Kaltoran.png]]
 **==Overview==**
 **Genetic Memories**
-The Kaltorans were given the mixed gift of genetic memories by their Archon creators. At conception, Kaltoran child has a mind seeded with memories from both parents, grandparents, great grandparents, and perhaps even older ancestors. For each generation
+At conception, Kaltoran child has a mind seeded with memories from both parents, grandparents, great grandparents, and perhaps even older ancestors. For each generation
 back a memory is, the harder it is to retain. These often-foggy memories are slowly gained as the Kaltoran goes through puberty. This trait is a mixed blessing. The Kaltorans benefit from the skills and knowledge of their ancestors, but they are also cursed by
 terrible and haunting memories of their troubled history.
 
