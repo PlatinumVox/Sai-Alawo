@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Species/Ancient Descendants/Liocrae.md",
+            "file": "Species/Ancient Descendants/Nephlim.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hermaprodidic",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Species/Ancient Descendants/Liocrae.md",
+                "file": "Species/Ancient Descendants/Nephlim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +88,15 @@
   },
   "active": "f11737ad5b2e7b25",
   "lastOpenFiles": [
-    "Species/Ancient Descendants/Liocrae.md",
-    "!General Encyclopedia/Alawo.md",
     "Species/Ancient Descendants/Nephlim.md",
-    "Species/Ancient Descendants/Kaltoran.md",
     "Species/Ancient Descendants/Alboli.md",
+    "Species/Ancient Descendants/Kaltoran.md",
+    "Species/Ancient Descendants/Liocrae.md",
+    "!General Encyclopedia/Countries/Dahani Triumvirate.md",
+    "!General Encyclopedia/Alawo.md",
     "Alboli.png.md",
     "!General Encyclopedia/Society/Modern Technology/Ancient Artifacts.md",
     "!General Encyclopedia/Society/Professions/Artificers.md",
-    "Locations/Eastern Seas.md",
-    "Locations/Lamacarres.md"
+    "Locations/Eastern Seas.md"
   ]
 }
