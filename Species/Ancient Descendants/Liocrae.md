@@ -1,6 +1,7 @@
 
 
-![[Worm 2.png]]**Liocrae**
+
+**Liocrae**
 
 The Ancients ran into Liocrae first– in nature, oversized razor clams. These Liocrae, know in short hand as Worms (like Alboli, Kaltorans, Nephilim, and every other Modified creatures) aren’t completely artificial.
 
@@ -36,9 +37,6 @@ Nephilim views them as people in a “sink or swim, personal responsibility” k
 
 The Alboli might be the most equitable towards worms. They believe that a person’s capabilities are a gift from the divine, and it’s their duty to help people express them. Worms have different needs and gifts, but the principle is the same, and the Khans make a genuine if imperfect attempt to accommodate them. Worms are also more common in the Alboli than in the Kaltoran heartland or Nephilim. You may see more than one in the same place in the large roaming cities. Worms attracted to kins some may say.
 
-**Life Beyond the Edge**
-It’s pretty much impossible to live beyond the exposed part of the surface. No sunlight means you can’t farm, but more importantly, all of the ancient machinery is ALIVE. You simply can’t avoid custodians like you can in the larger world. Try and put up a building and they’ll notice and tear it down. Additionally there is a risk of Radiation, chemical pollution and artifact pollution.
 
-Short hops under the “husk” are doable but very dangerous… one strategy is to go quietly and on foot, another strategy is to take the fastest airship you can and get in and out as quickly as possible. Speed, and “camouflage” are crucial.  Although you need to find the entrances that custodians will take in and out of the husk into the meat of the planet first to succeed in this idiotic feat.
 
 ![[Alawo Shell.png]]
