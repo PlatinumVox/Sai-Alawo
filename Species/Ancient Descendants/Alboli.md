@@ -8,7 +8,7 @@ and plagues of the continent seem to pass them by, and even simpler hazards like
 spoiled food are easily ignored.
 
 **The [[White Gum Wastes]]**
-Many Alboli still hold a strong connection to the wastes, a blazing cold reach of ruins poking through ice far to the north. It's not the current state of the reach that intrigues and pulls them back and shapes their society, but its history - in the pre-war era the desert played host to a huge empire of black and white stone worshipping and living within the ruins of the ancients, the greatest achievement of this now-scattered Alboli civilization who once spanned the continent in power.
+Many Alboli still hold a strong connection to the wastes, a blazing cold reach of [[ruins]] poking through ice far to the north. It's not the current state of the reach that intrigues and pulls them back and shapes their society, but its history - in the pre-war era the desert played host to a huge empire of black and white stone worshipping and living within the [[ruins]] of the ancients, the greatest achievement of this now-scattered Alboli civilization who once spanned the continent in power.
 
 **The History of Us**
 For three hundred long years the Alboli was under the assumption that they were under a pogrom, any contact with Nephilim was a death sentence. Unexpectantly, the Nephilim extended an olive branch of first peaceful contact after nearly three hundred years.  This first contact created chaos, and the Alboli commanders (Casila Curia) struggled to relate to these new outsiders. 
@@ -21,15 +21,6 @@ the Auxilia. Large numbers of Alboli soldiers transferred from the Interior Bran
 **Exsilia versus Auxilia**
 As the tensions rose between Exsilia and Auxilia, cracks began to form in the governing body that remained in the north after the Long Nephilim-Alboli conflict and genocide. With these cracks, warlords were able to push through, splintering what remained of a governing body into warring factions of Khaganates.
 
-**Tribunal Law**
-The Alboli deals with all internal legal matters by military tribunal. Any officer or soldier who has committed a crime is brought before three high-ranking officers, who determine guilt and punishment. At times they order an investigation and make their decision based on its findings.
-
-Punishments can be quite harsh: death for treachery, and public whipping for negligence. When many Alboli deserted to become mercenaries, they were exiled as punishment. If an Exsilia is caught on [[Hantin]] , the punishment is death. Exsilia  are often under the authority of Nephilim regulatory law as they are no longer considered part of the Alboli army. deals with all internal legal matters by military tribunal.
-
-**Lady Vengeance; Khangnate Athene Kosta**
-Athene regards the Exsilia as misguided; she understand the reasons for their departure, but she does not accept disloyalty. She has offered a pardon to any Exsilia who wishes to enlist in her Auxilia; however, Exsilia who have outright refused this generous offer
-or have attacked the Alboli are branded traitors and deserters.
-
 **The Old Enemy**
 The Alboli accept the current peace with the New Brood as necessary for the continuation of life in the Alawo continent, but they have never forgotten or forgiven the Nephilim for their many atrocities in the Great Nephilim-Alboli For this reason Alboli and Nephilim
 rarely work together on anything.
@@ -38,12 +29,6 @@ rarely work together on anything.
 
 **Interior Branch**
 All of Alboli society is organized in a military fashion, including the economy and domestic leadership. The Interior Branch is by far the largest branch of the military, and aside from the police it has no combat function. Instead, the Interior Branch is responsible for managing the non-military operations of the Alboli, including production, health, education, services, agriculture, mining, welfare, and police. The Interior Branches of major Khaganates may prioritize certain functions over others.
-
-**Planned Economy**
-The officers of the Alboli manage their economy with military precision and mindset, and this has several **important implications:**
-First, all basic supplies are distributed according to need. Quartermasters of the Alboli create a list of requirements for their living needs and operation; in turn this list is given to the Interior Branch, which ensures that all needs are met.
-	**Exodus in Surplus**
-	In recent times, large numbers of Alboli have departed to the White Gum Wastes , and the Nephilim has provided the Alboli with significant resources. All this has led to surpluses for the first time in centuries. The families of Auxilia are first to receive these surpluses as a reward for their valuable service to the Alboli economy.
 
 **Ranking of Life Work**
 Within the Alboli command structure, rank directly reflects the number of soldiers under one’s command. Each tier of ranking has a primary officer and two deputy officers, called the first, second, and third of that rank. The first of each rank commands the full allotment of soldiers, but delegates command to their second and third officers.
@@ -97,6 +82,8 @@ The Nephilim employ large numbers of Exsilia Alboli mercenaries to do their dirt
 **Sound:** 
 **Smell:** 
 
-
+**Major Nation States of the Alboli**
+[[Khaganate of Sivik]]
+[[Keshi Free Territory]]
 
 #Descendants #alboli 

@@ -1,9 +1,9 @@
 **Kaltoran Food**
-	Kaltoran cuisine incorporates a lot of spices, orange rice, mutton, a tomato-like fruit with an apple-like consistency called [[kol]], a citrus fruit known as [[denya]], ground vegetables, greens, fish and other seafood, and the meat of the [[Nil Nil]] meat antelope (tastes like venison). 
+	Kaltoran cuisine incorporates a lot of spices, orange rice, mutton, a tomato-like fruit with an apple-like consistency called [[Kol]], a citrus fruit known as [[Denya]], ground vegetables, greens, fish and other seafood, and the meat of the [[Nil Nil]] meat antelope (tastes like venison). 
 
 **Caro [[Nil Nil]]**
 
-A staple meal would be caro [[Nil Nil]], a meal served in a bowl with orange rice, slow-cooked [[Nil Nil]] meat, chopped and sautéed kol, a spicy sauce known as [[cialua]], and a testy yogurt close to tzatziki called [[nin dac]]. Another common meal is [[sauk]], a meal of thin, pulled egg noodles covered in [[cialua]], garnished with fish sauce (similar to that of Southeast Asia) dried garlic, and [[denya]] juice. 
+A staple meal would be caro [[Nil Nil]], a meal served in a bowl with orange rice, slow-cooked [[Nil Nil]] meat, chopped and sautéed kol, a spicy sauce known as [[Cialua]], and a testy yogurt close to tzatziki called [[nin dac]]. Another common meal is [[sauk]], a meal of thin, pulled egg noodles covered in [[Cialua]], garnished with fish sauce (similar to that of Southeast Asia) dried garlic, and [[Denya]] juice. 
 
 **Pastry**
 

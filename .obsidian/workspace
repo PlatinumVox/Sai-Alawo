@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Species/Ancient Descendants/Nephlim.md",
+            "file": "Species/Ancient Descendants/Liocrae.md",
             "mode": "source",
             "source": false
           }
@@ -69,13 +69,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Species/Ancient Descendants/Nephlim.md",
+                "file": "Species/Ancient Descendants/Liocrae.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
@@ -88,15 +88,15 @@
   },
   "active": "f11737ad5b2e7b25",
   "lastOpenFiles": [
-    "Species/Ancient Descendants/Nephlim.md",
     "Species/Ancient Descendants/Liocrae.md",
-    "Species/Ancient Descendants/Alboli.md",
-    "!General Encyclopedia/Society/Modern Technology/Ancient Artifacts.md",
-    "!General Encyclopedia/Society/Professions/Artificers.md",
-    "Locations/Eastern Seas.md",
-    "Locations/Lamacarres.md",
-    "Locations/Western Ocean.md",
-    "Locations/White Gum Wastes.md",
-    "Short Stories/God's Peak.md"
+    "!General Encyclopedia/Ancient Technology/Ruins.md",
+    "!General Encyclopedia/Alawo.md",
+    "Species/Ancient Descendants/Kaltoran.md",
+    "Religions/Ḑuwall.md",
+    "!General Encyclopedia/Countries/Dahani Triumvirate.md",
+    "!General Encyclopedia/Countries/Keshi Free Territory.md",
+    "!General Encyclopedia/Countries/Emirate of Biyaha.md",
+    "!General Encyclopedia/Countries/Rafan Trade Company.md",
+    "!General Encyclopedia/Countries/Marian United Republic.md"
   ]
 }
