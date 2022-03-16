@@ -4,17 +4,7 @@
 **Capital City**
 Breachport
 ![[Breachport]]
-**Common Values**
-Societal Strata
 
-
-Rigid Hierarchy
-- 
-Public 
-
-
-Religion
--   
 **Clothing Traditions**
 ![[Rafanese Fashion.png]]
 **Eating Habits**

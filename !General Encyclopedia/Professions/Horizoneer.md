@@ -1,5 +1,5 @@
 Part scholar, part explorer, horizoneers make it their business to learn as much about
-the crumbling ruins as possible. They root out its secrets, study its beasts and integrate almost seamlessly into its manifold cultures, mimicking even the most novel customs with ease.
+the crumbling [[ruins]] as possible. They root out its secrets, study its beasts and integrate almost seamlessly into its manifold cultures, mimicking even the most novel customs with ease.
 Many horizoneers also take on the task of disseminating this gathered knowledge as effectively as possible; sometimes through the medium of songs and poems, sometimes
 lectures and manuscripts. If there’s one thing every horizoneer has in common, it’s a
 way with words.
