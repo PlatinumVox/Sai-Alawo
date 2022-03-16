@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "!General Encyclopedia/Alawo.md",
+            "file": "Species/Ancient Descendants/Liocrae.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "hermaprodidic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "!General Encyclopedia/Alawo.md",
+                "file": "Species/Ancient Descendants/Liocrae.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +89,8 @@
   },
   "active": "f11737ad5b2e7b25",
   "lastOpenFiles": [
-    "!General Encyclopedia/Alawo.md",
     "Species/Ancient Descendants/Liocrae.md",
+    "!General Encyclopedia/Alawo.md",
     "Species/Ancient Descendants/Nephlim.md",
     "Species/Ancient Descendants/Kaltoran.md",
     "Species/Ancient Descendants/Alboli.md",
