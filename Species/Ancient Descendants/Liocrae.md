@@ -1,6 +1,3 @@
-
-
-
 **Liocrae**
 
 The Ancients ran into Liocrae first– in nature, oversized African Snails. These Liocrae, know in short hand as snails (like Alboli, Kaltorans, Nephilim, and every other Modified creatures) aren’t completely artificial.
@@ -35,3 +32,29 @@ Kaltoran culture tends to characterize them as big children. They’re not child
 Nephilim views them as people in a “sink or swim, personal responsibility” kind of way. snails are obligated to figure it out like any other person– they get what they deserve, what they earn. Pretty hard to “make it” in Nephilim if you can’t speak or sign a contract… yet, snails’ value as laborers makes Nephilim loathe to let them go to “waste”. With the help of sympathetic and/or enterprising caretakers, they often end up doing temp labor, especially in the mines and railroads. Not being able to enter into many agreements keeps them on the periphery of society, but it also protects them from the worst exploitation– and mercifully, there are very few snails in Dahani Triumvirate to begin with. Few enough to count on your fingers, of which the average Nephilim only have 6.
 
 The Alboli might be the most equitable towards snails. They believe that a person’s capabilities are a gift from the divine, and it’s their duty to help people express them. snails have different needs and gifts, but the principle is the same, and the Khans make a genuine if imperfect attempt to accommodate them. snails are also more common in the Alboli than in the Kaltoran heartland or Nephilim. You may see more than one in the same place in the large roaming cities. snails attracted to their kins some may say.
+
+![[Liocrae.png]]
+
+**==Sub Speciation ==**
+**Jer-Lich; Pureblood**
+
+**Presence** 
+**Sight**: Solid build
+**Sound:** 
+**Smell:** 
+
+**Deci-Si; Hybrid**
+
+
+**Presence** 
+**Sight**:
+**Sound:** 
+**Smell:** 
+
+**Ferals; Low-Bloods**
+
+
+**Presence** 
+**Sight**:
+**Sound:** 
+**Smell:** 

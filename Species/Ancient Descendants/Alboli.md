@@ -50,6 +50,7 @@ Alboli who do not have an officer rank are simply referred to by their job. Some
 **Temperature of Life**
 .Alboli are the most "traditional" in terms of actually having gender, where theyre all born female but if theyre raised in cold theyre male but in warmth theyre female
 
+![[ALBOLI SKETCH.png]]
 
 **==Sub Speciation ==**
 **Nomad**

@@ -41,11 +41,11 @@ many families have turned murderous feuds into competitive rivalries.
 The Kaltorans are in many ways a broken ancestry; their gift of genetic memory has become a curse due to their violent past. As such, they sympathize with other broken ancestor races, one of which being the Mechanoids. Where other races kill Mechanoids without thought the Kaltorans wish to understand them. But this curiosity won’t stop
 them from killing a Mechanoid if it puts them or their family in danger.
 
-
-
 **Algaeic Reproduction**
 
 .they basically have minor control over the alage in their skin and with that they can chose who they want to reproduce with and who gets pregnant
+
+![[KALTORAN SKETCH.png]]
 
 **==Sub Speciation ==**
 **Founder**

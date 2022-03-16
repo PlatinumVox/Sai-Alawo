@@ -45,6 +45,8 @@ The Devwi is rarely seen, and its exact nature is largely unknown. But none can 
  
 Those Nephilim who can reproduce often do so by laying eggs and having many Nephilim (even one that can lay eggs) fertilize the eggs by excreting their DNA in a mucus. Most Hybrids are born in this way. Those whose genus unable to naturally reproduce often immerse themselves in pools of mutagenic fluid to extract their DNA, enabling them to fertilize eggs of their partner(s).
 
+![[NEPHILIM SKETCH.png]]
+
 **==Sub Speciation ==**
 **Jer-Lich; Pureblood**
 Some Nephilim have survived since the Great Alboli-Nephilim War, while others are clones and purebred offspring. The Purebloods are perfect specimens of their original, Devwi-designed form. Each Pureblood genus has been engineered for a specific wartime purpose. Most are large, powerful, monstrous-looking creatures with admirable physical and mental ability.
