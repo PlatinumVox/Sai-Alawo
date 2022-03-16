@@ -1,4 +1,6 @@
-**Liocrae**
+
+
+![[Worm 2.png]]**Liocrae**
 
 The Ancients ran into Liocrae first– in nature, oversized razor clams. These Liocrae, know in short hand as Worms (like Alboli, Kaltorans, Nephilim, and every other Modified creatures) aren’t completely artificial.
 
