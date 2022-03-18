@@ -17,3 +17,5 @@ A chilling cackle; a beak breaking dead meat and bones.
 Dried blood and old sweat.
 **Taste:**
 Juicy and nutritious tail, otherwise almost inedible.
+
+#ruins #beasts 

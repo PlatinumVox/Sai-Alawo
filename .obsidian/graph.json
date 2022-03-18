@@ -41,6 +41,13 @@
         "a": 1,
         "rgb": 5431473
       }
+    },
+    {
+      "query": "tag:#beasts",
+      "color": {
+        "a": 1,
+        "rgb": 5832959
+      }
     }
   ],
   "collapse-display": false,
@@ -53,6 +60,6 @@
   "repelStrength": 8.31460674157303,
   "linkStrength": 0.623595505617978,
   "linkDistance": 30,
-  "scale": 0.50876188557927,
-  "close": false
+  "scale": 0.5087618855792708,
+  "close": true
 }

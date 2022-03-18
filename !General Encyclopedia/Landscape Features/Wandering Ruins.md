@@ -1,4 +1,4 @@
-A chunk of [[ruins]] that cuts its way through the skies
+A chunk of [[Ruins]] that cuts its way through the skies
 like a [[Dirigible]], moved by an unknown force, [[Horizoneer]] and [[Artificers]]s theorize it may be from rogue ancient artifacts inputting their influence upon the floating chunks of rubble.
 
 **Presence**
