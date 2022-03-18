@@ -11,5 +11,5 @@ The meaning of the orbital’s words was lost to me, but not to my companion. Th
 Knowing of the dangers of ancient [[ruins]] and of its guardians, I excused myself on some false pretext. Once I was sure to be out of sight, I started running, and did not stop until nightfall.
 
 -Journal of a Kaltoran Artificer
-[[Ancient Artifacts]]
+[[Washing]]
 

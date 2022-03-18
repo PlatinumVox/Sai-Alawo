@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "!General Encyclopedia/Alawo.md",
+            "file": "!General Encyclopedia/Countries/Dahani Triumvirate.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "!General Encyclopedia/Alawo.md",
+                "file": "!General Encyclopedia/Countries/Dahani Triumvirate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "f11737ad5b2e7b25",
   "lastOpenFiles": [
-    "!General Encyclopedia/Alawo.md",
-    "Species/Ancient Descendants/Alboli.md",
-    "Species/Ancient Descendants/Kaltoran.md",
-    "Species/Ancient Descendants/Liocrae.md",
-    "Species/Ancient Descendants/Nephlim.md",
-    "!General Encyclopedia/Countries/Marian United Republic.md",
-    "!General Encyclopedia/Culture/Alboli Body Painting.md",
     "!General Encyclopedia/Countries/Dahani Triumvirate.md",
-    "Alboli.png.md",
-    "!General Encyclopedia/Society/Modern Technology/Ancient Artifacts.md"
+    "!General Encyclopedia/Countries/Emirate of Biyaha.md",
+    "!General Encyclopedia/Countries/Keshi Free Territory.md",
+    "!General Encyclopedia/Countries/Khaganate of Sivik.md",
+    "!General Encyclopedia/Countries/Rafan Trade Company.md",
+    "!General Encyclopedia/Countries/Marian United Republic.md",
+    "Species/Ancient Descendants/Nephlim.md",
+    "Species/Ancient Descendants/Liocrae.md",
+    "Species/Ancient Descendants/Kaltoran.md",
+    "!General Encyclopedia/Modern Technology/Cocklestove.md"
   ]
 }
