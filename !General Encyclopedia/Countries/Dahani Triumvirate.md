@@ -17,13 +17,13 @@ have an utter disregard for the importance of money, preferring to barter for ph
 Despite this constant friction, the Nephilim makes some effort to maintain a working relationship with the Kaltorans, motivated by their need to trade with the Kaltorans for raw materials such as food and minerals.
 
 **Chips and Banking**
-The economy of the Nephilim is vast and complex, with the majority of calculations done behind the scene by stock market supercomputers.
+The economy of the Nephilim is vast and complex, with the majority of calculations done behind the scene by massive stock market [[Mechanical Computers]].
 Each bank of the Nephilim may issue its own currency, created by making loans. This has proved helpful: if a prominent bank goes bankrupt, it only collapses the part of the economy tied to its brand of currency rather than all of it. Chips (Ch), used for nearly
 all smaller transactions, are not technically currency but rather an indicator to which all currencies are compared. 
 
-The value of Chips is fixed to the value of energy, which is the main commodity of the Nephilim in the form of fuel. There is always demand for energy, and thus there is always demand for Chips. Because of the complexity of background transactions, Credit
-Chips are not simple minted coins when compared to the Rafan Trade Company. Each chip is a tiny computer that constantly buys and sells shares to maintain a stable value.
-Only a tiny fraction of the total economy is tracked on physical Chips; the vast majority exists in stocks and on computers as numbers. For that reason, bank cards are used for most transactions.
+The value of Chips is fixed to the value of energy used in mechanical computing, which is the main commodity of the Nephilim in the form of fuel. There is always demand for energy, and thus there is always demand for Chips. Because of the complexity of background transactions, Credit
+Chips are not simple minted coins when compared to the [[Rafan Trade Company]]. Each chip is a tiny computer that constantly buys and sells shares to maintain a stable value once input into a bank.
+Only a tiny fraction of the total economy is tracked on physical Chips; the vast majority exists in stocks and on [[Mechanical Computers]] as numbers. For that reason, bank cards are used for most transactions.
 
 **Ancestral Regulatory Law**
 At the inception of the **Board of Societal Management**, it was decided that agreement between private individuals would suffice for law and order. However, when the Nephilim came into contact with the other ancestories, the social order began to break down, since there was no way to stop coups by Alboli mercenaries or to battle Kaltoran piracy

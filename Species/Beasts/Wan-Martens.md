@@ -14,3 +14,5 @@ Wan Saliva preservation, they will store food to survive in an area longer
 **Taste:** Wan-Marten meat is tough, and tastes bitter unless charred or fried (when it’s then surprisingly buttery).
 
 ![[Tusker]]
+
+#ruins #beasts 

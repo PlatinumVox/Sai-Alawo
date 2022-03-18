@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Species/Ancient Descendants/Liocrae.md",
-            "mode": "source",
+            "file": "Species/Ecosystems/Eco Systems.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -69,13 +69,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Species/Ancient Descendants/Liocrae.md",
+                "file": "Species/Ecosystems/Eco Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
@@ -84,19 +84,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "f11737ad5b2e7b25",
   "lastOpenFiles": [
-    "Species/Ancient Descendants/Liocrae.md",
-    "!General Encyclopedia/Ancient Technology/Ruins.md",
-    "!General Encyclopedia/Alawo.md",
-    "Species/Ancient Descendants/Kaltoran.md",
-    "Religions/Ḑuwall.md",
-    "!General Encyclopedia/Countries/Dahani Triumvirate.md",
-    "!General Encyclopedia/Countries/Keshi Free Territory.md",
-    "!General Encyclopedia/Countries/Emirate of Biyaha.md",
-    "!General Encyclopedia/Countries/Rafan Trade Company.md",
-    "!General Encyclopedia/Countries/Marian United Republic.md"
+    "Species/Ecosystems/Eco Systems.md",
+    "Species/Ecosystems/Desert.md",
+    "Species/Ecosystems/Deciduous Forest.md",
+    "Species/Ecosystems/Chapparal.md",
+    "Species/Ecosystems/Freshwater.md",
+    "Species/Ecosystems/Grasslands.md",
+    "Species/Ecosystems/Marine.md",
+    "Species/Ecosystems/Mountains.md",
+    "Species/Ecosystems/RainForests.md",
+    "Species/Ecosystems/Ruins.md"
   ]
 }

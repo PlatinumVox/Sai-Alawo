@@ -17,3 +17,5 @@ They make good pets if trained from a young age but may attack randomly when hun
 **Sound:** Dense flapping of multiple wings as a drowning descends
 **Smell:** Salty and oceanic with a slight scent of death
 **Taste:** Their meat is dense and stringy, full of muscle for their constant flying
+
+#DeciduousForest #ruins #beasts

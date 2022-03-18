@@ -9,3 +9,5 @@ Presence
 **Sound:** Low croaking as they build anticipation. Whip-crack sounds when they launch their tongues.
 **Smell:** Like old pond-scum.
 **Taste:** Chewy, rubbery flesh with a hint of standing water.
+#beasts
+
