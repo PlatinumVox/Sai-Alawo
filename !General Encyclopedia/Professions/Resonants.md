@@ -10,3 +10,9 @@ Emotional-The ability to manipulate one's own emotions in a way that produces an
  Due to the skills that Resonants need in order to perform their Talents, most of them can apply these skills in other areas-a Song Resonant is often a bard, rockstar, or other form of performer, a Speaker Resonant is often an actor or other kind of orator, an Emotional Resonant is usually a social chameleon, etc.
     
 Speaker Resonants that engage in debate often use their artifacts to back up their argument for dramatic effect, occasionally resulting in a clash of philosophies that resembles a mystical duel as much as a rational discussion of ideas.
+
+<THE PULSE>
+Resonant equivalent to washing, add later.
+<HAZARDS OF THE PULSE>
+You're singing at a bomb, you idiots.
+

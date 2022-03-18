@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Species/Ecosystems/Eco Systems.md",
-            "mode": "preview",
+            "file": "!General Encyclopedia/Professions/Wax Artificer.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Species/Ecosystems/Eco Systems.md",
+                "file": "!General Encyclopedia/Professions/Wax Artificer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "f11737ad5b2e7b25",
   "lastOpenFiles": [
-    "Species/Ecosystems/Eco Systems.md",
-    "Species/Ecosystems/Desert.md",
-    "Species/Ecosystems/Deciduous Forest.md",
-    "Species/Ecosystems/Chapparal.md",
-    "Species/Ecosystems/Freshwater.md",
-    "Species/Ecosystems/Grasslands.md",
-    "Species/Ecosystems/Marine.md",
-    "Species/Ecosystems/Mountains.md",
-    "Species/Ecosystems/RainForests.md",
-    "Species/Ecosystems/Ruins.md"
+    "!General Encyclopedia/Professions/Wax Artificer.md",
+    "!General Encyclopedia/Professions/Resonants.md",
+    "!General Encyclopedia/Organizations/The Wax-Light Order.md",
+    "!General Encyclopedia/Organizations/School of the Resonant Arts.md",
+    "!General Encyclopedia/Organizations/The Order of the Shattered Mask.md",
+    "!General Encyclopedia/Ancient Technology/Artifacts and Artificers.md",
+    "!General Encyclopedia/Professions/Reaper.md",
+    "!General Encyclopedia/Modern Technology/Washing.md",
+    "!General Encyclopedia/Modern Technology/Resonanting.md",
+    "!General Encyclopedia/Professions/Untitled.md"
   ]
 }
