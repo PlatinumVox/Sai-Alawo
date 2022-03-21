@@ -21,7 +21,7 @@ Originally designed to maintain the ecosystem and world of Alawo, snails continu
 -Ring support networks to maintain terraforming networks
 
 **Free snails**
-Among the Alawoian continent there are less than 1000 Liocrae, each one is unique and snail Watchers, something of a subculture among [[Artifacts and Artificers]], can name each one by sight alone.  
+Among the Alawoian continent there are less than 1000 Liocrae, each one is unique and snail Watchers, something of a subculture among [[Artifacts]], can name each one by sight alone.  
   
 With so few snails, It’s big news when a new one appears. The first thing a Free snail deals with is a thorough inspection by the local authority on ancient and unusual things. Once they’ve been inspected and documented, snails are technically free to go. In practice, snails have no idea what to do, and they’re almost always taken in by whatever community they wandered in to.  
   

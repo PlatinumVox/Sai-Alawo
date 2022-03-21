@@ -1,4 +1,4 @@
-As opposed to the scientific method and analysis of the Tech-Speakers, Resonants take a more holistic view on the artifacts they interact with. Using musical, speaking, and sound design talents, Resonants manage to vibrate artifacts and their frequency in order to produce anomalous effects. These effects often do not match up with the effects that Techspeakers are able to produce, although they sometimes do. Techspeakers tend to insist that this difference is a matter of "using it wrong", while Resonants tend to take on the view that the Techspeakers' results are inferior, due to a lack of resonance with the Soul of the artifact.
+Resonants are a form of Artificer, using their existing talents in some form of sound-based art to resonate and get an effect out of [[Artifacts]]. Using musical, speaking, and sound design talents, Resonants manage to vibrate artifacts and their frequency in order to produce anomalous effects. As these effects often do not line up with the effects produced by more stimulus and weakpoint based schools of Artifice, Resonance is looked at as somewhat of an anomaly case in the field. Resonants often look at this as a case of them being in tune with the spirit of the devices in question, while other Artificers often look at them as one would a child that had managed to gain access to the launch codes of a nuclear weapon.
 
 
 Resonant Talents:
@@ -11,8 +11,7 @@ Emotional-The ability to manipulate one's own emotions in a way that produces an
     
 Speaker Resonants that engage in debate often use their artifacts to back up their argument for dramatic effect, occasionally resulting in a clash of philosophies that resembles a mystical duel as much as a rational discussion of ideas.
 
-<THE PULSE>
-Resonant equivalent to washing, add later.
-<HAZARDS OF THE PULSE>
-You're singing at a bomb, you idiots.
+THE PULSE
+When discovering the effects of an artifact, most Resonants will bombard them with a set of sounds created through various means, in order to test out what effects the artifact will have. A resonant unskilled enough to create the effect itself will usually be able to identify the school needed to do so. While this more hands-on method is usually more effective at actually identifying the effect, it is significantly less safe than the methods used by other schools of Artifice, as it is occasionally equivalent to testing the effects of a bomb by pressing the large red button and seeing what happens.
+
 

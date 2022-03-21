@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Species/Beasts/Wan-Martens.md",
+            "file": "!General Encyclopedia/Professions/Resonants.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Species/Beasts/Wan-Martens.md",
+                "file": "!General Encyclopedia/Professions/Resonants.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "f11737ad5b2e7b25",
   "lastOpenFiles": [
+    "!General Encyclopedia/Professions/Resonants.md",
+    "!General Encyclopedia/Professions/Wax Techician.md",
+    "!General Encyclopedia/Ancient Technology/Artifacts.md",
+    "!General Encyclopedia/Organizations/Schools of the Resonant Arts.md",
     "Species/Beasts/Wan-Martens.md",
     "Species/Ancient Descendants/Nephlim.md",
     "Species/Ancient Descendants/Liocrae.md",
     "Species/Beasts/Arrow-Tongue Jikari.md",
     "Species/Beasts/Cactipine.md",
-    "Species/Beasts/Chameleon Yak.md",
-    "Species/Beasts/Coastal Sea Jay.md",
-    "Species/Beasts/Desuri.md",
-    "!General Encyclopedia/Professions/Wax Artificer.md",
-    "!General Encyclopedia/Professions/Resonants.md"
+    "Species/Beasts/Chameleon Yak.md"
   ]
 }
