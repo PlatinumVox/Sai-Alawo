@@ -1,4 +1,4 @@
-***Description***
+Description
 description of how being a Wax Artificer works. also link to the Wax-Light Order's page, but idk how to do that.
 
 Wax Sub-Schools:
@@ -10,7 +10,8 @@ Thermic-Thing relating to the manipulation of heat and cold.
 Vitus-The manipulation of plants and other nonhuman organisms.
 <MORE LATER>
 
-***Washing***
+**Washing**
+
 No two artifacts are alike. One can only make educated guesses about their properties by looking at them. Figuring out what an artifact DOES takes patience and careful documentation. Only when its characteristics have been thoroughly explored is the artifact safe to be used.
 
 **Exploration**
