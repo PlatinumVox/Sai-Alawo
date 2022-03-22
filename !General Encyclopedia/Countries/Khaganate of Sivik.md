@@ -2,7 +2,6 @@
 **Population Strata**
 ![[Khaganate of Sivik Strata.png]]
 **Capital City**
- [[Hantin]]
 ![[Hantin]]
 **Tribunal Law**
 The Alboli deals with all internal legal matters by military tribunal. Any officer or soldier who has committed a crime is brought before three high-ranking officers, who determine guilt and punishment. At times they order an investigation and make their decision based on its findings.

@@ -1,6 +1,8 @@
 ![[Keshi Free Territory.png]]
 **Population Strata**
 
+**Capital City**
+![[Marma]]
 
 
 **Clothing Traditions**
