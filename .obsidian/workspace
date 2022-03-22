@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "!General Encyclopedia/Countries/Emirate of Biyaha.md",
+            "file": "Species Bestiary/Beasts/Capral-Khaff.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Khaff",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "!General Encyclopedia/Countries/Emirate of Biyaha.md",
+                "file": "Species Bestiary/Beasts/Capral-Khaff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "f11737ad5b2e7b25",
   "lastOpenFiles": [
+    "Species Bestiary/Beasts/Capral-Khaff.md",
+    "Species Bestiary/Beasts/Pangola.md",
+    "Species Bestiary/Beasts/Librico Ikthyo.md",
+    "!General Encyclopedia/Food/Non-Farming/Nephilim Food.md",
+    "!General Encyclopedia/Untitled.md",
     "!General Encyclopedia/Countries/Emirate of Biyaha.md",
     "!General Encyclopedia/Countries/Rafan Trade Company.md",
     "!General Encyclopedia/Countries/Marian United Republic.md",
     "!General Encyclopedia/Countries/Khaganate of Sivik.md",
-    "!General Encyclopedia/Countries/Keshi Free Territory.md",
-    "-Archive-Trash/Simulacra.md",
-    "!General Encyclopedia/Countries/Dahani Triumvirate.md",
-    "AKCCS-Ninzonite-Royal War.md",
-    "Reconciliation-Ninzon Group Insurgency.md",
-    "Ninzon.md"
+    "!General Encyclopedia/Countries/Keshi Free Territory.md"
   ]
 }
