@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Species Bestiary/Beasts/Lumafly.md",
+            "file": "Species Bestiary/Plants/Caelmoss.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Species Bestiary/Beasts/Lumafly.md",
+                "file": "Species Bestiary/Plants/Caelmoss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "f11737ad5b2e7b25",
   "lastOpenFiles": [
-    "Species Bestiary/Beasts/Lumafly.md",
+    "Species Bestiary/Plants/Caelmoss.md",
+    "Species Bestiary/Plants/Pattern Jugglers.md",
+    "Species Bestiary/Beasts/Wan-Martens.md",
+    "Species Bestiary/Beasts/Vinrgues Whale.md",
     "Species Bestiary/Beasts/Vilera.md",
     "Species Bestiary/Beasts/Tinker-Monkeys.md",
+    "Species Bestiary/Beasts/Retchbeaks.md",
     "Species Bestiary/Beasts/Peak Squid.md",
     "Species Bestiary/Beasts/Pangola.md",
-    "Species Bestiary/Beasts/Retchbeaks.md",
-    "Species Bestiary/Beasts/Desuri.md",
-    "Species Bestiary/Beasts/Glacecrawler.md",
-    "Species Bestiary/Beasts/Lancetrap.md",
-    "Species Bestiary/Beasts/Frostmite.md"
+    "Species Bestiary/Beasts/Lumafly.md"
   ]
 }
