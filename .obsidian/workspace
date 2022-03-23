@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "!General Encyclopedia/Countries/Marian United Republic.md",
+            "file": "Species Bestiary/Beasts/Glacecrawler.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "!General Encyclopedia/Countries/Marian United Republic.md",
+                "file": "Species Bestiary/Beasts/Glacecrawler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "f11737ad5b2e7b25",
   "lastOpenFiles": [
-    "!General Encyclopedia/Countries/Marian United Republic.md",
-    "!General Encyclopedia/Countries/Rafan Trade Company.md",
-    "!General Encyclopedia/Countries/Khaganate of Sivik.md",
-    "!General Encyclopedia/Countries/Keshi Free Territory.md",
-    "!General Encyclopedia/Countries/Emirate of Biyaha.md",
-    "!General Encyclopedia/Countries/Dahani Triumvirate.md",
-    "Species Bestiary/Ancient Descendants/Liocrae.md",
-    "Species Bestiary/Beasts/Arrow-Tongue Jikari.md",
-    "Species Bestiary/Beasts/Desuri.md",
-    "Species Bestiary/Beasts/Carp.md"
+    "Species Bestiary/Beasts/Glacecrawler.md",
+    "Species Bestiary/Beasts/Lancetrap.md",
+    "!General Encyclopedia/Modern Technology/Resonanting.md",
+    "!General Encyclopedia/Modern Technology/Shopping.md",
+    "!General Encyclopedia/Modern Technology/Washing.md",
+    "!General Encyclopedia/Modern Technology/Cocklestove.md",
+    "!General Encyclopedia/Modern Technology/Mycelium Furniture.md",
+    "!General Encyclopedia/Modern Technology/Transport/Dirigible.md",
+    "-Archive-Trash/Steam Trains.md",
+    "!General Encyclopedia/Modern Technology/Transport/Damselflies.md"
   ]
 }

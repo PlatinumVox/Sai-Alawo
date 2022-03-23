@@ -6,12 +6,10 @@ The Desuri have large nose-pointed horns which are used  non-combat uses, most n
 
 It looks like a mix of a zebra with a rhino horn. Zebras are one of the best camouflages in the animal kingdom of our world and rhinos have a shark horn for self defense when charging. So the Desuri must be a very difficult animal to kill and let alone domesticate. So in Alawo's economy they are very prized steeds for transport that isnt through [[Steam Trains]], [[Rickshaw]]s, or [[Dirigible]]s. They might even be a display of wealth when owning one.
 
-**Sight:**
-
-**Sound:**
-
-**Smell:**
-
-**Taste:**
+**Presence**
+**Sight**: 
+**Sound:** 
+**Smell:** 
+**Taste:** 
 
 #beasts 

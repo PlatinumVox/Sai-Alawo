@@ -4,6 +4,9 @@
 **Capital City**
 ![[Marma]]
 
+**Academic Excellence**
+- ruled by scolars
+- education is key
 
 **Clothing Traditions**
 ![[Keshi Free Territory Fashion.png]]
