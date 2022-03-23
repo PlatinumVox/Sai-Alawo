@@ -45,6 +45,11 @@ Living in underwater cities for over three hundred years has given the Kaltorans
 
 Although a pain to repair, this strong carbon polymer is an abundant resource, primarily used in buildings, small goods, and [[Dirigible]]s.
 
+**Holy Free Snails**
+- Venearate ancient snails
+- Venerate ancient buildings
+- Selectively allowed into ruins
+	- highly protected
 
 **Clothing Traditions**
 ![[Dahani Fashion.png]]

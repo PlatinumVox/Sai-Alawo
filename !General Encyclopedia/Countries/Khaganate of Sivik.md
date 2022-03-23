@@ -17,6 +17,12 @@ First, all basic supplies are distributed according to need. Quartermasters of t
 	**Exodus in Surplus**
 	In recent times, large numbers of Alboli have departed to the White Gum Wastes , and the Nephilim has provided the Alboli with significant resources. All this has led to surpluses for the first time in centuries. The families of Auxilia are first to receive these surpluses as a reward for their valuable service to the Alboli economy.
 
+**Respect Free Snails**
+- Respect and see ancient snails as equals
+- Respect ancient buildings
+- Allowed into ruins
+	- often unprotected
+
 **Clothing Traditions**
 ![[Sivik Fashion.png]]
 

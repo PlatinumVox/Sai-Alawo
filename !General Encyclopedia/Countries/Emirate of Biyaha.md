@@ -23,6 +23,11 @@ The Clan of Sinai purchased a substantial plot of land from the [[Marian United 
 
 ![[Reconciliation-Ninzon Group Insurgency]]
 
+**Fear Free Snails**
+- Fear ancient snails
+- Fear ancient buildings
+- Completely avoid ruins
+
 **Clothing Traditions**
 ![[Emirate of Biyaha Fashion.png]]
 **Eating Habits**

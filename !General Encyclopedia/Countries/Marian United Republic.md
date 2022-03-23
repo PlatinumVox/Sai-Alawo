@@ -26,6 +26,12 @@ most Kaltorans overlook minor misdemeanors and deal out very harsh punishments t
 	Other ancestors who visit Kaltoran settlements sometimes find that the lack of clear legal distinctions lead to a variety of difficulties. However, there is some accountability when families disagree over the fairness of a situation: the Elders of both families will meet and come to an arrangement. In the interest of peace, this often leads to Elders punishing their own family members for dealing out justice too harshly.
 	**Always Armed**
 	Nearly all Kaltorans carry a weapon at all times, partly because there is a lack of any official law enforcement and partly because of their violent past. Weapons are carried like a badge of honour, and many weapons are family heirlooms. It is common for a Kaltoran to get their first (low-powered) gun at age eight.
+
+**Respect Free Snails**
+- Respect and see ancient snails as equals
+- Respect ancient buildings
+- Allowed into ruins
+	- often selectively protected
 	
 **Clothing Traditions**
 ![[Mari Fashion.png]]
