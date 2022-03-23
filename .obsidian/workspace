@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Species Bestiary/Beasts/Glacecrawler.md",
+            "file": "Species Bestiary/Beasts/Lumafly.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Khaff",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Species Bestiary/Beasts/Glacecrawler.md",
+                "file": "Species Bestiary/Beasts/Lumafly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "f11737ad5b2e7b25",
   "lastOpenFiles": [
+    "Species Bestiary/Beasts/Lumafly.md",
+    "Species Bestiary/Beasts/Vilera.md",
+    "Species Bestiary/Beasts/Tinker-Monkeys.md",
+    "Species Bestiary/Beasts/Peak Squid.md",
+    "Species Bestiary/Beasts/Pangola.md",
+    "Species Bestiary/Beasts/Retchbeaks.md",
+    "Species Bestiary/Beasts/Desuri.md",
     "Species Bestiary/Beasts/Glacecrawler.md",
     "Species Bestiary/Beasts/Lancetrap.md",
-    "!General Encyclopedia/Modern Technology/Resonanting.md",
-    "!General Encyclopedia/Modern Technology/Shopping.md",
-    "!General Encyclopedia/Modern Technology/Washing.md",
-    "!General Encyclopedia/Modern Technology/Cocklestove.md",
-    "!General Encyclopedia/Modern Technology/Mycelium Furniture.md",
-    "!General Encyclopedia/Modern Technology/Transport/Dirigible.md",
-    "-Archive-Trash/Steam Trains.md",
-    "!General Encyclopedia/Modern Technology/Transport/Damselflies.md"
+    "Species Bestiary/Beasts/Frostmite.md"
   ]
 }
