@@ -6,4 +6,6 @@ Parents will design patterns on the dhāw of their children with symbols correla
   
 In the case of twins, a second dhāw is made after birth and in a ritual is sympathetically bound to the other. The second, despite not literally being part of the life-bringing process in the same way as the first, is able to share that property due to the interconnected nature of twins’ souls. Twins are considered good fortune.
 
+![[Alboli Body Painting]]
+
 #alboli #religion #death #reproduction 
