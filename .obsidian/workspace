@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Religions/Ḑuwall.md",
-            "mode": "preview",
+            "file": "Species Bestiary/Beasts/Peak Squid.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Religions/Ḑuwall.md",
+                "file": "Species Bestiary/Beasts/Peak Squid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "f11737ad5b2e7b25",
   "lastOpenFiles": [
-    "Religions/Ḑuwall.md",
-    "!General Encyclopedia/Professions/Char.md",
-    "!General Encyclopedia/Professions/Corsair.md",
-    "Species Bestiary/Plants/Caelmoss.md",
+    "Species Bestiary/Beasts/Peak Squid.md",
+    "Species Bestiary/Beasts/Lumafly.md",
+    "Species Bestiary/Beasts/Pangola.md",
+    "Reconciliation-Ninzon Group Insurgency.md",
+    "AKCCS-Ninzonite-Royal War.md",
+    "AKCCS.md",
+    "Species Bestiary/Plants/Rottshroom.md",
     "Species Bestiary/Plants/Pattern Jugglers.md",
-    "Species Bestiary/Beasts/Wan-Martens.md",
-    "Species Bestiary/Beasts/Vinrgues Whale.md",
-    "Species Bestiary/Beasts/Vilera.md",
-    "Species Bestiary/Beasts/Tinker-Monkeys.md",
-    "Species Bestiary/Beasts/Retchbeaks.md"
+    "Species Bestiary/Plants/Lungmelon.md",
+    "Species Bestiary/Plants/Luminshrooms.md"
   ]
 }
