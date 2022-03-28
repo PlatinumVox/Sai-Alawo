@@ -117,6 +117,9 @@ Bio Search gives them as follows:
 	- Loss of Mechanical Technology
 - Present Day
 
+**Discovery of the Pattern Jugglers**
+insert pattern juggler stuff here idk 
+
 
 “But the ancients became stale. They stopped learning, advancing,
 travelling, or growing.”
@@ -128,14 +131,14 @@ erosion, and a breakdown in their biological diversity. They died in
 the billions to disease, famine, and birth defects, troubles they had
 forgotten how to fight. Out of desperation, they created their undoing.
 
-**The Pattern Jugglers**
+**The J'van**
 “… A genetically engineered race, created to replace the ancients and preserve them.
 
 Gregory paused for a moment; any thought of his creators, the
 J'van, brought up complex thoughts and feelings.
 “They iz like your negligant parenttz and myz estranged
 grandparents,” Grofix mused. He never quite knew how to think of the
-Jugglers. 
+J'van. 
 
 “Not wanting to tread in the footprints of their creators, the
 J'van did not work towards rediscovering what humanity had
