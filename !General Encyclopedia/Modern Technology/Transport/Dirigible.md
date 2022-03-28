@@ -1,4 +1,4 @@
-- Powered by Artifacts or Bio-Electricity
+- Powered by Artifacts
 - Two types
 	- Resonant
 	- Wax

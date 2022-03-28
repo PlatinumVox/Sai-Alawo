@@ -6,7 +6,7 @@ back a memory is, the harder it is to retain. These often-foggy memories are slo
 terrible and haunting memories of their troubled history.
 
 **Enhanced Senses**
-The Kaltorans are gifted with an exceptional sense of hearing, heightened further during their generations of time in the darkness. Many older Kaltorans were born blind, but the bio-tech remedy is relatively simple, and most Kaltorans have perfect vision as well as
+The Kaltorans are gifted with an exceptional sense of hearing, heightened further during their generations of time in the darkness. Many older Kaltorans were born blind, but the relic-tech remedy is relatively simple, and most Kaltorans have perfect vision as well as
 exceptional hearing.
 
 **Long Lifespan**

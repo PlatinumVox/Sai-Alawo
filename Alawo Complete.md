@@ -72,7 +72,7 @@ think of it.
 haze of many fallen empires, the greatest of these clearly being the
 ancients, and only the religious dare to speculate what came before
 them.” Gregory took a cigar from his desk drawer as he keyed the
-word “ancients” into his [[Bio-Computer]]'s search program.
+word “ancients” into his [[Relic-Computer]]'s search program.
 
 **Ancients**
 “The problem with talking about a long-dead race, one which has
@@ -300,6 +300,42 @@ Grofix paced the room thoughtfully as Gregory smoked.
 ## Major Places of Interest
 
 # Chapter Six
+## Daily Life
+**Domestic**
+In households throughout the Haven system, small and commonly
+overlooked technologies do their part. Many of these techs have a
+simple and specific function related to basic survival needs, such as
+preparing food, controlling the environment, and cleaning.
+
+Occasionally, these technologies can be surprisingly advanced,
+as they were considered quite valuable during the Years of
+Darkness after the Great War. The many advanced technologies
+would be difficult to understand if the races did not hold onto their
+knowledge by constructing and maintaining these commonplace yet
+vital technologies.
+
+**Food Production**
+Many means of producing food exist across the Alawoian continent,
+including mass farming, hydroponics, hunting, and foraging.
+Much of what decides the method used on any given world is the
+environment of the area.
+In arctic environments, food is commonly produced through a
+combination of enclosed farms and hunting.
+
+**Currency**
+The most popular form of currency is Rafanese Chits. However, valuable commodities such as precious minerals, ammunition, food, and favours are also commonly traded. Digital financial institutions such as banks and stock exchanges are rare outside of the Dahani Triumvirate or Rafan Trade Company.
+
+**Communication**
+There are three common forms of long-distance communication within the Alawoian world. From shortest to longest range they are Radio and Data Hauling.
+
+*Data Hauling*
+Because the distance between settlements is so vast, relic-drives of data must be physically hauled by individual Dirigibles. Most data hauling is done alongside other trade cargo, but on
+occasion mercenary teams will transport rare, expensive, or
+sensitive data as their sole cargo, or hide it in their cache.
+
+*Radio*
+This ancient form of communication is used for a wide range of communications between individuals, cities, space stations, and [[Dirigible]].
+
 ## Technology
 
 # Chapter Seven
