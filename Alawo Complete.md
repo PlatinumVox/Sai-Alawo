@@ -355,6 +355,7 @@ sensitive data as their sole cargo, or hide it in their cache.
 *Radio*
 This ancient form of communication is used for a wide range of communications between individuals, cities, space craft, and [[Dirigible]].
 
+# Chapter Seven
 ## Technology
 ##### **Computers**
 The development of computers had largely ended with the human
@@ -396,7 +397,7 @@ As they were masters of electronic technologies and capable of creating the J'va
 **Ley Lines**
 What is the true nature of the Ley Lines? Are they the result of a deliberate decision by humanity or an accident? Are there dimensions beyond ours? What other uses for Ley Energy exist?
 
-# Chapter Seven
+# Chapter Eight
 ## Professions
 ![[Char]]
 
@@ -421,7 +422,7 @@ What is the true nature of the Ley Lines? Are they the result of a deliberate de
 ![[Wax Techician]]
 
 
-# Chapter Eight
+# Chapter Nine
 ## Religion
 
 ![[Dark Liithos Mysticism]]
@@ -433,7 +434,7 @@ What is the true nature of the Ley Lines? Are they the result of a deliberate de
 ![[Light Liithos Mysticism]]
 
 
-# Chapter Nine
+# Chapter Ten
 ## Culture
 
 #### General
