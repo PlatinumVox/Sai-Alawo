@@ -349,7 +349,7 @@ occasion mercenary teams will transport rare, expensive, or
 sensitive data as their sole cargo, or hide it in their cache.
 
 *Radio*
-This ancient form of communication is used for a wide range of communications between individuals, cities, space stations, and [[Dirigible]].
+This ancient form of communication is used for a wide range of communications between individuals, cities, space craft, and [[Dirigible]].
 
 ## Technology
 ##### **Computers**
