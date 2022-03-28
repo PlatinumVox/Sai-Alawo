@@ -153,7 +153,7 @@ the space station they were on. “The Devwi did not take the J'van’
 removal of their title well. I imagine the fight that followed was
 brutal. But the Devwi did not stand a chance; the J'van flew in
 reinforcements and quickly killed all of theDevwi… all but one… He,
-she… it… doesDevwi have a gender?”
+she… it… does Devwi have a gender?”
 “Don’t knowz.”
 
 “Well ‘it’ stole a craft and fled out into uncharted undergrounds of Alawo, the
@@ -238,6 +238,44 @@ Grofix paced the room thoughtfully as Gregory smoked.
 # Chapter Three
 ## Ruins and Wildlife
 
+#### Ruins
+
+#### Wildlife
+![[Arrow-Tongue Jikari]]
+
+![[Cactipine]]
+
+![[Capral-Khaff]]
+
+![[Desuri]]
+
+![[Frostmite]]
+
+![[Glacecrawler]]
+
+![[Lancetrap]]
+
+![[Lumafly]]
+
+![[Pangola]]
+
+![[Peak Squid]]
+
+![[Retchbeaks]]
+
+![[Sea Callers]]
+
+![[Tinker-Monkeys]]
+
+![[Vilera]]
+
+![[Vinrgues Whale]]
+
+![[Wan-Martens]]
+
+
+#### Plantlife
+
 # Chapter Four
 ## Major National Identities
 
@@ -260,9 +298,40 @@ Grofix paced the room thoughtfully as Gregory smoked.
 
 # Chapter Seven
 ## Professions
+![[Char]]
+
+![[Corsair]]
+
+![[Horizoneer]]
+
+![[Hunter]]
+
+![[Lascar]]
+
+![[Rattlehand]]
+
+![[Reaper]]
+
+![[Resonants]]
+
+![[Steep]]
+
+![[Tusker]]
+
+![[Wax Techician]]
+
 
 # Chapter Eight
 ## Religion
+
+![[Dark Liithos Mysticism]]
+
+![[Ḑuwall]]
+
+![[Followers of the Cycle]]
+
+![[Light Liithos Mysticism]]
+
 
 # Chapter Nine
 ## Religion
