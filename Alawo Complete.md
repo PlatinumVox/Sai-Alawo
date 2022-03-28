@@ -24,17 +24,23 @@ what else.
 *» What is out there?*
 
 ### Lost Bloodlines
-- J'van & Ancients 
+- [[J'van]]
+- [[The Ancients]]
 
 *» What ruled before humanity?*
 
 ### Core Three
 The three ancestors represented here are those most commonly found building communities across the ruins; the Alboli, the Kaltoran, and the Nephilim. Each have their own strengths and weaknesses, and are uniquely adapted to life amongst the ruins.
 
+- [[Alboli]]
+- [[Kaltoran]]
+- [[Nephlim]]
+
 *» Who comes after us?*
 
 ### Rising Two
-- Liocrae & Relicborne 
+- [[Liocrae]]
+- [[Relicborne]] 
 
 *» What corruption happens to creations after years of non-control?*
 
@@ -298,6 +304,15 @@ Grofix paced the room thoughtfully as Gregory smoked.
 
 # Chapter Five
 ## Major Places of Interest
+#### Cities
+
+#### Locales
+![[Chasm Gap]]
+![[Eastern Seas]]
+![[Lamacarres]]
+![[Western Ocean]]
+![[White Gum Wastes]]
+
 
 # Chapter Six
 ## Daily Life
@@ -343,7 +358,7 @@ empire, and since then it stagnated and even declined up until the
 Great War and are not non existent as a result of the Melding Plague.
 
 ##### **Relics**
-
+![[Artifacts]]
 
 ##### **Ley Lines**
 Ley Lines are important to all the ancestors. They are able to mysteriously power all relics. Despite the significance of the Ley Lines, very little is known about them, as their secrets died before their human creators did.
@@ -415,4 +430,25 @@ What is the true nature of the Ley Lines? Are they the result of a deliberate de
 
 
 # Chapter Nine
-## Religion
+## Culture
+
+#### General
+![[Marriage]]
+
+#### Alboli
+![[Alboli Body Painting]]
+![[Alboli Reproduction]]
+![[Alboli- The Longest Smear Campaign]]
+
+
+#### Kaltoran 
+
+![[Kaltoran Color]]
+
+![[Kaltoran Hair]]
+
+![[Kaltoran Reproduction]]
+
+
+#### Nephilim Culture
+![[Nephilim Reproduction]]
