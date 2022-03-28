@@ -4,6 +4,6 @@ This biome is also known as the coastal scrub forest. Communities are dominated 
 ![[Ferrite Grass]]
 
 ### Animals
-[[Coastal Sea Jay]]
+[[Sea Callers]]
 
 #Chapparal #ecosystem 

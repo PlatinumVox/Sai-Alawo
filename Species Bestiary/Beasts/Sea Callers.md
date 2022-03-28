@@ -1,4 +1,5 @@
-**Coastal Sea Jay** (their bills are similar to blue billed Ani's in my head)
+
+Sea Callers also known as the **Coastal Sea Jay** (their bills are similar to blue billed Ani's in my head)
 
 These birds possess two sets of feathers, with the external layer being harder and coated in an oil that lets them submerge in water. The inside layer is much fluffier which allows them stand below zero temperatures in higher northern ice flats and gives the illusion of a bigger body. Their beaks are a deeply saturated red beak that is much larger than a standard crow.
 

@@ -6,6 +6,6 @@ This water biome is the largest biome in the world, as it includes the Three maj
 
 ### Animals
 [[Vinrgues Whale]]
-[[Coastal Sea Jay]]
+[[Sea Callers]]
 
 #Marine #ecosystem 
