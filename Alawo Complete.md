@@ -23,8 +23,14 @@ what else.
 
 *» What is out there?*
 
+### Lost Bloodlines
+- J'van & Ancients 
+
 ### Core Three
 The three ancestors represented here are those most commonly found building communities across the ruins; the Alboli, the Kaltoran, and the Nephilim. Each have their own strengths and weaknesses, and are uniquely adapted to life amongst the ruins.
+
+### Rising Two
+- Liocrae & Relicborne 
 
 **The Alawoian Planet**
 ![[Alawo planet v2.png]]
