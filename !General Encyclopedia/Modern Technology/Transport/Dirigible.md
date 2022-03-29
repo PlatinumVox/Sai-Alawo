@@ -3,6 +3,19 @@ The upper compartment of a Dirigible is mostly nothing but normal air to allow f
 Airships typically have what's known as a "channeler core."
 This central engine compartment is often the most protected section of the craft as it keeps it in the air and even if attacked it is customary to not ever harm the channeler, for obvious reasons.
 
+**Military Classifications**
+In the setting of Alawo the airships follow naming conventions similar to fortifications. Battleships are called Airfortresses because the first Airfortresses were just towable armored artillery guns that used lift cages to float in order to gain a better firing position.
+
+Battleship -> Airfortress
+
+Heavy Cruiser -> Airredoubt
+
+Destroyer -> Aireduit
+
+Frigates -> Airturrets
+
+**Common Cargo Hauler; The Vinregues**
+
 
 ![[Dirigible.jpg]]
 
