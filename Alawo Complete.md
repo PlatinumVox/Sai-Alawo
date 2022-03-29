@@ -242,6 +242,7 @@ Grofix paced the room thoughtfully as Gregory smoked.
 
 # Chapter Two
 ## Ancestories
+### Core Three
 
 ![[Kaltoran]]
 
@@ -249,7 +250,10 @@ Grofix paced the room thoughtfully as Gregory smoked.
 
 ![[Nephlim]]
 
+### Rising Two
 ![[Liocrae]]
+
+![[Relicborne]]
 
 # Chapter Three
 ## Ruins and Wildlife
@@ -342,17 +346,17 @@ In arctic environments, food is commonly produced through a
 combination of enclosed farms and hunting.
 
 ##### **Currency**
-The most popular form of currency is Rafanese Chits. However, valuable commodities such as precious minerals, ammunition, food, and favours are also commonly traded. Digital financial institutions such as banks and stock exchanges are rare outside of the Dahani Triumvirate or Rafan Trade Company.
+The most popular form of currency is [[Rafanese Chits]]. However, valuable commodities such as precious minerals, ammunition, food, and favours are also commonly traded. Digital financial institutions such as banks and stock exchanges are rare outside of the Dahani Triumvirate or Rafan Trade Company.
 
 ##### **Communication**
 There are three common forms of long-distance communication within the Alawoian world. From shortest to longest range they are Radio and Data Hauling.
 
-*Data Hauling*
+*[[Data Hauling]]*
 Because the distance between settlements is so vast, relic-drives of data must be physically hauled by individual Dirigibles. Most data hauling is done alongside other trade cargo, but on
 occasion mercenary teams will transport rare, expensive, or
 sensitive data as their sole cargo, or hide it in their cache.
 
-*Radio*
+*[[Radio]]*
 This ancient form of communication is used for a wide range of communications between individuals, cities, space craft, and [[Dirigible]].
 
 # Chapter Seven
@@ -365,37 +369,9 @@ Great War and are not non existent as a result of the Melding Plague.
 ##### **Relics**
 ![[Artifacts]]
 
-##### **Ley Lines**
-Ley Lines are important to all the ancestors. They are able to mysteriously power all relics. Despite the significance of the Ley Lines, very little is known about them, as their secrets died before their human creators did.
+![[Ley Lines]]
 
-**Creation**
-Ley Lines were created by humanity during an event referred to as the Reality Fracture. No one knows what caused it; some speculate that it was by design, others by accident.
-
-**Nature**
-The Ley Lines are tiny cracks or tears in the fabric of space-time; their exact nature is unknown. Although the cracks are microns thick and invisible to the naked eye, their lengths are measured in light years.
-
-**Theories**
-Many speculate that the Ley Lines are cracks between our dimension and another, which is bleeding its own natural laws into our own.
-
-Others believe that the Ley Lines do not lead to another dimension at all, but are instead chains of densely packed energy particles which have been slowly dissipating for millennia.
-
-There are some people on the fringes who believe the Ley Lines are gateways to a mystical afterlife or were created by a non-human being of immense power.
-
-**Ley-Relic Energy**
-What we do know is that the cracks leak energy particles known as Ley-Relic Energy, and this energy is used to generate a powerful force which allows for the power of Relics.
-
-##### The Unknown
-**Lost Technologies**
-The remnant technologies and wonders of humanity, the Ancients, and the J'van are spread across the galaxy. What technologies could be uncovered? What truths discovered? What power could have been wielded by them?
-**Lost Races**
-Several races have been detailed in this book, and others will be described in future books. The Ancients and J’van created thousands of species. Where and what are they?
-**Aliens**
-Does life exist that was not created by humanity, the Ancients, or
-the J’van? And if it does, would we recognize it?
-**Sentient AI**
-As they were masters of electronic technologies and capable of creating the J'van, is it not reasonable to presume that humanity created other electronic children? But if they did, why did they not tell their beloved J'van? Are the Relicborne sentient?
-**Ley Lines**
-What is the true nature of the Ley Lines? Are they the result of a deliberate decision by humanity or an accident? Are there dimensions beyond ours? What other uses for Ley Energy exist?
+![[The Unknowns]]
 
 # Chapter Eight
 ## Professions
