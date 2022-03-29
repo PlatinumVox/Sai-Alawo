@@ -17,6 +17,8 @@ It's also important that you have a flashlight on board, as you never know when 
 -   Where you're dirigibling, e.g. inland or international waters; and
 -   Whether you at anchor.
 
+**Civilian Classifications**
+![[Dirigible Classes.jpg]]
 
 **Military Classifications**
 In the setting of Alawo the airships follow naming conventions similar to fortifications. Battleships are called Airfortresses because the first Airfortresses were just towable armored artillery guns that used lift cages to float in order to gain a better firing position.
@@ -30,8 +32,6 @@ Destroyer -> Aireduit
 Frigates -> Airturrets
 
 **Common Cargo Hauler; The Vinregues**
-
-
-![[Dirigible.jpg]]
+![[Vinregues.png]]
 
 #transport #public #modern
