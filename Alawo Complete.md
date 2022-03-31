@@ -433,3 +433,5 @@ Great War and are not non existent as a result of the Melding Plague.
 
 #### Nephilim Culture
 ![[Nephilim Reproduction]]
+
+![[Nephilim Hair Capping]]

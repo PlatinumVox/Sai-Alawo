@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "!General Encyclopedia/Modern Technology/Transport/Dirigible.md",
+            "file": "Alawo Complete.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "!General Encyclopedia/Modern Technology/Transport/Dirigible.md",
+                "file": "Alawo Complete.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "3b52d6323497e2e2",
   "lastOpenFiles": [
+    "Alawo Complete.md",
+    "!General Encyclopedia/Culture/Nephilim Hair Capping.md",
     "!General Encyclopedia/Modern Technology/Transport/Dirigible.md",
     "!General Encyclopedia/Currency/Sivik Links.md",
     "!General Encyclopedia/Currency/Dhani Chips.md",
     "!General Encyclopedia/Currency/Mari Bartering.md",
     "!General Encyclopedia/Currency/Rafanese Chits.md",
-    "Alawo Complete.md",
     "!General Encyclopedia/The Unknowns.md",
-    "Ley Lines.md",
-    "!General Encyclopedia/Modern Technology/Communication/Radio.md",
-    "!General Encyclopedia/Modern Technology/Communication/Data Hauling.md"
+    "!General Encyclopedia/Ancient Technology/Ley Lines.md",
+    "!General Encyclopedia/Modern Technology/Communication/Radio.md"
   ]
 }
