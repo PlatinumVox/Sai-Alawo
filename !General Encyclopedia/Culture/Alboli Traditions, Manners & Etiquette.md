@@ -15,4 +15,8 @@ While gestures of the hand are often subject to customary variation across cultu
 # Etiquette
 ### Restaurants
 In Sivik, while it’s still [generally considered polite] to allow those of a higher rank than you to go through a door first, that rule goes away when it comes time to enter a restaurant. By heading in first, the lower rank person of the group can be the one to talk to the host and get a table.
+
+When greeting someone older or of a higher status than yourself, grip their right wrist with your left hand while shaking it; it’s a sign of respect and deference. Do ask questions about their health, family, clan etc. before getting to major topics, as skipping these niceties is seen as impolite. If sharing meals, do not begin eating until the eldest male has been served and starts to eat.
+
+
 #alboli

@@ -23,7 +23,7 @@ Kaltorans with a propensity for crime and being a disgrace may forgo the use of 
 ### Importance of Color 
 A lot of Kaltoran color symbolism has been influenced by plays, with colors becoming associated with popular characters and later being used as a shorthand to invoke certain character archetypes to the audience. 
 
-Warm colors are generally "feminine", and cooler colors "masculine"
+**Warm colors are generally "feminine"**, and cooler colors **"masculine"**
 Red: Life, death, divinity, renewal; usually only worn by priests  
 Blue: Doubt, rest  
 Green: Wealth, maturity, trustworthiness  
@@ -59,5 +59,18 @@ Kaltoran names are comprised of:
 -    Older guests are usually expected to bring flowers. Don’t bring yellow flowers, as some Kaltorans see them as signifying separation or betrayal.
 -   Do not give a baby a gift until after the baby is born. It’s bad luck to do so sooner.
 -   Kaltorans often protest when they are offered a gift. Replying that “it’s just a little something” and offer the gift again and it will usually be graciously accepted.
+
+### Importance of Alcohol
+Turning down an alcoholic drink is considered terribly offensive in any Kaltoran home, so it’s a good idea to fortify yourself with some greasy food before heading out for a meal with a Kaltoran. Don’t smile at strangers or they’ll think you’re deranged, and when paying for items, place your money on the counter rather than trying to hand it directly to the cashier.
+
+### Bartering is Life
+
+The primary difference is that goods or services are exchanged immediately, and the exchange is reciprocal, meaning it’s a negotiated or fair trade, with each party getting the thing they want or need in an even amount to what they are offering in exchange.
+
+When not receiving items from a local business, often through Rafanese Coinage, transactions are done through the use of various bartering methods.
+
+Bartering allows individuals to get what they need with what they already own. If, for example, an individual needs lumber to put an addition onto their home but lacks funds to buy the lumber, then they may be able to use the barter system to supply their needs – for example, exchanging furniture they don’t need for the needed lumber.
+
+Such a deal, of course, needs to be negotiated by both parties. It is a reciprocal, mutually-beneficial arrangement that doesn’t involve the exchange of cash or another monetary medium
 
 #kaltoran

@@ -1,5 +1,8 @@
 # Traditions
 # Manners
+I don’t know about you, but I hate when I’m having dinner with someone and all they want to talk about is work.
+
+No country agrees with that sentiment more than the [[Dahani Triumvirate]]. In Dahani, it’s socially unacceptable to prattle on about your job at social events, and people will likely let you know about it. Even if you’re having a business luncheon, it’s best to keep your conversation strictly unprofessional until the other party indicated they’re ready to talk turkey.
 # Etiquette
 ### Dining Etiquette
 If you are invited to a Nephilim’s house:
