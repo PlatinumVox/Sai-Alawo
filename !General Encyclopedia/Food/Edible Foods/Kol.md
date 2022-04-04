@@ -1,0 +1,1 @@
+[[Kol]] is a radish-like fruit with an apple-like consistency.

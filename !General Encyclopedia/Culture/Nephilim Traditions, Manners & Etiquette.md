@@ -1,4 +1,8 @@
 # Traditions
+### Night of the Kol
+![[La Noche de Kol]]
+### Zyphine's Night
+![[Zyphine's Night]]
 # Manners
 ### Your Job is not your Life
 I don’t know about you, but I hate when I’m having dinner with someone and all they want to talk about is work.
