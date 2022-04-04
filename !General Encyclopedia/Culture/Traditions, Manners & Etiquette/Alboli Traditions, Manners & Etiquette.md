@@ -7,7 +7,7 @@ The base of the paint itself is mixed to have a smell that repels [[Frostmite]] 
 
 ![[Alboli Body Painting.png]]
 ### Stories
-Traditional storytelling and mythology play a large role in Alboli culture. For example, several legends center around the Aurora Borealis. Some communities believe that their ancestors can be seen dancing in the lights, while others believe that the Aurora Borealis will punish those who whistle at it. Gods such as the Old Woman, or Sedna, are believed to live under the sea and ice in wait for them to fall in, welcoming them to the afterlife.
+Traditional storytelling and mythology play a large role in Alboli culture. For example, several legends center around the Aurora Cappealis. Some communities believe that their ancestors can be seen dancing in the lights, while others believe that the Aurora Cappealis will punish those who whistle at it. Gods such as the Old Woman are believed to live under the sea and ice in wait for them to fall in, welcoming them to the afterlife.
 
 # Manners
 ### Lip Pointing
@@ -16,7 +16,7 @@ While gestures of the hand are often subject to customary variation across cultu
 ### Restaurants
 In Sivik, while it’s still [generally considered polite] to allow those of a higher rank than you to go through a door first, that rule goes away when it comes time to enter a restaurant. By heading in first, the lower rank person of the group can be the one to talk to the host and get a table.
 
-When greeting someone older or of a higher status than yourself, grip their right wrist with your left hand while shaking it; it’s a sign of respect and deference. Do ask questions about their health, family, clan etc. before getting to major topics, as skipping these niceties is seen as impolite. If sharing meals, do not begin eating until the eldest male has been served and starts to eat.
+When greeting someone older or of a higher status than yourself, grip their right wrist with your left hand while shaking it; it’s a sign of respect and deference. Do ask questions about their health, family, clan etc. before getting to major topics, as skipping these niceties is seen as impolite. If sharing meals, do not begin eating until the eldest or highest of rank has been served and starts to eat.
 
 
 #alboli

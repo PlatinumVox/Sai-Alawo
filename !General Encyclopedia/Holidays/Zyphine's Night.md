@@ -1,6 +1,3 @@
-**History**
-Descendant from the Indian Tradition of Holi, Nephilim celebrate their own version of Holi with an interpretation containing the ancients.
-
 **The Legend of Zyphine**
 The Ancient (human) god Zyphine was quite mischievous. He complained to his mother Ihdione that he didn’t like his dark blue skin and wanted to be greyer, like the Nephilim mortal love of his life Comis.
 
@@ -11,7 +8,7 @@ Some people believe this is why, during, everyone pelts each other with the perf
 **Activities**
 The festival consists primarily of dances and parties with colourful powders, which are held throughout the city of Andictoria. 
 
-During this holiday, many are known to dye their clothes or armor in colors of blue, antique gold, and coppery-orange. Many are also known to wear ceremonial, star-shaped masks. Cuisine commonly associated with the festival included barbecued beef meats as well as juices and alcoholic beverages of a pink color. The event is seen as a celebration of life, the ancients, and their gifts upon the Nephilim. 
+During this holiday, many are known to dye their clothes in colors of blue, antique gold, and coppery-orange. Many are also known to wear ceremonial, star-shaped masks. Cuisine commonly associated with the festival included barbecued beef meats as well as juices and alcoholic beverages of a pink color. The event is seen as a celebration of life, the ancients, and their gifts upon the Nephilim. 
 
 In this celebration, those celebrating toss colourful Gulal powders at each other.
 

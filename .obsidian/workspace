@@ -7,8 +7,12 @@
         "id": "1000eb9202f1849a",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Alawo Complete.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Alawo Complete.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,15 +88,15 @@
   },
   "active": "1000eb9202f1849a",
   "lastOpenFiles": [
-    "!General Encyclopedia/Culture/Traditions, Manners & Etiquette/Nephilim Traditions, Manners & Etiquette.md",
-    "!General Encyclopedia/Culture/Traditions, Manners & Etiquette/Kaltoran Traditions, Manners & Etiquette.md",
-    "!General Encyclopedia/Culture/Traditions, Manners & Etiquette/Alboli Traditions, Manners & Etiquette.md",
+    "Alawo Complete.md",
+    "!General Encyclopedia/Holidays/Zyphine's Night.md",
+    "!General Encyclopedia/Holidays/Selenpin.md",
+    "!General Encyclopedia/Holidays/March of the Juggler.md",
     "!General Encyclopedia/Holidays/La Noche de Kol.md",
-    "Religions/Dark Liithos Mysticism.md",
-    "!General Encyclopedia/Food/Edible Foods/Kol.md",
-    "!General Encyclopedia/Culture/Nephilim Reproduction.md",
     "!General Encyclopedia/Holidays/Famadihana.md",
-    "!General Encyclopedia/Food/Non-Farming/Kaltoran Food.md",
-    "!General Encyclopedia/Food/Non-Farming/Alboli Food.md"
+    "!General Encyclopedia/Culture/Traditions, Manners & Etiquette/Universal Cultural Norms.md",
+    "!General Encyclopedia/Culture/Alboli Reproduction.md",
+    "!General Encyclopedia/Culture/Kaltoran Reproduction.md",
+    "!General Encyclopedia/Culture/Nephilim Reproduction.md"
   ]
 }
