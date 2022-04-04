@@ -417,7 +417,7 @@ Great War and are not non existent as a result of the Melding Plague.
 ![[Marriage]]
 
 #### Alboli
-![[Alboli Body Painting]]
+![[Alboli Traditions, Manners & Etiquette]]
 ![[Alboli Reproduction]]
 ![[Alboli- The Longest Smear Campaign]]
 
@@ -426,7 +426,7 @@ Great War and are not non existent as a result of the Melding Plague.
 
 ![[Kaltoran Color]]
 
-![[Kaltoran Hair]]
+![[Kaltoran Traditions, Manners & Etiquette]]
 
 ![[Kaltoran Reproduction]]
 
@@ -434,4 +434,4 @@ Great War and are not non existent as a result of the Melding Plague.
 #### Nephilim Culture
 ![[Nephilim Reproduction]]
 
-![[Nephilim Hair Capping]]
+![[Nephilim Traditions, Manners & Etiquette]]
