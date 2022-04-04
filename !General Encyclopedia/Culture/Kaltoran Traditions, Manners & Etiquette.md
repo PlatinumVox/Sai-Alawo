@@ -1,10 +1,11 @@
+# Traditions
 ### Tradition of Hair Upkeep
 Overview
 Commonly fairer and wavier than the hair of humans. Long, well-maintained hair is paramount to any Kaltoran worth their salt. It is a deeply significant to their culture and represents things like: 
--Luck 
--Longevity 
--Commitment 
--Happiness
+- Luck 
+- Longevity 
+- Commitment 
+- Happiness
 
 Cutting of Hair
 Short hair is stigmatized and regarded as a rejection of traditional values, while light hair is believed to bring bad luck. Conversely, dark hair is a sign of good luck, but to snub your blessings and cut it is believed to invite divine retribution. Exiles, oath breakers and other undesirables are usually forced to cut of hair they've been caring for their whole lives. Any of these “undesirables ” are forced as punishment to remove the hair themselves in a public display of shame.
@@ -18,5 +19,45 @@ Many Kaltorans spend their entire lives growing out and maintaining beautiful, l
 ##### Stolen Valor
 
 Kaltorans with a propensity for crime and being a disgrace may forgo the use of a veil or bonnet and instead sink their teeth deeper into a criminal underbelly. This is often perpetuated through the usage of an underground wig culture. Since for kaltorans value the length of their hair, criminal kaltorans may use wigs to hide their criminality. The usage of wigs if caught can be seen as an even harsher crime and is punished as such by authorities.
+
+### Importance of Color 
+A lot of Kaltoran color symbolism has been influenced by plays, with colors becoming associated with popular characters and later being used as a shorthand to invoke certain character archetypes to the audience. 
+
+Warm colors are generally "feminine", and cooler colors "masculine"
+Red: Life, death, divinity, renewal; usually only worn by priests  
+Blue: Doubt, rest  
+Green: Wealth, maturity, trustworthiness  
+Yellow: Fate, death, deceit, mourning 
+Silver/gray:  Youth, strength, stubbornness  
+Brown: Safety, control, knowledge  
+Pink: Innovation, humor, mischief  
+Orange: Intimacy, devotion, passion
+Purple: Indulgence, foolishness, fun  
+Black: Boldness, compassion, wisdom  
+White: Peace, sleep, sickness
+
+### Respect for the Dead
+In Mari, the Kaltoran people take respect for dead ancestors to new levels with a ritual known as Famadihana. During Famadihana, people disinter dead relations from family crypts, and rewrap the bodies. Music and dancing ensue as participants parade the bodies around the tombs, and eventually return them to their resting places.
+
+This observance makes the point that the dead are always with us and should never be forgotten, both literally and figurately .
+
+# Manners
+### Greetings
+The typical Kaltoran greeting is a firm hug with a kiss on the cheek. A meeting between close friends often begins with a pat on the back and a hug.
+
+### Kaltoran Naming Conventions
+
+Kaltoran names are comprised of:
+-   A first name, which is the given name
+-   A middle name, which is a patronymic, or version, of the parent’s first name. It’s formed by adding ‘-avna’ or ‘-ovna’ to the end of a name. The son of Mikhail’s patronymic name would be Mikhailovna.
+-   Last name, which is the family name or surname –  In formal situations, people are addressed by all three names. Friends and close acquaintances may refer to each other by the first name and patronymic.
+-   Close friends and family members call each other by first name only.
+
+# Etiquette
+### Gift Giving Etiquette
+-   If you are invited to a Kaltoran home for a meal, bring a small gift.
+-    Older guests are usually expected to bring flowers. Don’t bring yellow flowers, as some Kaltorans see them as signifying separation or betrayal.
+-   Do not give a baby a gift until after the baby is born. It’s bad luck to do so sooner.
+-   Kaltorans often protest when they are offered a gift. Replying that “it’s just a little something” and offer the gift again and it will usually be graciously accepted.
 
 #kaltoran
