@@ -1,8 +1,15 @@
 # Traditions
 # Manners
+### Your Job is not your Life
 I don’t know about you, but I hate when I’m having dinner with someone and all they want to talk about is work.
 
 No country agrees with that sentiment more than the [[Dahani Triumvirate]]. In Dahani, it’s socially unacceptable to prattle on about your job at social events, and people will likely let you know about it. Even if you’re having a business luncheon, it’s best to keep your conversation strictly unprofessional until the other party indicated they’re ready to talk turkey.
+
+### Physical Touch
+Touch has been used for healing purposes by different cultures for millennia. Many cultures today still understand the importance of touch and some cultures live skin-to-skin, starting early on by passing their babies from person to person, regardless of their age. Yet many cultures around the world have lost touch and wellbeing levels are suffering as a result, a major example of this is the Nephilim.
+
+Within Nephilim culture it is common that a simple handshake is seen as enough physical contact in public settings. An average Nephilim may stand further away when talking, maintain less eye contact and usually steer clear of touch.
+
 # Etiquette
 ### Dining Etiquette
 If you are invited to a Nephilim’s house:

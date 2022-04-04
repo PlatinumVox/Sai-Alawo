@@ -43,7 +43,7 @@ This observance makes the point that the dead are always with us and should neve
 
 # Manners
 ### Greetings
-The typical Kaltoran greeting is a firm hug with a kiss on the cheek. A meeting between close friends often begins with a pat on the back and a hug.
+The typical Kaltoran greeting is a firm hug with a kiss on the cheek. A meeting between close friends often begins with a pat on the back and a hug. The average Kaltoran will often stand closer to each other, make more eye contact, speak louder and incorporate touch more frequently in casual and public settings.
 
 ### Kaltoran Naming Conventions
 
