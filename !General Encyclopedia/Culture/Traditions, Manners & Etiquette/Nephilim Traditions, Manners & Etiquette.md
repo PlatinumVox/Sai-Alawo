@@ -3,6 +3,18 @@
 ![[La Noche de Kol]]
 ### Zyphine's Night
 ![[Zyphine's Night]]
+
+### Jewelry and Décor
+- tail jewelry
+	- Gold capped = married
+	- Silver capped = Widowed
+- ear jewelry
+- tail jewelry
+	- bodily tail studs
+		- studs are often times used to signal that a Nephilim has had many successes in their chosen life profession
+		- For example a master [[Char]] may have dozens of studs on their tails representing every masterpiece recipe/restaurant that they have crafted
+	- Specialty jewerly signifies different life achievements
+	- Nephilim as a whole put more ephasis on representing sucess in their everyday life
 # Manners
 ### Your Job is not your Life
 I don’t know about you, but I hate when I’m having dinner with someone and all they want to talk about is work.
