@@ -1,6 +1,6 @@
 # Chapter One
 ### Setting
-
+![[Ruins.png]]
 ### Core Concepts
 This page highlights the most important aspects of the world - the core concepts of the Wildsea. If you have a little more time, the rest of the chapters delves into more detail.
 
@@ -19,10 +19,11 @@ genetically engineered successors and leave behind remnants of themselves in the
 
 **Exploration**
 This new society is built not only on the ruins of the J'van’
-empire, but also on top of the ancient human empire and who knows
-what else.
+empire, but also on top of the ancient human empire and who knows what else.
 
 *» What is out there?*
+
+
 
 ### Lost Bloodlines
 - [[J'van]]
