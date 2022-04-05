@@ -14,6 +14,4 @@ Wan Saliva preservation, they will store food to survive in an area longer
 **Smell:** Musky - a mixture of sweat and old blood. 
 **Taste:** Wan-Marten meat is tough, and tastes bitter unless charred or fried (when it’s then surprisingly buttery).
 
-![[Tusker]]
-
 #ruins #beasts 

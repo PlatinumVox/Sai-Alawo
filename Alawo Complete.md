@@ -13,7 +13,8 @@ formed from their experiences, core beliefs, and genetic nature.
 
 **Genetic Engineering**
 Humanity is long dead, but they managed to created their own
-genetically engineered successors and leave behind remenants of themselves in the form of roaming ancient machines known as the [[Liocrae]].
+genetically engineered successors and leave behind remnants of themselves in the form of roaming ancient machines known as the [[Liocrae]].
+
 *» What responsibility comes with the ability to make life?*
 
 **Exploration**
