@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Species Bestiary/Lost Bloodlines/The Ancients.md",
+            "file": "Species Bestiary/Beasts/Lumafly.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Species Bestiary/Lost Bloodlines/The Ancients.md",
+                "file": "Species Bestiary/Beasts/Lumafly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "1000eb9202f1849a",
   "lastOpenFiles": [
+    "Species Bestiary/Beasts/Lumafly.md",
+    "Species Bestiary/Beasts/Arrow-Tongue Jikari.md",
+    "Species Bestiary/Beasts/Capral-Khaff.md",
+    "Species Bestiary/Beasts/Cactipine.md",
     "Species Bestiary/Lost Bloodlines/The Ancients.md",
     "Alawo Complete.md",
     "!General Encyclopedia/Culture/Traditions, Manners & Etiquette/Nephilim Traditions, Manners & Etiquette.md",
     "!General Encyclopedia/Culture/Traditions, Manners & Etiquette/Alboli Traditions, Manners & Etiquette.md",
     "!General Encyclopedia/Culture/Traditions, Manners & Etiquette/Kaltoran Traditions, Manners & Etiquette.md",
-    "!General Encyclopedia/Professions/Char.md",
-    "Species Bestiary/Ancient Descendants/Liocrae.md",
-    "Species Bestiary/Beasts/Wan-Martens.md",
-    "!General Encyclopedia/Professions/Tusker.md",
-    "!General Encyclopedia/Holidays/Zyphine's Night.md"
+    "!General Encyclopedia/Professions/Char.md"
   ]
 }
