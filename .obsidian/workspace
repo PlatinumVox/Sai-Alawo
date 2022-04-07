@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/Major Cities/Zunser.md",
+            "file": "Locations/Major Cities/Yula.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Major Cities/Zunser.md",
+                "file": "Locations/Major Cities/Yula.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "1000eb9202f1849a",
   "lastOpenFiles": [
+    "Locations/Major Cities/Yula.md",
+    "Locations/Major Cities/Hantin.md",
     "Locations/Major Cities/Zunser.md",
     "Locations/Major Cities/Marma.md",
     "Locations/Major Cities/Karlo-Dais.md",
     "Locations/Major Cities/Kardash.md",
     "Locations/Major Cities/Andictoria.md",
     "Locations/Major Cities/Breachport.md",
-    "Locations/Major Cities/Hantin.md",
     "!General Encyclopedia/Countries/Khaganate of Sivik.md",
-    "Species Bestiary/Beasts/Lumafly.md",
-    "Species Bestiary/Beasts/Arrow-Tongue Jikari.md"
+    "Species Bestiary/Beasts/Lumafly.md"
   ]
 }
