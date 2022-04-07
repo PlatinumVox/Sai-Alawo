@@ -1,13 +1,19 @@
-The buildings and even the inhabitants of the city were capable of modifying themselves. The coming of the Plague changed all this and reduced the city and its inhabitants to a level of technology that the Plague could not attack. By the time that the worst of the Plague had passed, the city was almost unrecognizable, its buildings twisted and deformed and the population decimated by the Plague.
+#### Basic Description
+##### How was it formed?
+Capital was mainly the main city owned by the current Triumvirate Leader. That is why Dhanani really has one major city completely dwarfing the rest of the "larger" city centers
 
 **Biome**
-Temperate Deciduous Forest
+
+
 **Dominating Ethnic Groups**
-[Kaltoran]] [Hybrid Nephilim] [Pure Nephilim]
+[[Nephlim]]
+
 **Time Zone**
-Central Sanasian Time
+Western Sanasian Time
+
 **Currency**
-Rafan Marks
+[[Dhani Chips]]
+
 **Major Imports**
 
 **Major Exports**

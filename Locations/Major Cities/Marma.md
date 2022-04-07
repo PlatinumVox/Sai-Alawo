@@ -1,13 +1,19 @@
-The buildings and even the inhabitants of the city were capable of modifying themselves. The coming of the Plague changed all this and reduced the city and its inhabitants to a level of technology that the Plague could not attack. By the time that the worst of the Plague had passed, the city was almost unrecognizable, its buildings twisted and deformed and the population decimated by the Plague.
+#### Basic Description
+##### How was it formed?
+Marma is an example of a made up capital. By that it means, cities built solely for the purpose of being the capital but with no prior importance. They generally appear when there was a big change of regime like a mass influx of scholarly and Exillia Alboli.
 
 **Biome**
 Temperate Deciduous Forest
+
 **Dominating Ethnic Groups**
-[Kaltoran]] [Hybrid Nephilim] [Pure Nephilim]
+[[Alboli]]
+
 **Time Zone**
-Central Sanasian Time
+Eastern Sanasian Time
+
 **Currency**
-Rafan Marks
+[[Rafanese Chits]]
+
 **Major Imports**
 
 **Major Exports**

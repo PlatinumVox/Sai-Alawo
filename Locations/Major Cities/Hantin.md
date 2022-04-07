@@ -1,13 +1,20 @@
-The buildings and even the inhabitants of the city were capable of modifying themselves. The coming of the Plague changed all this and reduced the city and its inhabitants to a level of technology that the Plague could not attack. By the time that the worst of the Plague had passed, the city was almost unrecognizable, its buildings twisted and deformed and the population decimated by the Plague.
+#### Basic Description
+
+##### How was it formed?
+[[]] is the adminstrative and political  capital of the Sivik Khanate while Hantin is the offical and economic captial of [[Khaganate of Sivik]]. 
 
 **Biome**
-Temperate Deciduous Forest
+White Gum Wastes
+
 **Dominating Ethnic Groups**
-[Kaltoran]] [Hybrid Nephilim] [Pure Nephilim]
+[[Alboli]]
+
 **Time Zone**
-Central Sanasian Time
+Eastern Sanasian Time
+
 **Currency**
-Rafan Marks
+[[Sivik Links]]
+
 **Major Imports**
 
 **Major Exports**
