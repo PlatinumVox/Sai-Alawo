@@ -24,5 +24,11 @@ However the true act is 3 fold.
 
 ![[Rings.jpg]]
 
+### Waystone Rings
+
+These Kilo-meter tall rings were probably once aligned long ago to enact and unknown purpose are not scattered hap hazardly along the equator.
+
+
+
 #plagueresistant #ancient
 #major-landscape
