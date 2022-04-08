@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "!General Encyclopedia/Landscape Features/Rings.md",
+            "file": "Species Bestiary/Beasts/Motefly.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "!General Encyclopedia/Landscape Features/Rings.md",
+                "file": "Species Bestiary/Beasts/Motefly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "1000eb9202f1849a",
   "lastOpenFiles": [
+    "Species Bestiary/Beasts/Motefly.md",
+    "Species Bestiary/Beasts/Sea Callers.md",
     "!General Encyclopedia/Landscape Features/Rings.md",
+    "Species Bestiary/Plants/Moteshrooms.md",
     "!General Encyclopedia/Ancient Technology/Ley Lines.md",
     "!General Encyclopedia/Ancient Technology/Ghosts.md",
     "!General Encyclopedia/Ancient Technology/Artifacts.md",
     "Locations/Major Cities/Yula.md",
     "Locations/Major Cities/Hantin.md",
-    "Locations/Major Cities/Zunser.md",
-    "Locations/Major Cities/Marma.md",
-    "Locations/Major Cities/Karlo-Dais.md",
-    "Locations/Major Cities/Kardash.md"
+    "Locations/Major Cities/Zunser.md"
   ]
 }

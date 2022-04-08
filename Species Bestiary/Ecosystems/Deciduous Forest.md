@@ -3,7 +3,7 @@ The word “Deciduous” means “out at a certain season.” This is why Decidu
 
 ![[Ferrite Grass]]
 
-![[Luminshrooms]]
+![[Moteshrooms]]
 
 ### Animals
 [[Sea Callers]]

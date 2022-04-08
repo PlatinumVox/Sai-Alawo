@@ -1,6 +1,6 @@
 ![[Ferrite Grass]]
 
-![[Luminshrooms]]
+![[Moteshrooms]]
 
 ### Animals
 [[Retchbeaks]]

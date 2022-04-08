@@ -277,7 +277,7 @@ Grofix paced the room thoughtfully as Gregory smoked.
 
 ![[Lancetrap]]
 
-![[Lumafly]]
+![[Motefly]]
 
 ![[Pangola]]
 

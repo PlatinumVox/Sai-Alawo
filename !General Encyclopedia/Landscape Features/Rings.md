@@ -1,34 +1,18 @@
-The ancient Terraforming Rings span across the Alawoian surface lapping the entire equator.
-
-Standing roughly 5KM from surface to top in the tallest examples and at exact intervals of 10KM between each ring they scar the land and are a significant part of many of the Alawoian peoples cultures and religions.
-
-They have long since died during the many centuries since the Ancient Age, but their effect is apparent as life flourishes.
-
-Archives since discovered have shown that the rings were only a small preliminary part of a much larger structure that had never came to fruition
-
-Many attempts have been made to reactivate the more intact segments but not once has it worked. In more recent times it was discovered that the interior holds extremely volatile and energy rich materials which have become incredibly valuable resources in some cultures, while in other cultures it is the highest crime to interfere with the rings and whatever spirituality they hold.
-
-**Presence**
-**Sight:** Large rings that often dominate the horizon of central Alawo
-**Sound:** Soft thump of metal and inner noises within.
-
-**What are the Rings' Functions?**
-Lore wise, it is unknown.
-However the true act is 3 fold.
-
-1.  Vapor capture, they capture water vapor in the air and recirculate it into the ground allowing for fertile land and breathable air.
-    
-2.  Magnetic barrier, Alawo has long since lost its natural magnetic field so a way to create an artificial one existed, but at this early stage of construction it is unlikely that it had yet managed to do that.
-    
-3.  Atmospheric control, they could regulate the atmospheric gasses as Human development continued.
-
 ![[Rings.jpg]]
 
 ### Waystone Rings
 
-These Kilo-meter tall rings were probably once aligned long ago to enact and unknown purpose are not scattered hap hazardly along the equator.
+These Kilo-meter tall rings were probably once aligned long ago to enact and unknown purpose are not scattered haphazardly along the equator. Often carved and with designs or inscribed with messages in the ancients language, these rings continue to aid travelers and [[Lascar]]s to this day.
 
+##### Rest for the Weary
+When resting in the presence of a ring, you will often gain additional benefits from the innate ley-relic powers imbued within the rings themselves. Travelers along the Equator airway in [[Dirigible]]s will often set camp nearby a ring for safety as, oddly enough trees, plants and local wildlife seem to avoid these mysterious rings a majority of the time. That is, unless there is an enticing enough meal within.
 
+##### Comforting Light
+Much like other ruins around Alawo a  bioluminescence of Moteflies and [[Moteshrooms]] surrounds the area. As dusk falls, a number of small motes of light will often appear around the base of the Rings, providing a comforting presence and gentle illumination. These motes, which are believed to be relic based last from dusk until dawn and provide a dim light up to 30 meters from the rings.
+
+**Presence**
+**Sight:** Large rings that often dominate the horizon of central Alawo
+**Sound:** Soft thump of metal and inner noises within.
 
 #plagueresistant #ancient
 #major-landscape
