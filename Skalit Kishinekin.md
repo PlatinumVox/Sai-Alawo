@@ -3,4 +3,4 @@ Major Powers
 [[Khaganate of Sivik]]
 
 Type
-Specializes in Relic based Weaponry
+Specializes in Relic based Energy Weaponry
