@@ -31,7 +31,14 @@ Destroyer -> Aireduit
 
 Frigates -> Airturrets
 
-**Common Cargo Hauler; The Vinregues**
-![[Vinregues.png]]
+Major Military Producers
+![[Stairwell Tower]]
+
+![[Akara & Kaizen]]
+
+![[Skalit Kishinekin]]
+
+![[Enki]]
+
 
 #transport #public #modern

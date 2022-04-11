@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "!General Encyclopedia/Landscape Features/Shimmering Sea.md",
+            "file": "!General Encyclopedia/Modern Technology/Transport/Dirigible.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "!General Encyclopedia/Landscape Features/Shimmering Sea.md",
+                "file": "!General Encyclopedia/Modern Technology/Transport/Dirigible.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "1000eb9202f1849a",
   "lastOpenFiles": [
+    "!General Encyclopedia/Modern Technology/Transport/Dirigible.md",
+    "Enki.md",
+    "Skalit Kishinekin.md",
+    "Akara & Kaizen.md",
+    "Stairwell Tower.md",
+    "!General Encyclopedia/Currency/Dhani Chips.md",
     "!General Encyclopedia/Landscape Features/Shimmering Sea.md",
     "!General Encyclopedia/Landscape Features/Wandering Ruins.md",
     "Short Stories/Community Manager.md",
-    "Maps/Alawo Shell.png",
-    "Locations/Major Cities/Hantin.md",
-    "Locations/Major Cities/Kardash.md",
-    "Species Bestiary/Plants/Rottshroom.md",
-    "Species Bestiary/Plants/Pattern Jugglers.md",
-    "Species Bestiary/Plants/Moteshrooms.md",
-    "Species Bestiary/Plants/Lungmelon.md"
+    "Maps/Alawo Shell.png"
   ]
 }
