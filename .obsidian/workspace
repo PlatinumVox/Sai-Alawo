@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/Major Cities/Hantin.md",
+            "file": "!General Encyclopedia/Landscape Features/Shimmering Sea.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Major Cities/Hantin.md",
+                "file": "!General Encyclopedia/Landscape Features/Shimmering Sea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "1000eb9202f1849a",
   "lastOpenFiles": [
+    "!General Encyclopedia/Landscape Features/Shimmering Sea.md",
+    "!General Encyclopedia/Landscape Features/Wandering Ruins.md",
+    "Short Stories/Community Manager.md",
+    "Maps/Alawo Shell.png",
     "Locations/Major Cities/Hantin.md",
     "Locations/Major Cities/Kardash.md",
     "Species Bestiary/Plants/Rottshroom.md",
     "Species Bestiary/Plants/Pattern Jugglers.md",
     "Species Bestiary/Plants/Moteshrooms.md",
-    "Species Bestiary/Plants/Lungmelon.md",
-    "Species Bestiary/Plants/Ferrite Grass.md",
-    "Species Bestiary/Plants/Caelmoss.md",
-    "Species Bestiary/Ecosystems/Ruins.md",
-    "Short Stories/The Signalhound.md"
+    "Species Bestiary/Plants/Lungmelon.md"
   ]
 }
