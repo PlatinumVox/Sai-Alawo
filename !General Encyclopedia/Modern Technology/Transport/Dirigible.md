@@ -10,6 +10,8 @@ Whenever you are operating between sunset and sunrise, or in other times of rest
 
 In general, all navigation light systems include red and green sidelights, which indicate the port and starboard side of your dirigible, the fore (upper) and aft trailing light (lower) using blue and yellow respectively, as well as one or more white lights.
 
+![[foreaft.png]]
+
 It's also important that you have a flashlight on board, as you never know when a navigation light might burn out. The rules for what navigation lights to display depend on a number of factors including:
 
 -   The length of your dirigible: e.g. under or over 12 meters;
