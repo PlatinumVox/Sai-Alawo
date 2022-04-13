@@ -9,6 +9,13 @@ The base of the paint itself is mixed to have a smell that repels [[Frostmite]] 
 ### Stories
 Traditional storytelling and mythology play a large role in Alboli culture. For example, several legends center around the Aurora Cappealis. Some communities believe that their ancestors can be seen dancing in the lights, while others believe that the Aurora Cappealis will punish those who whistle at it. Gods such as the Old Woman are believed to live under the sea and ice in wait for them to fall in, welcoming them to the afterlife.
 
+### Afterlife
+At first it started as just a grimly pragmatic response to living deep in the [[White Gum Wastes]]  with limited resources, but over the centuries it was wrapped in layers of ritual and religion and nowadays it's seen as a sign of love and respect as by consuming the flesh of a dead loved one they take a piece of their spirit into themselves and, hopefully, gain a bit of their positive attributes such as bravery and resourcefulness.
+
+If a healthy Alboli is slain in combat, old age, or by misadventure. The funeral rite will consist of a ritual prayer ceremony where the body is blessed and prayed over as the meat and bone are harvested, the meat is typically salted and added to the preserved food stockpile. And the bones are relinquished to the family of the Alboli and traditionally weapons such as a [[dhāw]] and trinkets are carved from these bones. (In the case that the deceased was either legendary in strength or killed “in glory” the meat will be eaten fresh and raw; according to Alboli tradition this will allow the clan to adopt more of the strength of the fallen.)
+
+If an Alboli is killed by disease or cowardice the bodies are left outside the encampment undisturbed until dried. Albolis regularly hold ceremonial bonpyres where they drink and feast and burn the dried bodies a top a large wooden structure to purify them of the disease that suffered them in life.
+
 # Manners
 ### Lip Pointing
 While gestures of the hand are often subject to customary variation across cultures, few can claim this phenomenon extends to contortions of the mouth. In Sivik, it is common to point with the lips instead of the thumb or index finger like the majority of the world. Wondering just how exactly a person points with their lips? It all starts by puckering up. Once an Alboli has their duck face on, they can direct their lips forward or side-to-side to indicate what it is they’d like to point out. The lip point is typically used in conversation to indicate something that is happening nearby.

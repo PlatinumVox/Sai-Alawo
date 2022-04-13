@@ -37,7 +37,11 @@ Black: Boldness, compassion, wisdom
 White: Peace, sleep, sickness
 
 ### Respect for the Dead
+With the specters of their ancestors forever hanging over them, a deep respect from the dead is forever held within the very soul of every Kaltoran.
+
+A lost ancestor often are interred in complex familial crypts, once interred it is believed that they will ascend to the afterlife and into the descendants of their families.
 ![[Famadihana]]
+
 
 ### Honoring your Ancestors
 ![[March of the Juggler]]
