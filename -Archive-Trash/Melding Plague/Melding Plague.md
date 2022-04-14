@@ -2,8 +2,7 @@ The Melding Plague attacked our society at the core. It was not quite a biologic
 
 The **Melding Plague** is a nanotech virus that attacks anything that has nanotechnology present within it and does not discriminate between human and machine. It attempts to meld the nanomachines and implants that are commonly present in the bodies of humans, with the structure of their body on a cellular level. This results in horrific, uncontrollable modifications to the body of whoever is infected and almost inevitably leads to death.
 
-The majority of those affected with the Melding plague have a 50% chance of death, although the melding plague is rare there is still a constant fear of infection. With the blood and body filled with rampant nanomachines those infected come out the other end with major changes.
+The majority of those affected with the Melding plague have a 90% chance of death, although the melding plague is rare there is still a constant fear of infection. With the blood and body filled with rampant nanomachines those infected come out the other end with major changes.
 
-**Beginning of the Flock**
-With the arising of the melding plague in the very early 60th century an organization was quickly founded after the first major infection. After this infection was quelled 46 years later the Bird House quickly became complacent, eventually causing the arrival of the second wave around 65 years later which ripped through the continent mercilessly and still does in the present day.
+
 
