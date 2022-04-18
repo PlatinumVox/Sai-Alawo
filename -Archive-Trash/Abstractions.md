@@ -1,5 +1,0 @@
-_Abstraction_ is the process by which Nephilim, Kaltorans and Alboli with neural implants gain access to wireless data networks, the data rate of which is far beyond anything current technology can offer.
-
-_Entoptics_ another feature of abstraction technology and consist of various sensory layers added to, or substituted for, normal, unfiltered perception. These effects can either be created by a single person (e.g., the projection of the appearance of clothing, glowing tattoos, etc.) or an authority (e.g., public visual displays "projected" into mid-air without the use of any actual display devices). Especially after the advent of the Melding Plague, maintain access through goggles designed to tap into the local network. Though the term is usually limited to refer to visual effects, the abstraction layer can be used to create a wide range of sensory inputs, provided one has the appropriate implants.
-
-#plagueweak 

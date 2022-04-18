@@ -110,12 +110,10 @@ Bio Search gives them as follows:
 - Alboli-Nephilim War
 - Formation of the Kaltorans
 - Rise of the Nephilim Domination; Killing of their Masters
-- First Melding Plague
 	- Loss of Bio Technology
 - Decay of the Nephilim
 - Kaltoran Land Generation
 - Dark Tribe Rise
-- Secondary Melding Plague
 	- Loss of Mechanical Technology
 - Rise of Relic Technology
 - Present Day
@@ -353,10 +351,7 @@ The most popular form of currency is [[Rafanese Chits]]. However, valuable commo
 ##### **Communication**
 There are three common forms of long-distance communication within the Alawoian world. From shortest to longest range they are Radio and Data Hauling.
 
-*[[Data Hauling]]*
-Because the distance between settlements is so vast, relic-drives of data must be physically hauled by individual Dirigibles. Most data hauling is done alongside other trade cargo, but on
-occasion mercenary teams will transport rare, expensive, or
-sensitive data as their sole cargo, or hide it in their cache.
+![[Data Hauling]]
 
 *[[Radio]]*
 This ancient form of communication is used for a wide range of communications between individuals, cities, space craft, and [[Dirigible]].
@@ -366,7 +361,7 @@ This ancient form of communication is used for a wide range of communications be
 ##### **Computers**
 The development of computers had largely ended with the human
 empire, and since then it stagnated and even declined up until the
-Great War and are not non existent as a result of the Melding Plague.
+Great War and are not non existent as a result of the discovery of the uses of relics.
 
 ##### **Relics**
 ![[Artifacts]]
