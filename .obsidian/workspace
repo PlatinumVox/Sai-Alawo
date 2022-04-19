@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "!General Encyclopedia/Modern Technology/Communication/Data Hauling.md",
+            "file": "!General Encyclopedia/Modern Technology/Relic-Computer.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "!General Encyclopedia/Modern Technology/Communication/Data Hauling.md",
+                "file": "!General Encyclopedia/Modern Technology/Relic-Computer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +89,8 @@
   },
   "active": "7fb1d227604e5643",
   "lastOpenFiles": [
-    "!General Encyclopedia/Modern Technology/Communication/Data Hauling.md",
     "!General Encyclopedia/Modern Technology/Relic-Computer.md",
+    "!General Encyclopedia/Modern Technology/Communication/Data Hauling.md",
     "Alawo Complete.md",
     "Untitled.md",
     "!General Encyclopedia/The Unknowns.md",

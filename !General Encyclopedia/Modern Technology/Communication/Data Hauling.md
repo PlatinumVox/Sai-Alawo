@@ -1,1 +1,2 @@
+![[Reel to Reel 1.png]]
 As a result of the distances between settlements being so vast, Universal Reel to Reel Storage Units of data must be physically hauled by individual Dirigibles. Most data hauling is done alongside other trade cargo, but on occasion mercenary teams will transport rare, expensive, or sensitive data as their sole cargo, or hide it in their cache.
