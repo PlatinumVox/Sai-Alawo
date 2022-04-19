@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "1000eb9202f1849a",
+        "id": "7fb1d227604e5643",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "!General Encyclopedia/Modern Technology/Communication/Data Hauling.md",
+            "file": "Alawo Complete.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "!General Encyclopedia/Modern Technology/Communication/Data Hauling.md",
+                "file": "Alawo Complete.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,19 +84,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209
+    "width": 206
   },
-  "active": "1000eb9202f1849a",
+  "active": "7fb1d227604e5643",
   "lastOpenFiles": [
-    "!General Encyclopedia/Modern Technology/Communication/Data Hauling.md",
-    "!General Encyclopedia/Modern Technology/Relic-Computer.md",
     "Alawo Complete.md",
+    "!General Encyclopedia/The Unknowns.md",
+    "!General Encyclopedia/Modern Technology/Relic-Computer.md",
+    "!General Encyclopedia/Companies/Stairwell Tower.md",
+    "!General Encyclopedia/Modern Technology/Communication/Data Hauling.md",
+    "!General Encyclopedia/Companies/Skalit Kishinekin.md",
     "!General Encyclopedia/Countries/Emirate of Biyaha.md",
     "-Archive-Trash/ZHSRA.md",
     "-Archive-Trash/Abstractions.md",
-    "-Archive-Trash/Death of the Stricken.md",
-    "-Archive-Trash/Melding Plague/Melding Plague.md",
-    "!General Encyclopedia/Modern Technology/Transport/Dirigible.md",
-    "!General Encyclopedia/Countries/Marian United Republic.md"
+    "-Archive-Trash/Death of the Stricken.md"
   ]
 }

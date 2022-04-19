@@ -2,12 +2,12 @@
 ### Setting
 ![[Ruins.png]]
 ### Core Concepts
-This page highlights the most important aspects of the world - the core concepts of the Wildsea. If you have a little more time, the rest of the chapters delves into more detail.
+This page highlights the most important aspects of the world - the core concepts of the Alawo world. If you have a little more time, the rest of the chapters delves into more detail.
 
 **Cultural Tension**
 Shaped by the Alboli-Nephilim War and what it took to survive it, the races
 have had one hundred years to create their own distinctive cultures,
-formed from their experiences, core beliefs, and genetic nature.
+formed from their experiences, core beliefs, and genetic nature. All separated by both vast distance and dangerous ruins.
 
 *» What do you live for?*
 
@@ -18,11 +18,9 @@ genetically engineered successors and leave behind remnants of themselves in the
 *» What responsibility comes with the ability to make life?*
 
 **Exploration**
-This new society is built not only on the ruins of the J'van’
-empire, but also on top of the ancient human empire and who knows what else.
+This new society is built not only on the ruins of the J'van’s empire, but also on top of the ancient human empire and who knows what else.
 
 *» What is out there?*
-
 
 
 ### Lost Bloodlines
@@ -114,8 +112,13 @@ Bio Search gives them as follows:
 - Decay of the Nephilim
 - Kaltoran Land Generation
 - Dark Tribe Rise
-	- Loss of Mechanical Technology
 - Rise of Relic Technology
+- Age of Nation Expansion
+	- Mass [[[Dirigible]] adoption
+	- Tensions between Nations rise
+	- Nations expand territories over a short 100 year period
+	- Found new cities
+	- Relics allow for an easier crossing of the landscapes
 - Present Day
 
 **Discovery of the Pattern Jugglers**
@@ -259,7 +262,7 @@ Grofix paced the room thoughtfully as Gregory smoked.
 ## Ruins and Wildlife
 
 #### Ruins
-
+![[Artifacts]]
 #### Wildlife
 ![[Arrow-Tongue Jikari]]
 
@@ -325,25 +328,20 @@ Grofix paced the room thoughtfully as Gregory smoked.
 # Chapter Six
 ## Daily Life
 ##### **Domestic**
-In households throughout the Haven system, small and commonly
-overlooked technologies do their part. Many of these techs have a
-simple and specific function related to basic survival needs, such as
-preparing food, controlling the environment, and cleaning.
+In households throughout the Alawo system, small and commonly overlooked technologies do their part. Many of these techs have a
+simple and specific function related to basic survival needs, such as preparing food, controlling the environment, and cleaning.
 
-Occasionally, these technologies can be surprisingly advanced,
-as they were considered quite valuable during the Years of
-Darkness after the Great War. The many advanced technologies
-would be difficult to understand if the races did not hold onto their
-knowledge by constructing and maintaining these commonplace yet
-vital technologies.
+Occasionally, these technologies can be surprisingly advanced, as they were considered quite valuable during the Years of
+Darkness after the Great War. The many advanced technologies would be difficult to understand if the races did not hold onto their
+knowledge by constructing and maintaining these commonplace yet vital technologies.
 
 ##### **Food Production**
-Many means of producing food exist across the Alawoian continent,
-including mass farming, hydroponics, hunting, and foraging.
-Much of what decides the method used on any given world is the
-environment of the area.
-In arctic environments, food is commonly produced through a
-combination of enclosed farms and hunting.
+Many means of producing food exist across the Alawoian continent, including mass farming, hydroponics, hunting, and foraging.
+Much of what decides the method used on any given world is the environment of the area.
+
+In arctic environments, food is commonly produced through a combination of enclosed farms and hunting. 
+
+While vast swaths of heavily protected farmland with large solar towers dotted throughout dominate the landscape of major nations as Dirigibles allow for a taking of land from the untamed wilds.
 
 ##### **Currency**
 The most popular form of currency is [[Rafanese Chits]]. However, valuable commodities such as precious minerals, ammunition, food, and favours are also commonly traded. Digital financial institutions such as banks and stock exchanges are rare outside of the Dahani Triumvirate or Rafan Trade Company.
@@ -354,13 +352,12 @@ There are three common forms of long-distance communication within the Alawoian 
 ![[Data Hauling]]
 
 *[[Radio]]*
-This ancient form of communication is used for a wide range of communications between individuals, cities, space craft, and [[Dirigible]].
+This ancient form of communication is used for a wide range of communications between individuals, cities, and [[Dirigible]].
 
 # Chapter Seven
 ## Technology
 ##### **Computers**
-The development of computers had largely ended with the human
-empire, and since then it stagnated and even declined up until the
+The development of computers had largely ended with the human empire, and since then it stagnated and even declined up until the
 Great War and are not non existent as a result of the discovery of the uses of relics.
 
 ##### **Relics**
