@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Alawo Complete.md",
+            "file": "Species Bestiary/Ancient Descendants/Alboli.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alawo Complete.md",
+                "file": "Species Bestiary/Ancient Descendants/Alboli.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "7fb1d227604e5643",
   "lastOpenFiles": [
+    "Species Bestiary/Ancient Descendants/Alboli.md",
     "Alawo Complete.md",
     "Species Bestiary/Beasts/Wan-Martens.md",
     "!General Encyclopedia/Modern Technology/Relic-Computer.md",
@@ -96,7 +97,6 @@
     "!General Encyclopedia/The Unknowns.md",
     "!General Encyclopedia/Companies/Stairwell Tower.md",
     "!General Encyclopedia/Companies/Skalit Kishinekin.md",
-    "!General Encyclopedia/Countries/Emirate of Biyaha.md",
-    "-Archive-Trash/ZHSRA.md"
+    "!General Encyclopedia/Countries/Emirate of Biyaha.md"
   ]
 }
