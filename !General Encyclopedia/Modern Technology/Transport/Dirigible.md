@@ -3,6 +3,17 @@ The **lift cage** compartment of a Dirigible is mostly nothing but normal air to
 Airships typically have what's known as a "channeler core."
 This central engine compartment is often the most protected section of the craft as it keeps it in the air and even if attacked it is customary to not ever harm the channeler, for obvious reasons.
 
+### Channeling
+**What is channeling used for?**
+
+Powering artifacts might sound cool, but the bad news is the vast majority of artifacts are either marginally or totally useless. See, artifacts are almost never _a complete device_. Artifacts are usually chunks of ancient machinery, bits of conduit, bits and bobs that are small enough to be pried off and carried out of the ruins. These can have useful properties, but they're usually not like…. airship-poweringly useful. The average artifact emits a bit of heat or light, perhaps makes lizards feel a certain way or produces a bit of thrust or kinetic motion. While artifacts with more useful properties exist (energy beams, shield projectors, engines etc) they are wildly expensive and difficult to get ahold of.
+
+**So how does the airship work?**
+
+An artifact engine is a misnomer. The airship isn't an artifact, and the engine itself is just a steam turbine. Only instead of coal or diesel-fed boilers, the heat is provided by an artifact that… gets very hot when powered. A skilled channeler sits in a special, cooled chamber (extended channeling heats up lizards bodies) and focuses all their energy on powering the artifact.
+
+An artifact engine requires a number of skilled artificers working in shifts. Lose concentration and let the thing suck too much energy through your body, and you will literally die of heatstroke or even explode, which is why high-power artifacts require a lot of skill and concentration.
+
 ### **Safety at Air**
 One of the most important safety systems on your dirigible is your set of navigation lights.
 
