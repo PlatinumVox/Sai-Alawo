@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "!General Encyclopedia/Currency/Rafanese Chits.md",
+            "file": "!General Encyclopedia/Culture/Marriage.md",
             "mode": "preview",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "!General Encyclopedia/Currency/Rafanese Chits.md",
+                "file": "!General Encyclopedia/Culture/Marriage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "7fb1d227604e5643",
   "lastOpenFiles": [
+    "!General Encyclopedia/Culture/Traditions, Manners & Etiquette/Universal Cultural Norms.md",
     "!General Encyclopedia/Currency/Rafanese Chits.md",
     "!General Encyclopedia/Currency/Sivik Links.md",
     "!General Encyclopedia/Currency/Mari Bartering.md",
@@ -96,7 +97,6 @@
     "Species Bestiary/Beasts/Desuri.md",
     "Species Bestiary/Ancient Descendants/Alboli.md",
     "Alawo Complete.md",
-    "Species Bestiary/Beasts/Wan-Martens.md",
-    "!General Encyclopedia/Modern Technology/Relic-Computer.md"
+    "Species Bestiary/Beasts/Wan-Martens.md"
   ]
 }
