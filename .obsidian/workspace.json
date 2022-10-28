@@ -13,24 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alawo Complete.md",
+                "file": "Species Bestiary/Beasts/Vilera.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "3081d1d8cf1a2ef8",
+            "id": "fa4a3a1be95de74a",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.0.3"
+                "file": "Species Bestiary/Beasts/Pangola.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bdbc8555a28614a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Species Bestiary/Ancient Machinery/Grief Steel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "483da09f7e080543",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alawo Complete.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -105,17 +131,17 @@
     "direction": "horizontal",
     "width": 206
   },
-  "active": "3081d1d8cf1a2ef8",
+  "active": "483da09f7e080543",
   "lastOpenFiles": [
-    "!General Encyclopedia/Ancient Technology/Ley Lines.md",
-    "!General Encyclopedia/Culture/Traditions, Manners & Etiquette/Alboli Traditions, Manners & Etiquette.md",
-    "!General Encyclopedia/Countries/Dahani Triumvirate.md",
-    "!General Encyclopedia/Companies/Akara & Kaizen.md",
-    "!General Encyclopedia/Culture/Marriage.md",
-    "!General Encyclopedia/Culture/Traditions, Manners & Etiquette/Universal Cultural Norms.md",
-    "!General Encyclopedia/Currency/Rafanese Chits.md",
-    "!General Encyclopedia/Currency/Sivik Links.md",
-    "!General Encyclopedia/Currency/Mari Bartering.md",
-    "!General Encyclopedia/Currency/Dhani Chips.md"
+    "-Archive-Trash/Lost Bloodlines/J'van.md",
+    "-Archive-Trash/Lost Bloodlines/The Ancients.md",
+    "Species Bestiary/Ecosystems/Chapparal.md",
+    "Species Bestiary/Ecosystems/Deciduous Forest.md",
+    "Species Bestiary/Beasts/Capral-Khaff.md",
+    "Species Bestiary/Beasts/Cactipine.md",
+    "Species Bestiary/Beasts/Arrow-Tongue Jikari.md",
+    "Species Bestiary/Ancient Descendants/Liocrae.md",
+    "Species Bestiary/Ancient Descendants/Relicborne.md",
+    "Species Bestiary/Ancient Descendants/Nephlim.md"
   ]
 }

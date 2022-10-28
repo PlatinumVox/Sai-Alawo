@@ -9,5 +9,3 @@ Voltaic-Things relating to the manipulation of electrical energy.
 Thermic-Thing relating to the manipulation of heat and cold.
 Vitus-The manipulation of plants and other nonhuman organisms.
 <MORE LATER>
-
-#plagueresistant
