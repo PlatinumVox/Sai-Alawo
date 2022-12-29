@@ -11,8 +11,12 @@
             "id": "d0ef0898f0220a27",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Languages/Albolian Language.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Languages/Albolian Language.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,15 +96,15 @@
   },
   "active": "d0ef0898f0220a27",
   "lastOpenFiles": [
+    "Languages/Kaltoran Language.md",
+    "Languages/Nephilim Language.md",
+    "Languages/Sanasian.md",
+    "Religions/Dark Liithos Mysticism.md",
+    "Religions/Followers of the Cycle.md",
     "Species Bestiary/Beasts/Vilera.md",
     "Species Bestiary/Beasts/Pangola.md",
     "Species Bestiary/Ancient Machinery/Grief Steel.md",
     "!General Encyclopedia/Organizations/Singers of Focus.md",
-    "!General Encyclopedia/Organizations/Amber Gleamers.md",
-    "Religions/Followers of the Cycle.md",
-    "Religions/Light Liithos Mysticism.md",
-    "!General Encyclopedia/Companies/Stairwell Tower.md",
-    "!General Encyclopedia/Organizations/Touch of Lens.md",
-    "!General Encyclopedia/Holidays/Zyphine's Night.md"
+    "!General Encyclopedia/Organizations/Amber Gleamers.md"
   ]
 }
