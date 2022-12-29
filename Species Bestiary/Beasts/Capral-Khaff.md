@@ -1,3 +1,5 @@
+![[2022-12-22 20_27_59-2s108utgm4c61.jpg (WEBP Image, 2700 × 1800 pixels) — Scaled (35%) — Mozilla Fire.png]]
+
 The Khaff is a llama-goat like animal, about 4-5 Feet tall, with big, wooly hair. They are kept, bred and used in central mountain regions of Alawo for their fur, Milk and Meat, and are a common animal in the cities of [[Dahani Triumvirate]].
 
 Traders also use them to transport goods trough rough and harsh terrains that have less oxygen, like Mountains.

@@ -4,59 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "03ed1e4762c44be6",
+        "id": "67f6fd6838deb290",
         "type": "tabs",
         "children": [
           {
-            "id": "7fb1d227604e5643",
+            "id": "9e8b5a019820a773",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Species Bestiary/Beasts/Vilera.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa4a3a1be95de74a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Species Bestiary/Beasts/Pangola.md",
+                "file": "!General Encyclopedia/Holidays/Selenpin.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bdbc8555a28614a5",
+            "id": "10a5574af937d57e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Species Bestiary/Ancient Machinery/Grief Steel.md",
+                "file": "!General Encyclopedia/Culture/Traditions, Manners & Etiquette/Alboli Traditions, Manners & Etiquette.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "483da09f7e080543",
+            "id": "403cc10fb9c02bbc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Alawo Complete.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.1.9"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "alawo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alawo Complete.md",
+                "file": "!General Encyclopedia/Culture/Traditions, Manners & Etiquette/Alboli Traditions, Manners & Etiquette.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,17 +117,26 @@
     "direction": "horizontal",
     "width": 206
   },
-  "active": "483da09f7e080543",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "403cc10fb9c02bbc",
   "lastOpenFiles": [
-    "-Archive-Trash/Lost Bloodlines/J'van.md",
-    "-Archive-Trash/Lost Bloodlines/The Ancients.md",
+    "!General Encyclopedia/Culture/Traditions, Manners & Etiquette/Nephilim Traditions, Manners & Etiquette.md",
+    "!General Encyclopedia/Culture/Traditions, Manners & Etiquette/Kaltoran Traditions, Manners & Etiquette.md",
+    "!General Encyclopedia/Ancient Technology/Artifacts.md",
+    "!General Encyclopedia/Holidays/Zyphine's Night.md",
+    "!General Encyclopedia/Holidays/Spring Masquerade.md",
+    "!General Encyclopedia/Holidays/Selenpin.md",
+    "!General Encyclopedia/Holidays/March of the Juggler.md",
     "Species Bestiary/Ecosystems/Chapparal.md",
-    "Species Bestiary/Ecosystems/Deciduous Forest.md",
-    "Species Bestiary/Beasts/Capral-Khaff.md",
-    "Species Bestiary/Beasts/Cactipine.md",
-    "Species Bestiary/Beasts/Arrow-Tongue Jikari.md",
-    "Species Bestiary/Ancient Descendants/Liocrae.md",
-    "Species Bestiary/Ancient Descendants/Relicborne.md",
-    "Species Bestiary/Ancient Descendants/Nephlim.md"
+    "Species Bestiary/Ecosystems/Eco Systems.md",
+    "Species Bestiary/Plants/Rottshroom.md"
   ]
 }

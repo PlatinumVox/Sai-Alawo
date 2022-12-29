@@ -1,1 +1,1 @@
-[[Kol]] is a radish-like fruit with an apple-like consistency.
+Kol is a tomato colored gourd with a pumpkin-like consistency. It is a unique and unusual fruit that is known for its distinctive appearance and flavor. The Kol fruit has a bright red skin that is smooth and glossy, and it has a dense, sweet flesh that is similar to that of a pumpkin. It is often used in cooking and baking, and it adds a unique flavor and texture to a variety of dishes.

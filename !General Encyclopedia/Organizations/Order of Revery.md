@@ -1,0 +1,11 @@
+Its members have dedicated themselves to traveling in order to provide healing and spiritual comfort to those in need, even if doing so might impoverish said member. Known for their red-dyed robes, members are called mending priests by those outside the order and mendicants by those within. The Order of Healing is a relatively new organization, but given that the core responsible for forming the group and drawing up its charter were [[Followers of the Cycle]] Priests, the Order of Healing has a wider reach than most fledgling organizations. The charter includes the order’s motto—an oath that every new member must swear by.
+
+The organization has grown from a handful of [[Kaltoran]] members into a dispersed group of several hundred. Each mendicant keeps individual records of those whom they have helped heal, as well as information regarding new therapies and healing methods. Some mending priests possess locus devices that help them in their mission, though many are simply good at tending wounds and nursing the sick back to health.
+
+If one wishes to devote themselves to the Order of Healing, they must swear to devote at least one month out of every twelve to traveling to an area known to be in need of healers (which could be nearby or in a different community altogether). These travels are called healing sabbaticals. Some mendicants spend six months or more out of every year on healing sabbaticals, and a very few never stop. Though the Order of Healing is fairly decentralized, there is a hierarchy and recognized leadership. Like its members, the leadership moves from place to place in a large caravan, usually setting up a camp of tents and temporary structures and spending one or two months in each location.
+
+$$MEMBERSHIP BENEFITS$$
+**Symbol:** Stylized heart at center of a double diamond 
+**Motto:** Selflessly provide aid to the sick, heal the wounds of the hurt, and render honor and dignity to the dying 
+**Badge of Membership:** Red robes and a pin bearing the symbol of the order 
+**Member Benefits:** Mendicants gain training in healing, either through actual practice or by the gift of an implant or other device. In addition, if a mendicant is killed, there is a good chance that the abbess’s caravan will appear within a month and hold a funerary ceremony for them.

@@ -1,3 +1,4 @@
+![[Arrow-Tongue Jikari.png]]
 Frog-like lizards with wide mouths and long, dexterous tongues, Jikari tend to attack from above, snaring their targets and whipping them around.
 
  Jikari can leap large distances with their powerful limbs, pulling snared targets with them.

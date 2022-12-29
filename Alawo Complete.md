@@ -24,7 +24,7 @@ This new society is built not only on the ruins of the J'van’s empire, but als
 
 
 ### Lost Bloodlines
-- [[J'van]]
+- [[-Archive-Trash/Lost Bloodlines/J'van]]
 - [[The Ancients]]
 
 *» What ruled before humanity?*
@@ -389,7 +389,7 @@ Great War and are not non existent as a result of the discovery of the uses of r
 
 ![[Tusker]]
 
-![[Wax Techician]]
+![[Artificer]]
 
 
 # Chapter Nine

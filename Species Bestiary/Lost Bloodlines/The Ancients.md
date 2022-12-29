@@ -1,0 +1,4 @@
+- Built the Ruins
+- Ruins are a massive continental mega city 
+- central continent not many valuable relics
+- north filled with rare relics in some locations

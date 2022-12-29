@@ -6,7 +6,7 @@ This central engine compartment is often the most protected section of the craft
 ### Channeling
 **What is channeling used for?**
 
-Powering artifacts might sound cool, but the bad news is the vast majority of artifacts are either marginally or totally useless. See, artifacts are almost never _a complete device_. Artifacts are usually chunks of ancient machinery, bits of conduit, bits and bobs that are small enough to be pried off and carried out of the ruins. These can have useful properties, but they're usually not like…. airship-poweringly useful. The average artifact emits a bit of heat or light, perhaps makes lizards feel a certain way or produces a bit of thrust or kinetic motion. While artifacts with more useful properties exist (energy beams, shield projectors, engines etc) they are wildly expensive and difficult to get ahold of.
+Powering artifacts might sound cool, but the bad news is the vast majority of artifacts are either marginally or totally useless. See, artifacts are almost never _a complete device_. Artifacts are usually chunks of ancient machinery, bits of conduit, bits and bobs that are small enough to be pried off and carried out of the ruins. These can have useful properties, but they're usually not like…. airship-poweringly useful. The average artifact emits a bit of heat or light, perhaps makes people feel a certain way or produces a bit of thrust or kinetic motion. While artifacts with more useful properties exist (energy beams, shield projectors, engines etc) they are wildly expensive and difficult to get ahold of.
 
 **So how does the airship work?**
 

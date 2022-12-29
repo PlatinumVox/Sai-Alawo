@@ -1,17 +1,5 @@
-Description
-description of how being a Wax Artificer works. also link to the Wax-Light Order's page, but idk how to do that.
-
-Wax Sub-Schools:
-Gravitus-Manipulation of gravitational and kinetic force.
-Amalgam-The combination of things and repair of nonliving objects.
-Medicus-Things relating to the posthuman body.
-Voltaic-Things relating to the manipulation of electrical energy.
-Thermic-Thing relating to the manipulation of heat and cold.
-Vitus-The manipulation of plants and other nonhuman organisms.
-<MORE LATER>
-
+![[CHANNEL.png]]
 **Washing**
-
 No two artifacts are alike. One can only make educated guesses about their properties by looking at them. Figuring out what an artifact DOES takes patience and careful documentation. Only when its characteristics have been thoroughly explored is the artifact safe to be used.
 
 **Exploration**
@@ -30,6 +18,7 @@ And then– implicitly– they reach DOWN, within themselves. And they make the 
 
 New artificers have to think about it every time, but experienced artificers just… do. It gets automatic.  An artificer can power a small artifact almost without thinking, with the same amount of effort it might take to flip a light switch.
 
+![[20221222_231905.png]]
 **Dangers of Washing**
 Most of the time, what you put into an artifact is proportional to what you get out of it. The artifact is taking the energy being pumped into it and… transforming it in some way. Less energy = less potential for things to go wrong.
 

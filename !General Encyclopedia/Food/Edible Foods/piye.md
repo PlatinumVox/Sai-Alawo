@@ -1,0 +1,2 @@
+
+A common pastry know as [[piye]] is made with rice flour, ground flower petal paste, and a sugary syrup. The rice dough is molded around the petal paste, then fried in oil. Once the dough expands into a circular shape, it is dipped into the syrup until fully coated.

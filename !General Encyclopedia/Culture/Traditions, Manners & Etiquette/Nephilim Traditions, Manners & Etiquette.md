@@ -12,9 +12,9 @@
 - tail jewelry
 	- bodily tail studs
 		- studs are often times used to signal that a Nephilim has had many successes in their chosen life profession
-		- For example a master [[Char]] may have dozens of studs on their tails representing every masterpiece recipe/restaurant that they have crafted
+		- For example a master [[Char]] may have dozens of studs on their tail representing every masterpiece recipe/restaurant that they have crafted
 	- Specialty jewerly signifies different life achievements
-	- Nephilim as a whole put more ephasis on representing sucess in their everyday life
+	- Nephilim as a whole put more ephasis on representing success in their everyday life
 
 ### Afterlife
 Nephilim will leave their corpses nearby major ruins to be eaten by Wan-Martens, Wretchbeaks and other scavengers. All of which they consider divine messengers who can take information (and souls) to the world of the Dreamers (The Ancients), skipping over Deliverers in [[Dark Liithos Mysticism]] and directly to be alongside The Great Confessor in the golden heavens of the ancients.
