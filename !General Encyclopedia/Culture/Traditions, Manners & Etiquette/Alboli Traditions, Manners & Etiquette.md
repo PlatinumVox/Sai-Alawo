@@ -16,6 +16,9 @@ If a healthy Alboli is slain in combat, old age, or by misadventure. The funeral
 
 If an Alboli is killed by disease or cowardice the bodies are left outside the encampment undisturbed until dried. Albolis regularly hold ceremonial bonpyres where they drink and feast and burn the dried bodies a top a large wooden structure to purify them of the disease that suffered them in life.
 
+### Written Traditions
+
+
 # Manners
 ### Lip Pointing
 While gestures of the hand are often subject to customary variation across cultures, few can claim this phenomenon extends to contortions of the mouth. In Sivik, it is common to point with the lips instead of the thumb or index finger like the majority of the world. Wondering just how exactly a person points with their lips? It all starts by puckering up. Once an Alboli has their duck face on, they can direct their lips forward or side-to-side to indicate what it is they’d like to point out. The lip point is typically used in conversation to indicate something that is happening nearby.

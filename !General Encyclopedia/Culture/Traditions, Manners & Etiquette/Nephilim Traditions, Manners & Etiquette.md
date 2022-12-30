@@ -19,6 +19,8 @@
 ### Afterlife
 Nephilim will leave their corpses nearby major ruins to be eaten by Wan-Martens, Wretchbeaks and other scavengers. All of which they consider divine messengers who can take information (and souls) to the world of the Dreamers (The Ancients), skipping over Deliverers in [[Dark Liithos Mysticism]] and directly to be alongside The Great Confessor in the golden heavens of the ancients.
 
+### Musical Traditions
+
 # Manners
 ### Your Job is not your Life
 I don’t know about you, but I hate when I’m having dinner with someone and all they want to talk about is work.

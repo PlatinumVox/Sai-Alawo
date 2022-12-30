@@ -20,6 +20,8 @@ Many Kaltorans spend their entire lives growing out and maintaining beautiful, l
 
 Kaltorans with a propensity for crime and being a disgrace may forgo the use of a veil or bonnet and instead sink their teeth deeper into a criminal underbelly. This is often perpetuated through the usage of an underground wig culture. Since for kaltorans value the length of their hair, criminal kaltorans may use wigs to hide their criminality. The usage of wigs if caught can be seen as an even harsher crime and is punished as such by authorities.
 
+### Dancing Traditions
+
 ### Importance of Color 
 A lot of Kaltoran color symbolism has been influenced by plays, with colors becoming associated with popular characters and later being used as a shorthand to invoke certain character archetypes to the audience. 
 
