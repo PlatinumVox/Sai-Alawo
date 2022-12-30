@@ -8,3 +8,7 @@ As the sun rises on the new day, the partygoers return home, exhausted but happy
 
 This celebration is partaken by all descendants across Alawo and is often seen as a time of coming together and reaching across the isle of differences.
 
+During this holiday, many are known to dye their clothes in colors of blue, antique gold, and coppery-orange. Many are also known to wear ceremonial, star-shaped masks. Cuisine commonly associated with the festival included barbecued insect alongside animal meats as well as juices and alcoholic beverages of a pink color. The event is seen as a celebration of life, the ancients, and their gifts upon the world. 
+
+### Descendant of Zyphine
+

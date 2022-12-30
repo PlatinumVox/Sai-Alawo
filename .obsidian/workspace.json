@@ -11,8 +11,12 @@
             "id": "dd9ad8b9857cb597",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "!General Encyclopedia/Currency/Dhani Chips.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "!General Encyclopedia/Currency/Dhani Chips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +105,15 @@
   },
   "active": "dd9ad8b9857cb597",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "!General Encyclopedia/Holidays/Selenpin.md",
-    "!General Encyclopedia/Culture/Traditions, Manners & Etiquette/Nephilim Traditions, Manners & Etiquette.md",
-    "!General Encyclopedia/Culture/Traditions, Manners & Etiquette/Kaltoran Traditions, Manners & Etiquette.md",
-    "!General Encyclopedia/Culture/Traditions, Manners & Etiquette/Alboli Traditions, Manners & Etiquette.md",
-    "!General Encyclopedia/Culture/Traditions, Manners & Etiquette/Universal Cultural Norms.md",
-    "conflict-files-obsidian-git.md",
+    "!General Encyclopedia/Culture/Kaltoran Reproduction.md",
+    "!General Encyclopedia/Culture/Marriage.md",
     "!General Encyclopedia/Ancient Technology/Artifacts.md",
-    "!General Encyclopedia/Holidays/Zyphine's Night.md",
-    "!General Encyclopedia/Holidays/Spring Masquerade.md"
+    "!General Encyclopedia/Ancient Technology/Ghosts.md",
+    "!General Encyclopedia/Ancient Technology/Ley Lines.md",
+    "!General Encyclopedia/Countries/Dahani Triumvirate.md",
+    "!General Encyclopedia/Countries/Emirate of Biyaha.md",
+    "!General Encyclopedia/Countries/Keshi Free Territory.md",
+    "!General Encyclopedia/Countries/Khaganate of Sivik.md",
+    "!General Encyclopedia/Items/dhāw.md"
   ]
 }
