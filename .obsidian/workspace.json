@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "!General Encyclopedia/Currency/Dhani Chips.md",
+                "file": "!General Encyclopedia/Culture/Traditions, Manners & Etiquette/Nephilim Traditions, Manners & Etiquette.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "35d309e8b3d37933",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "-Image Repository/Bodypainting.png"
               }
             }
           }
@@ -77,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "!General Encyclopedia/Currency/Dhani Chips.md",
+                "file": "!General Encyclopedia/Culture/Traditions, Manners & Etiquette/Nephilim Traditions, Manners & Etiquette.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,15 +115,15 @@
   },
   "active": "dd9ad8b9857cb597",
   "lastOpenFiles": [
-    "!General Encyclopedia/Culture/Kaltoran Reproduction.md",
-    "!General Encyclopedia/Culture/Marriage.md",
-    "!General Encyclopedia/Ancient Technology/Artifacts.md",
-    "!General Encyclopedia/Ancient Technology/Ghosts.md",
-    "!General Encyclopedia/Ancient Technology/Ley Lines.md",
-    "!General Encyclopedia/Countries/Dahani Triumvirate.md",
-    "!General Encyclopedia/Countries/Emirate of Biyaha.md",
-    "!General Encyclopedia/Countries/Keshi Free Territory.md",
-    "!General Encyclopedia/Countries/Khaganate of Sivik.md",
-    "!General Encyclopedia/Items/dhāw.md"
+    "!General Encyclopedia/Culture/Traditions, Manners & Etiquette/Kaltoran Traditions, Manners & Etiquette.md",
+    "!General Encyclopedia/Culture/Traditions, Manners & Etiquette/Nephilim Traditions, Manners & Etiquette.md",
+    "!General Encyclopedia/Culture/Traditions, Manners & Etiquette/Alboli Traditions, Manners & Etiquette.md",
+    "Languages/Ratšii.md",
+    "-Image Repository/Bodypainting.png",
+    "Languages/Neohùanshī.md",
+    "Species Bestiary/Beasts/Arrow-Tongue Jikari.md",
+    "Species Bestiary/Beasts/Baok.md",
+    "Species Bestiary/Beasts/Capral-Khaff.md",
+    "Species Bestiary/Beasts/Desuri.md"
   ]
 }
