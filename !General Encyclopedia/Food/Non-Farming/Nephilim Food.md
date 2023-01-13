@@ -4,7 +4,7 @@ In the Nephilim cuisine they eat a lot of barley bread, [[Capral-Khaff]] dairy p
 
 **Star Soup**
 
-[[Star soup]] is a milk or cream soup with vegetables and star shaped noodles. Sour star soup is a specific, very popular type of star soup which includes fermented vegetables. Pies are also very popular year round in the valley, both savory and sweet. A popular savory pie is mash pie, which is a pie filled with mashed potatoes and vegetables. 
+[[Star soup]] is a milk or cream soup with vegetables and termites and star shaped noodles. Sour star soup is a specific, very popular type of star soup which includes fermented vegetables. Pies are also very popular year round in the valley, both savory and sweet. A popular savory pie is mash pie, which is a pie filled with mashed potatoes and vegetables. 
 
 **Dessert**
 

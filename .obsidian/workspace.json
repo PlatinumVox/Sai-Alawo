@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "!General Encyclopedia/Modern Technology/Mycelium Furniture.md",
+                "file": "!General Encyclopedia/Food/Non-Farming/Kaltoran Food.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "!General Encyclopedia/Modern Technology/Mycelium Furniture.md",
+                "file": "!General Encyclopedia/Food/Non-Farming/Kaltoran Food.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
   },
   "active": "50910c69993b871a",
   "lastOpenFiles": [
-    "!General Encyclopedia/Ancient Technology/Artifacts.md",
-    "!General Encyclopedia/Ancient Technology/Ley Lines.md",
-    "!General Encyclopedia/Ancient Technology/Ghosts.md",
-    "Alawo Complete.md",
-    "Species Bestiary/Beasts/Capral-Khaff.md",
-    "Species Bestiary/Beasts/Baok.md",
-    "Species Bestiary/Beasts/Arrow-Tongue Jikari.md",
-    "!General Encyclopedia/Food/Edible Foods/Nil Nil Meat.md",
-    "!General Encyclopedia/Food/Edible Foods/Kol.md",
-    "!General Encyclopedia/Food/Edible Foods/Denya.md"
+    "!General Encyclopedia/Food/Non-Farming/Nephilim Food.md",
+    "!General Encyclopedia/Food/Non-Farming/Kaltoran Food.md",
+    "!General Encyclopedia/Food/Non-Farming/Alboli Food.md",
+    "Locations/White Gum Wastes.md",
+    "Locations/Eastern Seas.md",
+    "Locations/Chasm Gap.md",
+    "Locations/Lamacarres.md",
+    "!General Encyclopedia/The Unknowns.md",
+    "!General Encyclopedia/Professions/Artificer.md",
+    "!General Encyclopedia/Professions/Steep.md"
   ]
 }
