@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "!General Encyclopedia/Modern Technology/Transport/Dirigible.md",
+                "file": "Species Bestiary/Plants/Pattern Jugglers.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "!General Encyclopedia/Modern Technology/Transport/Dirigible.md",
+                "file": "Species Bestiary/Plants/Pattern Jugglers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,17 +103,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "50910c69993b871a",
+  "active": "7ed4f4c18eede241",
   "lastOpenFiles": [
+    "Religions/Dark Liithos Mysticism.md",
+    "Locations/Eastern Seas.md",
+    "!General Encyclopedia/Modern Technology/Relic-Computer.md",
+    "!General Encyclopedia/Modern Technology/Shopping.md",
+    "!General Encyclopedia/Culture/Nephilim Reproduction.md",
     "!General Encyclopedia/Culture/Kaltoran Reproduction.md",
     "!General Encyclopedia/Culture/Alboli Reproduction.md",
-    "!General Encyclopedia/Food/Non-Farming/Kaltoran Food.md",
-    "!General Encyclopedia/Food/Non-Farming/Nephilim Food.md",
-    "!General Encyclopedia/Food/Non-Farming/Alboli Food.md",
-    "Locations/White Gum Wastes.md",
-    "Locations/Eastern Seas.md",
-    "Locations/Chasm Gap.md",
-    "Locations/Lamacarres.md",
-    "!General Encyclopedia/The Unknowns.md"
+    "!General Encyclopedia/Culture/Traditions, Manners & Etiquette/Universal Cultural Norms.md",
+    "!General Encyclopedia/Culture/Traditions, Manners & Etiquette/Nephilim Traditions, Manners & Etiquette.md",
+    "!General Encyclopedia/Culture/Traditions, Manners & Etiquette/Kaltoran Traditions, Manners & Etiquette.md"
   ]
 }
