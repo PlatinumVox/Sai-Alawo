@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "!General Encyclopedia/Food/Non-Farming/Kaltoran Food.md",
+                "file": "!General Encyclopedia/Modern Technology/Transport/Dirigible.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "!General Encyclopedia/Food/Non-Farming/Kaltoran Food.md",
+                "file": "!General Encyclopedia/Modern Technology/Transport/Dirigible.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
   },
   "active": "50910c69993b871a",
   "lastOpenFiles": [
-    "!General Encyclopedia/Food/Non-Farming/Nephilim Food.md",
+    "!General Encyclopedia/Culture/Kaltoran Reproduction.md",
+    "!General Encyclopedia/Culture/Alboli Reproduction.md",
     "!General Encyclopedia/Food/Non-Farming/Kaltoran Food.md",
+    "!General Encyclopedia/Food/Non-Farming/Nephilim Food.md",
     "!General Encyclopedia/Food/Non-Farming/Alboli Food.md",
     "Locations/White Gum Wastes.md",
     "Locations/Eastern Seas.md",
     "Locations/Chasm Gap.md",
     "Locations/Lamacarres.md",
-    "!General Encyclopedia/The Unknowns.md",
-    "!General Encyclopedia/Professions/Artificer.md",
-    "!General Encyclopedia/Professions/Steep.md"
+    "!General Encyclopedia/The Unknowns.md"
   ]
 }
