@@ -11,8 +11,12 @@
             "id": "b08dac6cf1d3feb8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Species Bestiary/Beasts/Retchbeaks.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Species Bestiary/Beasts/Arrow-Tongue Jikari.md",
+                "file": "Species Bestiary/Beasts/Retchbeaks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,45 +103,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "floating": {
-    "id": "ee155c6dce01fc85",
-    "type": "floating",
-    "children": [
-      {
-        "id": "0bdda2245b1e7bce",
-        "type": "window",
-        "children": [
-          {
-            "id": "af5bd2693cc6f1eb",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "50910c69993b871a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Species Bestiary/Beasts/Arrow-Tongue Jikari.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1338,
-        "y": 11,
-        "width": 600,
-        "height": 1000,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "50910c69993b871a",
+  "active": "b08dac6cf1d3feb8",
   "lastOpenFiles": [
+    "Species Bestiary/Beasts/Arrow-Tongue Jikari.md",
     "Species Bestiary/Beasts/Baok.md",
     "Species Bestiary/Beasts/Capral-Khaff.md",
     "Species Bestiary/Beasts/Nil Nil.md",
@@ -146,7 +114,6 @@
     "Species Bestiary/Beasts/Lancetrap.md",
     "Species Bestiary/Beasts/Frostmite.md",
     "Species Bestiary/Beasts/Desuri.md",
-    "Species Bestiary/Beasts/Wan-Martens.md",
-    "Species Bestiary/Beasts/Retchbeaks.md"
+    "Species Bestiary/Beasts/Wan-Martens.md"
   ]
 }
